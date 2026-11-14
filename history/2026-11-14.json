@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "day": "2026-11-14",
+  "day_label": "Thứ 7, 14/11/2026",
+  "updated_label": "11:28 ngày 14/11/2026",
+  "provisional": true,
+  "source_note": "Ca 1 ngày 14/11/2026 đến 11:28 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị.",
+  "totals": {
+    "revenue": 231250,
+    "invoices": 5,
+    "items": 7
+  },
+  "ca1": {
+    "revenue": 231250,
+    "invoices": 5,
+    "items": 0,
+    "closed": false
+  },
+  "ca2": {
+    "revenue": 0,
+    "invoices": 0,
+    "items": 0,
+    "closed": false
+  },
+  "drinks": {
+    "qty": 2,
+    "revenue": 34000
+  },
+  "views": {
+    "ca_ngay": [
+      {
+        "name": "Không có danh mục",
+        "qty": 5,
+        "revenue": 197250,
+        "items": [
+          {
+            "name": "Giờ Thường",
+            "qty": 4,
+            "revenue": 150000,
+            "unit": "lượt"
+          },
+          {
+            "name": "Giờ Vip",
+            "qty": 1,
+            "revenue": 47250,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Uống",
+        "qty": 2,
+        "revenue": 34000,
+        "items": [
+          {
+            "name": "Bò Húc",
+            "qty": 2,
+            "revenue": 34000,
+            "unit": "chai/lon"
+          }
+        ]
+      }
+    ],
+    "ca1": [],
+    "ca2": []
+  },
+  "costs": {},
+  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn."
+}

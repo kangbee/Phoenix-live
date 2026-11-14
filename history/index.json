@@ -1,6 +1,10 @@
 {
   "days": [
     {
+      "day": "2026-11-14",
+      "has_detail": true
+    },
+    {
       "day": "2026-11-13",
       "has_detail": true
     },

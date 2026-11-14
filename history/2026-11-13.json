@@ -2,13 +2,13 @@
   "schema": 1,
   "day": "2026-11-13",
   "day_label": "Thứ 6, 13/11/2026",
-  "updated_label": "00:13 ngày 14/11/2026",
-  "provisional": true,
-  "source_note": "Số đến 00:13 ngày 14/11/2026, chưa phải tổng chốt ngày — Ca 2 vẫn đang chạy; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị. Số món theo ca và nước xuất theo ca chưa tách được từ Sapo nên đang để 0, sẽ bổ sung khi chốt ngày lúc 07:15.",
+  "updated_label": "11:28 ngày 14/11/2026",
+  "provisional": false,
+  "source_note": "Số đã chốt ngày 13/11/2026, đọc lúc 11:28 ngày 14/11/2026 từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên cũ hết hạn, người dùng tự đăng nhập lại).",
   "totals": {
-    "revenue": 2331500,
-    "invoices": 27,
-    "items": 68
+    "revenue": 2391500,
+    "invoices": 29,
+    "items": 70
   },
   "ca1": {
     "revenue": 1058250,
@@ -17,10 +17,10 @@
     "closed": true
   },
   "ca2": {
-    "revenue": 1273250,
-    "invoices": 14,
+    "revenue": 1333250,
+    "invoices": 16,
     "items": 0,
-    "closed": false
+    "closed": true
   },
   "drinks": {
     "qty": 25,
@@ -30,19 +30,13 @@
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 31,
-        "revenue": 1669500,
+        "qty": 32,
+        "revenue": 1709500,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 8,
-            "revenue": 406000,
-            "unit": "lượt"
-          },
-          {
-            "name": "Combo 79",
-            "qty": 5,
-            "revenue": 473000,
+            "qty": 9,
+            "revenue": 446000,
             "unit": "lượt"
           },
           {
@@ -55,6 +49,12 @@
             "name": "Giờ Vip",
             "qty": 6,
             "revenue": 346500,
+            "unit": "lượt"
+          },
+          {
+            "name": "Combo 79",
+            "qty": 5,
+            "revenue": 473000,
             "unit": "lượt"
           },
           {
@@ -95,15 +95,21 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Trà Vải Joco",
-            "qty": 2,
-            "revenue": 30000,
-            "unit": "chai/lon"
-          },
-          {
             "name": "Latte Caramen",
             "qty": 2,
             "revenue": 32000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Number One",
+            "qty": 2,
+            "revenue": 32000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Trà Vải Joco",
+            "qty": 2,
+            "revenue": 30000,
             "unit": "chai/lon"
           },
           {
@@ -116,12 +122,6 @@
             "name": "Nước Lọc",
             "qty": 2,
             "revenue": 20000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Number One",
-            "qty": 2,
-            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -146,8 +146,8 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 9,
-        "revenue": 240000,
+        "qty": 10,
+        "revenue": 260000,
         "items": [
           {
             "name": "Saigon Dưa Lưới",
@@ -157,8 +157,8 @@
           },
           {
             "name": "Thăng Long",
-            "qty": 3,
-            "revenue": 60000,
+            "qty": 4,
+            "revenue": 80000,
             "unit": "bao"
           }
         ]
@@ -169,22 +169,82 @@
         "revenue": 39000,
         "items": [
           {
-            "name": "Cơ Thuê",
-            "qty": 1,
-            "revenue": 29000,
-            "unit": "lần"
-          },
-          {
             "name": "Bật Lửa",
             "qty": 2,
             "revenue": 10000,
             "unit": "cái"
+          },
+          {
+            "name": "Cơ Thuê",
+            "qty": 1,
+            "revenue": 29000,
+            "unit": "lần"
           }
         ]
       }
     ],
     "ca1": [],
     "ca2": []
+  },
+  "month": {
+    "label": "Tháng 11/2026 lũy kế",
+    "revenue": 46704900,
+    "invoices": 451,
+    "note": "Tính đến hết ngày vận hành 13/11/2026",
+    "daily": [
+      {
+        "date": "01/11",
+        "revenue": 4289750
+      },
+      {
+        "date": "02/11",
+        "revenue": 1515750
+      },
+      {
+        "date": "03/11",
+        "revenue": 2110250
+      },
+      {
+        "date": "04/11",
+        "revenue": 2961250
+      },
+      {
+        "date": "05/11",
+        "revenue": 3606250
+      },
+      {
+        "date": "06/11",
+        "revenue": 5375000
+      },
+      {
+        "date": "07/11",
+        "revenue": 9631900
+      },
+      {
+        "date": "08/11",
+        "revenue": 5323250
+      },
+      {
+        "date": "09/11",
+        "revenue": 2573000
+      },
+      {
+        "date": "10/11",
+        "revenue": 1958750
+      },
+      {
+        "date": "11/11",
+        "revenue": 2405250
+      },
+      {
+        "date": "12/11",
+        "revenue": 2563000
+      },
+      {
+        "date": "13/11",
+        "revenue": 2391500
+      }
+    ]
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn."
