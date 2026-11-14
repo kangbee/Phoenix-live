@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "day": "2026-11-05",
+  "day_label": "Thứ 5, 05/11/2026",
+  "updated_label": "07:15 ngày 06/11/2026",
+  "provisional": false,
+  "source_note": "Số đã chốt ngày 05/11/2026, quét từ báo cáo Sapo FnB qua phiên đăng nhập quản trị.",
+  "totals": {
+    "revenue": 3606250,
+    "invoices": 52,
+    "items": 114
+  },
+  "ca1": {
+    "revenue": 1911750,
+    "invoices": 28,
+    "items": 0,
+    "closed": true
+  },
+  "ca2": {
+    "revenue": 1694500,
+    "invoices": 24,
+    "items": 0,
+    "closed": true
+  },
+  "drinks": {
+    "qty": 44,
+    "revenue": 589000
+  },
+  "views": {
+    "ca_ngay": [
+      {
+        "name": "Không có danh mục",
+        "qty": 52,
+        "revenue": 2646250,
+        "items": [
+          {
+            "name": "Giờ Thường",
+            "qty": 18,
+            "revenue": 1162000,
+            "unit": "lượt"
+          },
+          {
+            "name": "Combo HS",
+            "qty": 12,
+            "revenue": 622000,
+            "unit": "lượt"
+          },
+          {
+            "name": "Giờ Vip",
+            "qty": 8,
+            "revenue": 353250,
+            "unit": "lượt"
+          },
+          {
+            "name": "Combo 39",
+            "qty": 5,
+            "revenue": 205000,
+            "unit": "lượt"
+          },
+          {
+            "name": "Combo 79",
+            "qty": 2,
+            "revenue": 218000,
+            "unit": "lượt"
+          },
+          {
+            "name": "VELA ruốc",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "cái"
+          },
+          {
+            "name": "VELA to",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "cái"
+          },
+          {
+            "name": "Bimbim Oishi",
+            "qty": 2,
+            "revenue": 16000,
+            "unit": "gói"
+          },
+          {
+            "name": "Bimbim Lays",
+            "qty": 1,
+            "revenue": 10000,
+            "unit": "gói"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Uống",
+        "qty": 44,
+        "revenue": 589000,
+        "items": [
+          {
+            "name": "Bò Húc",
+            "qty": 10,
+            "revenue": 170000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Tiền Hải Ngọt",
+            "qty": 10,
+            "revenue": 100000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Nước Lọc",
+            "qty": 9,
+            "revenue": 90000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Warriod Nho",
+            "qty": 3,
+            "revenue": 45000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Number One",
+            "qty": 2,
+            "revenue": 32000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Trà Vải Joco",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Sting Đỏ",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Boncha Ô Long Đào",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Boncha Yuzu",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Trà Boncha Vị Tắc",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "O độ",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Mãng Cầu",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Joco Đào",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          }
+        ]
+      },
+      {
+        "name": "Thuốc Lá",
+        "qty": 8,
+        "revenue": 165000,
+        "items": [
+          {
+            "name": "Thăng Long",
+            "qty": 7,
+            "revenue": 140000,
+            "unit": "bao"
+          },
+          {
+            "name": "Saigon Bạc",
+            "qty": 1,
+            "revenue": 25000,
+            "unit": "bao"
+          }
+        ]
+      },
+      {
+        "name": "Khác",
+        "qty": 6,
+        "revenue": 174000,
+        "items": [
+          {
+            "name": "Cơ Thuê",
+            "qty": 6,
+            "revenue": 174000,
+            "unit": "lần"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Ăn",
+        "qty": 4,
+        "revenue": 32000,
+        "items": [
+          {
+            "name": "VELA SANWICH",
+            "qty": 4,
+            "revenue": 32000,
+            "unit": "cái"
+          }
+        ]
+      }
+    ],
+    "ca1": [],
+    "ca2": []
+  },
+  "month": {
+    "label": "Tháng 11/2026 lũy kế",
+    "revenue": 14483250,
+    "invoices": 169,
+    "note": "Tính đến hết ngày vận hành 05/11/2026",
+    "daily": [
+      {
+        "date": "01/11",
+        "revenue": 4289750
+      },
+      {
+        "date": "02/11",
+        "revenue": 1515750
+      },
+      {
+        "date": "03/11",
+        "revenue": 2110250
+      },
+      {
+        "date": "04/11",
+        "revenue": 2961250
+      },
+      {
+        "date": "05/11",
+        "revenue": 3606250
+      }
+    ]
+  },
+  "costs": {},
+  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn."
+}
