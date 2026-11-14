@@ -2,17 +2,17 @@
   "schema": 1,
   "day": "2026-11-14",
   "day_label": "Thứ 7, 14/11/2026",
-  "updated_label": "11:28 ngày 14/11/2026",
+  "updated_label": "11:55 ngày 14/11/2026",
   "provisional": true,
-  "source_note": "Ca 1 ngày 14/11/2026 đến 11:28 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị.",
+  "source_note": "Ca 1 ngày 14/11/2026 đến 11:55 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (người dùng đăng nhập bằng OTP lúc 11:55).",
   "totals": {
-    "revenue": 231250,
-    "invoices": 5,
-    "items": 7
+    "revenue": 368250,
+    "invoices": 6,
+    "items": 11
   },
   "ca1": {
-    "revenue": 231250,
-    "invoices": 5,
+    "revenue": 368250,
+    "invoices": 6,
     "items": 0,
     "closed": false
   },
@@ -23,20 +23,20 @@
     "closed": false
   },
   "drinks": {
-    "qty": 2,
-    "revenue": 34000
+    "qty": 4,
+    "revenue": 66000
   },
   "views": {
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 5,
-        "revenue": 197250,
+        "qty": 7,
+        "revenue": 302250,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 4,
-            "revenue": 150000,
+            "qty": 5,
+            "revenue": 240000,
             "unit": "lượt"
           },
           {
@@ -44,18 +44,30 @@
             "qty": 1,
             "revenue": 47250,
             "unit": "lượt"
+          },
+          {
+            "name": "VELA to",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "cái"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 2,
-        "revenue": 34000,
+        "qty": 4,
+        "revenue": 66000,
         "items": [
           {
             "name": "Bò Húc",
             "qty": 2,
             "revenue": 34000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Nutri Dâu",
+            "qty": 2,
+            "revenue": 32000,
             "unit": "chai/lon"
           }
         ]
