@@ -2,9 +2,9 @@
   "schema": 1,
   "day": "2026-11-14",
   "day_label": "Thứ 7, 14/11/2026",
-  "updated_label": "12:08 ngày 14/11/2026",
+  "updated_label": "12:22 ngày 14/11/2026",
   "provisional": true,
-  "source_note": "Ca 1 ngày 14/11/2026 đến 12:08 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (người dùng đăng nhập bằng OTP lúc 11:55; quét lại lúc 12:08, số không đổi, hóa đơn mới nhất 11:41).",
+  "source_note": "Ca 1 ngày 14/11/2026 đến 12:22 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lại lúc 12:22, số không đổi so với 11:55, hóa đơn mới nhất 11:41).",
   "totals": {
     "revenue": 368250,
     "invoices": 6,
