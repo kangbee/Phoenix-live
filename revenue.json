@@ -2,17 +2,17 @@
   "schema": 1,
   "day": "2026-11-14",
   "day_label": "Thứ 7, 14/11/2026",
-  "updated_label": "12:22 ngày 14/11/2026",
+  "updated_label": "12:28 ngày 14/11/2026",
   "provisional": true,
-  "source_note": "Ca 1 ngày 14/11/2026 đến 12:22 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lại lúc 12:22, số không đổi so với 11:55, hóa đơn mới nhất 11:41).",
+  "source_note": "Ca 1 ngày 14/11/2026 đến 12:28 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 12:28, thêm 1 hóa đơn 12:26 — 32.000đ, Bàn Chơi - 6, so với 12:22).",
   "totals": {
-    "revenue": 368250,
-    "invoices": 6,
-    "items": 11
+    "revenue": 400250,
+    "invoices": 7,
+    "items": 12
   },
   "ca1": {
-    "revenue": 368250,
-    "invoices": 6,
+    "revenue": 400250,
+    "invoices": 7,
     "items": 0,
     "closed": false
   },
@@ -30,13 +30,13 @@
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 7,
-        "revenue": 302250,
+        "qty": 8,
+        "revenue": 334250,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 5,
-            "revenue": 240000,
+            "qty": 6,
+            "revenue": 272000,
             "unit": "lượt"
           },
           {
