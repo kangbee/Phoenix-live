@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 16:40 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:39–16:40, live TĂNG 3.107.250đ/27 HĐ/92 món so với quét 16:34 — thêm HĐ 2400003786 lúc 16:37, 176.750đ, Bàn Chơi - 11: Giờ Vip +1 lượt 132.750đ, Nước Lọc +2 20.000đ, Latte Caramen +1 16.000đ, VELA SANWICH +1 8.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/84.500đ — vẫn 6 đơn nhưng giảm 138.750đ so với 16:34, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 16:46 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:44–16:46, live KHÔNG ĐỔI 3.107.250đ/27 HĐ/92 món so với quét 16:40, HĐ mới nhất vẫn 2400003786 lúc 16:37; Nutri Dâu xác nhận 1 × 16.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 8/192.500đ — tăng 2 đơn/108.000đ so với 16:40, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
   "invoices": 27,
   "items": 92,
   "revenue": 3107250
  },
  "unpaid": {
-  "checked_at": "16:40 ngày 15/11/2026",
+  "checked_at": "16:46 ngày 15/11/2026",
   "unfinished": {
-   "count": 6,
-   "total": 84500,
+   "count": 8,
+   "total": 192500,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 6,
-     "total": 84500
+     "count": 8,
+     "total": 192500
     },
     {
      "channel": "Mang đi",
@@ -57,7 +57,7 @@
   },
   "orders": []
  },
- "updated_label": "16:40 ngày 15/11/2026",
+ "updated_label": "16:46 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
