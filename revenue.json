@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 19,
-  "items": 50,
-  "revenue": 1447750
+  "invoices": 21,
+  "items": 55,
+  "revenue": 1742000
  },
  "ca2": {
   "closed": false,
@@ -16,26 +16,26 @@
  "day": "2026-11-15",
  "day_label": "Chủ nhật, 15/11/2026",
  "drinks": {
-  "qty": 20,
-  "revenue": 307000
+  "qty": 21,
+  "revenue": 322000
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 15:38 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 15:35–15:38, live không đổi 1.447.750đ/19 HĐ/50 món so với quét 15:32, HĐ mới nhất vẫn 2400003778 lúc 15:31; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 11/1.112.500đ — tăng 2 đơn/4.500đ so với 15:32, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 15:47 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 15:45–15:47, live tăng 294.250đ/2 HĐ/5 món so với quét 15:38 — Giờ Thường +1 lượt 102.000đ, Giờ Vip +1 lượt 119.250đ, Cơ Thuê +2 lượt 58.000đ, ICE Trà Đào +1 15.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 9/920.000đ — giảm 2 đơn/192.500đ so với 15:38, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 19,
-  "items": 50,
-  "revenue": 1447750
+  "invoices": 21,
+  "items": 55,
+  "revenue": 1742000
  },
  "unpaid": {
-  "checked_at": "15:38 ngày 15/11/2026",
+  "checked_at": "15:47 ngày 15/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 11,
-     "total": 1112500
+     "count": 9,
+     "total": 920000
     },
     {
      "channel": "Mang đi",
@@ -53,11 +53,11 @@
      "total": 0
     }
    ],
-   "count": 11,
-   "total": 1112500
+   "count": 9,
+   "total": 920000
   }
  },
- "updated_label": "15:38 ngày 15/11/2026",
+ "updated_label": "15:47 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -66,20 +66,20 @@
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 12,
-      "revenue": 646000,
+      "qty": 13,
+      "revenue": 748000,
       "unit": "lượt"
      },
      {
       "name": "Giờ Vip",
-      "qty": 6,
-      "revenue": 249750,
+      "qty": 7,
+      "revenue": 369000,
       "unit": "lượt"
      },
      {
       "name": "Cơ Thuê",
-      "qty": 4,
-      "revenue": 116000,
+      "qty": 6,
+      "revenue": 174000,
       "unit": "lượt"
      },
      {
@@ -96,15 +96,15 @@
      }
     ],
     "name": "Không có danh mục",
-    "qty": 25,
-    "revenue": 1091750
+    "qty": 29,
+    "revenue": 1371000
    },
    {
     "items": [
      {
       "name": "ICE Trà Đào",
-      "qty": 2,
-      "revenue": 30000,
+      "qty": 3,
+      "revenue": 45000,
       "unit": "chai/lon"
      },
      {
@@ -169,8 +169,8 @@
      }
     ],
     "name": "Đồ Uống",
-    "qty": 20,
-    "revenue": 307000
+    "qty": 21,
+    "revenue": 322000
    },
    {
     "items": [
