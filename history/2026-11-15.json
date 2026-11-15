@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 5,
-    "items": 8,
-    "revenue": 287500
+    "invoices": 6,
+    "items": 10,
+    "revenue": 377250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,21 +21,21 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 20:54–21:00 ngày 15/11/2026 — live TĂNG so với quét 20:50 (tổng ngày 4.130.500đ/40 HĐ/120 món, +90.000đ/1 HĐ/1 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 287.500đ/5 HĐ/8 món, HĐ mới nhất 2400003799 lúc 20:53); đơn chưa hoàn tất 9/350.750đ (Tại bàn, số đơn không đổi, tăng 126.750đ so với 20:50), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 21:05–21:08 ngày 15/11/2026 — live TĂNG so với quét 21:00 (tổng ngày 4.220.250đ/41 HĐ/122 món, +89.750đ/1 HĐ/2 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 377.250đ/6 HĐ/10 món, HĐ mới nhất 2400003800 lúc 21:04); đơn chưa hoàn tất 8/451.500đ (Tại bàn, giảm 1 đơn nhưng tăng 100.750đ so với 21:00), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 40,
-    "items": 120,
-    "revenue": 4130500
+    "invoices": 41,
+    "items": 122,
+    "revenue": 4220250
   },
   "unpaid": {
-    "checked_at": "21:00 ngày 15/11/2026",
+    "checked_at": "21:08 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 9,
-          "total": 350750
+          "count": 8,
+          "total": 451500
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 9,
-      "total": 350750
+      "count": 8,
+      "total": 451500
     }
   },
-  "updated_label": "21:00 ngày 15/11/2026",
+  "updated_label": "21:08 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -72,8 +72,8 @@
           },
           {
             "name": "Giờ Vip",
-            "qty": 13,
-            "revenue": 814500,
+            "qty": 14,
+            "revenue": 884250,
             "unit": "lượt"
           },
           {
@@ -90,8 +90,8 @@
           },
           {
             "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
+            "qty": 3,
+            "revenue": 60000,
             "unit": "cái"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 63,
-        "revenue": 3383500
+        "qty": 65,
+        "revenue": 3473250
       },
       {
         "items": [
