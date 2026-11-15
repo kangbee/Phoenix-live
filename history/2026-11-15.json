@@ -21,14 +21,14 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Ca 1 ngày 15/11/2026 đến 18:31 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 18:30–18:31, live KHÔNG ĐỔI so với quét 18:27: 3.843.000đ/35 HĐ/112 món, HĐ mới nhất 2400003794 lúc 18:17; Giờ Thường 23 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0/0đ, chờ xác nhận thanh toán 0, ghi nợ 0).",
+  "source_note": "Ca 1 ngày 15/11/2026 đến 18:37 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 18:35–18:37, live KHÔNG ĐỔI so với quét 18:31: 3.843.000đ/35 HĐ/112 món, HĐ mới nhất 2400003794 lúc 18:17; Giờ Thường 23 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0/0đ, chờ xác nhận thanh toán 0, ghi nợ 0).",
   "totals": {
     "invoices": 35,
     "items": 112,
     "revenue": 3843000
   },
   "unpaid": {
-    "checked_at": "18:31 ngày 15/11/2026",
+    "checked_at": "18:37 ngày 15/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "18:31 ngày 15/11/2026",
+  "updated_label": "18:37 ngày 15/11/2026",
   "views": {
     "ca_ngay": [
       {
