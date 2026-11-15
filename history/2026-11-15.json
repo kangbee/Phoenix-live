@@ -7,35 +7,35 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 6,
-    "items": 10,
-    "revenue": 377250
+    "invoices": 7,
+    "items": 12,
+    "revenue": 412250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-15",
   "day_label": "Chủ nhật, 15/11/2026",
   "drinks": {
-    "qty": 42,
-    "revenue": 595000
+    "qty": 43,
+    "revenue": 610000
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 21:15–21:18 ngày 15/11/2026 — live KHÔNG ĐỔI so với quét 21:08 (tổng ngày 4.220.250đ/41 HĐ/122 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 377.250đ/6 HĐ/10 món, HĐ mới nhất 2400003800 lúc 21:04); đơn chưa hoàn tất 8/536.500đ (Tại bàn, không đổi số đơn nhưng tăng 85.000đ so với 21:08), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 21:23–21:29 ngày 15/11/2026 — live TĂNG so với quét 21:18 (tổng ngày 4.255.250đ/42 HĐ/124 món, +35.000đ/1 HĐ/2 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 412.250đ/7 HĐ/12 món, HĐ mới nhất 2400003801 lúc 21:19, 35.000đ); đơn chưa hoàn tất 9/538.750đ (Tại bàn, tăng 1 đơn/2.250đ so với 21:18), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 41,
-    "items": 122,
-    "revenue": 4220250
+    "invoices": 42,
+    "items": 124,
+    "revenue": 4255250
   },
   "unpaid": {
-    "checked_at": "21:18 ngày 15/11/2026",
+    "checked_at": "21:29 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 8,
-          "total": 536500
+          "count": 9,
+          "total": 538750
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 8,
-      "total": 536500
+      "count": 9,
+      "total": 538750
     }
   },
-  "updated_label": "21:18 ngày 15/11/2026",
+  "updated_label": "21:29 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -90,8 +90,8 @@
           },
           {
             "name": "Thăng Long",
-            "qty": 3,
-            "revenue": 60000,
+            "qty": 4,
+            "revenue": 80000,
             "unit": "cái"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 65,
-        "revenue": 3473250
+        "qty": 66,
+        "revenue": 3493250
       },
       {
         "items": [
@@ -196,11 +196,17 @@
             "qty": 2,
             "revenue": 20000,
             "unit": "chai/lon"
+          },
+          {
+            "name": "Sting Vàng",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
           }
         ],
         "name": "Đồ Uống",
-        "qty": 42,
-        "revenue": 595000
+        "qty": 43,
+        "revenue": 610000
       },
       {
         "items": [
