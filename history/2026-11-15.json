@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 13,
+  "invoices": 14,
   "items": 0,
-  "revenue": 867250
+  "revenue": 941250
  },
  "ca2": {
   "closed": false,
@@ -16,26 +16,26 @@
  "day": "2026-11-15",
  "day_label": "Chủ nhật, 15/11/2026",
  "drinks": {
-  "qty": 9,
-  "revenue": 139000
+  "qty": 11,
+  "revenue": 165000
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 14:10 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 14:07–14:10, cả ngày 867.250đ/13 HĐ/32 món, không đổi so với quét 14:04; Ca 1 867.250đ/13 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 11/945.500đ — tăng 153.250đ so với 14:04, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 14:16 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 14:14–14:16, cả ngày 941.250đ/14 HĐ/35 món, tăng 74.000đ/1 HĐ/3 món so với quét 14:10 — thêm HĐ 2400003773 lúc 14:11, Bàn Chơi -4; Ca 1 941.250đ/14 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 11/917.500đ — giảm 28.000đ so với 14:10, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 13,
-  "items": 32,
-  "revenue": 867250
+  "invoices": 14,
+  "items": 35,
+  "revenue": 941250
  },
  "unpaid": {
-  "checked_at": "14:10 ngày 15/11/2026",
+  "checked_at": "14:16 ngày 15/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 11,
-     "total": 945500
+     "total": 917500
     },
     {
      "channel": "Mang đi",
@@ -54,10 +54,10 @@
     }
    ],
    "count": 11,
-   "total": 945500
+   "total": 917500
   }
  },
- "updated_label": "14:10 ngày 15/11/2026",
+ "updated_label": "14:16 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -66,8 +66,8 @@
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 10,
-      "revenue": 468000,
+      "qty": 11,
+      "revenue": 516000,
       "unit": "lượt"
      },
      {
@@ -96,8 +96,8 @@
      }
     ],
     "name": "Không có danh mục",
-    "qty": 18,
-    "revenue": 679250
+    "qty": 19,
+    "revenue": 727250
    },
    {
     "items": [
@@ -115,6 +115,12 @@
      },
      {
       "name": "Nutri Dâu",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Latte Trà Sữa",
       "qty": 1,
       "revenue": 16000,
       "unit": "chai/lon"
@@ -142,11 +148,17 @@
       "qty": 1,
       "revenue": 15000,
       "unit": "chai/lon"
+     },
+     {
+      "name": "Nước Lọc",
+      "qty": 1,
+      "revenue": 10000,
+      "unit": "chai/lon"
      }
     ],
     "name": "Đồ Uống",
-    "qty": 9,
-    "revenue": 139000
+    "qty": 11,
+    "revenue": 165000
    },
    {
     "items": [
