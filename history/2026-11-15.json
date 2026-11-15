@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 12,
+  "invoices": 13,
   "items": 0,
-  "revenue": 865000
+  "revenue": 867250
  },
  "ca2": {
   "closed": false,
@@ -21,21 +21,21 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 13:08 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 13:04–13:08, cả ngày 865.000đ/12 HĐ/31 món, tăng 60.000đ/1 HĐ/1 món so với quét 13:00 — thêm HĐ 2400003771 lúc 13:05; Ca 1 865.000đ/12 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/434.500đ — tăng từ 356.250đ lúc 13:00, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 13:16 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 13:12–13:16, cả ngày 867.250đ/13 HĐ/32 món, tăng 2.250đ/1 HĐ/1 món so với quét 13:08 — thêm HĐ 2400003772 lúc 13:13; Ca 1 867.250đ/13 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 9/473.750đ — tăng từ 6/434.500đ lúc 13:08, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 12,
-  "items": 31,
-  "revenue": 865000
+  "invoices": 13,
+  "items": 32,
+  "revenue": 867250
  },
  "unpaid": {
-  "checked_at": "13:08 ngày 15/11/2026",
+  "checked_at": "13:16 ngày 15/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 6,
-     "total": 434500
+     "count": 9,
+     "total": 473750
     },
     {
      "channel": "Mang đi",
@@ -53,11 +53,11 @@
      "total": 0
     }
    ],
-   "count": 6,
-   "total": 434500
+   "count": 9,
+   "total": 473750
   }
  },
- "updated_label": "13:08 ngày 15/11/2026",
+ "updated_label": "13:16 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -72,8 +72,8 @@
      },
      {
       "name": "Giờ Vip",
-      "qty": 2,
-      "revenue": 72000,
+      "qty": 3,
+      "revenue": 74250,
       "unit": "lượt"
      },
      {
@@ -96,8 +96,8 @@
      }
     ],
     "name": "Không có danh mục",
-    "qty": 17,
-    "revenue": 677000
+    "qty": 18,
+    "revenue": 679250
    },
    {
     "items": [
