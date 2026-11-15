@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 30,
-  "items": 95,
-  "revenue": 3270000
+  "invoices": 31,
+  "items": 96,
+  "revenue": 3314000
  },
  "ca2": {
   "closed": false,
@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 17:14 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:10–17:14, live TĂNG +72.000đ/+1 HĐ/+1 món so với quét 17:08: 3.270.000đ/30 HĐ/95 món, HĐ mới nhất 2400003789 lúc 17:08, Bàn Chơi - 10, Giờ Vip 72.000đ; Giờ Thường 18 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 5/257.000đ — giảm 1 đơn/2.250đ so với 17:08, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 17:18 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:16–17:18, live TĂNG +44.000đ/+1 HĐ/+1 món so với quét 17:14: 3.314.000đ/31 HĐ/96 món, HĐ mới nhất 2400003790 lúc 17:14, Bàn Chơi - 6, Giờ Thường 44.000đ; Giờ Thường 19 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 4/255.000đ — giảm 1 đơn/2.000đ so với 17:14, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 30,
-  "items": 95,
-  "revenue": 3270000
+  "invoices": 31,
+  "items": 96,
+  "revenue": 3314000
  },
  "unpaid": {
-  "checked_at": "17:14 ngày 15/11/2026",
+  "checked_at": "17:19 ngày 15/11/2026",
   "unfinished": {
-   "count": 5,
-   "total": 257000,
+   "count": 4,
+   "total": 255000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 5,
-     "total": 257000
+     "count": 4,
+     "total": 255000
     },
     {
      "channel": "Mang đi",
@@ -57,18 +57,18 @@
   },
   "orders": []
  },
- "updated_label": "17:14 ngày 15/11/2026",
+ "updated_label": "17:18 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
     "name": "Không có danh mục",
-    "qty": 48,
-    "revenue": 2632000,
+    "qty": 49,
+    "revenue": 2676000,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 18,
-      "revenue": 1430000,
+      "qty": 19,
+      "revenue": 1474000,
       "unit": "lượt"
      },
      {
