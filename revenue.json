@@ -21,22 +21,22 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 20:05–20:11 ngày 15/11/2026 — live TĂNG so với quét 19:58 (tổng ngày 3.988.500đ/38 HĐ/118 món, tăng 64.000đ/2 HĐ/2 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 145.500đ/3 HĐ/6 món, HĐ mới nhất 2400003797 lúc 20:07, Bàn Chơi - 5, 28.000đ; thêm 3796 lúc 19:59, 36.000đ); đơn chưa hoàn tất 7/121.000đ (Tại bàn, giảm 2 đơn nhưng tăng 2.000đ so với 19:58), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 20:17–20:19 ngày 15/11/2026 — live KHÔNG ĐỔI so với quét 20:11 (tổng ngày 3.988.500đ/38 HĐ/118 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 145.500đ/3 HĐ/6 món, HĐ mới nhất 2400003797 lúc 20:07, Bàn Chơi - 5, 28.000đ); đơn chưa hoàn tất 8/123.000đ (Tại bàn, tăng 1 đơn/2.000đ so với 20:11), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
     "invoices": 38,
     "items": 118,
     "revenue": 3988500
   },
   "unpaid": {
-    "checked_at": "20:11 ngày 15/11/2026",
+    "checked_at": "20:19 ngày 15/11/2026",
     "unfinished": {
-      "count": 7,
-      "total": 121000,
+      "count": 8,
+      "total": 123000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 121000
+          "count": 8,
+          "total": 123000
         },
         {
           "channel": "Mang đi",
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "20:11 ngày 15/11/2026",
+  "updated_label": "20:19 ngày 15/11/2026",
   "views": {
     "ca_ngay": [
       {
