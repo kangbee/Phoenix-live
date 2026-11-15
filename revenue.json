@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 15,
-  "items": 36,
-  "revenue": 981750
+  "invoices": 16,
+  "items": 39,
+  "revenue": 1030750
  },
  "ca2": {
   "closed": false,
@@ -16,27 +16,27 @@
  "day": "2026-11-15",
  "day_label": "Chủ nhật, 15/11/2026",
  "drinks": {
-  "qty": 11,
-  "revenue": 165000
+  "qty": 14,
+  "revenue": 214000
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 14:47 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 14:45–14:47, cả ngày không đổi 981.750đ/15 HĐ/36 món so với quét 14:36; Ca 1 981.750đ/15 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 10/964.250đ — tăng 41.000đ so với 14:36, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 14:55 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 14:50–14:55, Ca 1 tăng 49.000đ/1 HĐ/3 món so với quét 14:47 — thêm HĐ 2400003775 lúc 14:48, Bò Húc +2 lon, Sting Đỏ +1 lon; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 10/1.188.250đ — tăng 224.000đ so với 14:47, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 15,
-  "items": 36,
-  "revenue": 981750
+  "invoices": 16,
+  "items": 39,
+  "revenue": 1030750
  },
  "unpaid": {
-  "checked_at": "14:47 ngày 15/11/2026",
+  "checked_at": "14:55 ngày 15/11/2026",
   "unfinished": {
    "count": 10,
-   "total": 964250,
+   "total": 1188250,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 10,
-     "total": 964250
+     "total": 1188250
     },
     {
      "channel": "Mang đi",
@@ -57,7 +57,7 @@
   },
   "orders": []
  },
- "updated_label": "14:47 ngày 15/11/2026",
+ "updated_label": "14:55 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -86,7 +86,7 @@
       "name": "Saigon Dưa Lưới",
       "qty": 1,
       "revenue": 30000,
-      "unit": "chai/lon"
+      "unit": "cái"
      },
      {
       "name": "Thăng Long",
@@ -109,8 +109,8 @@
      },
      {
       "name": "Bò Húc",
-      "qty": 1,
-      "revenue": 17000,
+      "qty": 3,
+      "revenue": 51000,
       "unit": "chai/lon"
      },
      {
@@ -145,8 +145,8 @@
      },
      {
       "name": "Sting Đỏ",
-      "qty": 1,
-      "revenue": 15000,
+      "qty": 2,
+      "revenue": 30000,
       "unit": "chai/lon"
      },
      {
@@ -157,8 +157,8 @@
      }
     ],
     "name": "Đồ Uống",
-    "qty": 11,
-    "revenue": 165000
+    "qty": 14,
+    "revenue": 214000
    },
    {
     "items": [
