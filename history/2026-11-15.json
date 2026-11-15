@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 11,
-    "items": 24,
-    "revenue": 878750
+    "invoices": 13,
+    "items": 26,
+    "revenue": 1014750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,21 +21,21 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 22:03–22:07 ngày 15/11/2026 — live KHÔNG ĐỔI so với quét 21:54 (tổng ngày 4.721.750đ/46 HĐ/136 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 878.750đ/11 HĐ/24 món, HĐ mới nhất 2400003805 lúc 21:53, 115.000đ); đơn chưa hoàn tất 7/314.750đ (Tại bàn, tăng 18.000đ so với 21:54 — các bàn đang chơi phát sinh thêm, chưa có HĐ mới), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 22:13–22:21 ngày 15/11/2026 — live TĂNG so với quét 22:07: tổng ngày 4.857.750đ/48 HĐ/138 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.014.750đ/13 HĐ/26 món, HĐ mới nhất 2400003807 lúc 22:18, 28.000đ; 3806 lúc 22:17, 108.000đ); đơn chưa hoàn tất 0/0đ (giảm 7 đơn/314.750đ so với 22:07 — chỉ 2 HĐ mới 136.000đ, còn ~178.750đ bàn biến mất không thành HĐ, cần hỏi nhân viên), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 46,
-    "items": 136,
-    "revenue": 4721750
+    "invoices": 48,
+    "items": 138,
+    "revenue": 4857750
   },
   "unpaid": {
-    "checked_at": "22:07 ngày 15/11/2026",
+    "checked_at": "22:21 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 314750
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 7,
-      "total": 314750
+      "count": 0,
+      "total": 0
     }
   },
-  "updated_label": "22:07 ngày 15/11/2026",
+  "updated_label": "22:21 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -66,14 +66,14 @@
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 29,
-            "revenue": 2150000,
+            "qty": 30,
+            "revenue": 2178000,
             "unit": "lượt"
           },
           {
             "name": "Giờ Vip",
-            "qty": 15,
-            "revenue": 969750,
+            "qty": 16,
+            "revenue": 1077750,
             "unit": "lượt"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 73,
-        "revenue": 3894750
+        "qty": 75,
+        "revenue": 4030750
       },
       {
         "items": [
