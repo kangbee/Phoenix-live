@@ -7,35 +7,35 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 7,
-    "items": 12,
-    "revenue": 412250
+    "invoices": 8,
+    "items": 14,
+    "revenue": 483250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-15",
   "day_label": "Chủ nhật, 15/11/2026",
   "drinks": {
-    "qty": 43,
-    "revenue": 610000
+    "qty": 44,
+    "revenue": 625000
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 21:23–21:29 ngày 15/11/2026 — live TĂNG so với quét 21:18 (tổng ngày 4.255.250đ/42 HĐ/124 món, +35.000đ/1 HĐ/2 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 412.250đ/7 HĐ/12 món, HĐ mới nhất 2400003801 lúc 21:19, 35.000đ); đơn chưa hoàn tất 9/538.750đ (Tại bàn, tăng 1 đơn/2.250đ so với 21:18), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 21:34–21:39 ngày 15/11/2026 — live TĂNG so với quét 21:29 (tổng ngày 4.326.250đ/43 HĐ/126 món, +71.000đ/1 HĐ/2 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 483.250đ/8 HĐ/14 món, HĐ mới nhất 2400003802 lúc 21:36, 71.000đ); đơn chưa hoàn tất 8/487.750đ (Tại bàn, giảm 1 đơn/51.000đ so với 21:29), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 42,
-    "items": 124,
-    "revenue": 4255250
+    "invoices": 43,
+    "items": 126,
+    "revenue": 4326250
   },
   "unpaid": {
-    "checked_at": "21:29 ngày 15/11/2026",
+    "checked_at": "21:39 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 9,
-          "total": 538750
+          "count": 8,
+          "total": 487750
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 9,
-      "total": 538750
+      "count": 8,
+      "total": 487750
     }
   },
-  "updated_label": "21:29 ngày 15/11/2026",
+  "updated_label": "21:39 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -66,8 +66,8 @@
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 26,
-            "revenue": 1918000,
+            "qty": 27,
+            "revenue": 1974000,
             "unit": "lượt"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 66,
-        "revenue": 3493250
+        "qty": 67,
+        "revenue": 3549250
       },
       {
         "items": [
@@ -202,11 +202,17 @@
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
+          },
+          {
+            "name": "JOCO ĐẬU XANH (chai)",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
           }
         ],
         "name": "Đồ Uống",
-        "qty": 43,
-        "revenue": 610000
+        "qty": 44,
+        "revenue": 625000
       },
       {
         "items": [
