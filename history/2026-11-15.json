@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 22,
-  "items": 58,
-  "revenue": 1940000
+  "invoices": 23,
+  "items": 69,
+  "revenue": 2331000
  },
  "ca2": {
   "closed": false,
@@ -16,26 +16,26 @@
  "day": "2026-11-15",
  "day_label": "Chủ nhật, 15/11/2026",
  "drinks": {
-  "qty": 22,
-  "revenue": 337000
+  "qty": 27,
+  "revenue": 431000
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 16:14 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:10–16:14, live TĂNG 1.940.000đ/22 HĐ/58 món so với quét 16:07 — thêm HĐ 2400003781 lúc 16:10: Giờ Thường +1 lượt 168.000đ, VELA ruốc +1 15.000đ, Warriod Dâu +1 15.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 10/1.079.500đ — tăng 1 đơn nhưng giảm 180.000đ so với 15:58, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 16:28 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:26–16:28, live TĂNG 2.331.000đ/23 HĐ/69 món so với quét 16:14 — thêm HĐ 2400003782 lúc 16:27: Giờ Thường +1 lượt 172.000đ, Cơ Thuê +3 87.000đ, Saigon Dưa Lưới +1 30.000đ, Bò Húc +2 34.000đ, Saigon Bạc +2 50.000đ, Nước Lọc +1 10.000đ, VELA SANWICH +1 8.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 9/714.500đ — giảm 1 đơn/365.000đ so với 16:14, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 22,
-  "items": 58,
-  "revenue": 1940000
+  "invoices": 23,
+  "items": 69,
+  "revenue": 2331000
  },
  "unpaid": {
-  "checked_at": "16:14 ngày 15/11/2026",
+  "checked_at": "16:28 ngày 15/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 10,
-     "total": 1079500
+     "count": 9,
+     "total": 714500
     },
     {
      "channel": "Mang đi",
@@ -53,11 +53,11 @@
      "total": 0
     }
    ],
-   "count": 10,
-   "total": 1079500
+   "count": 9,
+   "total": 714500
   }
  },
- "updated_label": "16:14 ngày 15/11/2026",
+ "updated_label": "16:28 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -66,8 +66,8 @@
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 14,
-      "revenue": 916000,
+      "qty": 15,
+      "revenue": 1088000,
       "unit": "lượt"
      },
      {
@@ -78,14 +78,14 @@
      },
      {
       "name": "Cơ Thuê",
-      "qty": 6,
-      "revenue": 174000,
+      "qty": 9,
+      "revenue": 261000,
       "unit": "lượt"
      },
      {
       "name": "Saigon Dưa Lưới",
-      "qty": 2,
-      "revenue": 60000,
+      "qty": 3,
+      "revenue": 90000,
       "unit": "cái"
      },
      {
@@ -96,8 +96,8 @@
      }
     ],
     "name": "Không có danh mục",
-    "qty": 30,
-    "revenue": 1539000
+    "qty": 35,
+    "revenue": 1828000
    },
    {
     "items": [
@@ -109,8 +109,8 @@
      },
      {
       "name": "Bò Húc",
-      "qty": 3,
-      "revenue": 51000,
+      "qty": 5,
+      "revenue": 85000,
       "unit": "chai/lon"
      },
      {
@@ -151,8 +151,8 @@
      },
      {
       "name": "Nước Lọc",
-      "qty": 1,
-      "revenue": 10000,
+      "qty": 2,
+      "revenue": 20000,
       "unit": "chai/lon"
      },
      {
@@ -172,11 +172,17 @@
       "qty": 1,
       "revenue": 15000,
       "unit": "chai/lon"
+     },
+     {
+      "name": "Saigon Bạc",
+      "qty": 2,
+      "revenue": 50000,
+      "unit": "chai/lon"
      }
     ],
     "name": "Đồ Uống",
-    "qty": 22,
-    "revenue": 337000
+    "qty": 27,
+    "revenue": 431000
    },
    {
     "items": [
@@ -203,11 +209,17 @@
       "qty": 1,
       "revenue": 15000,
       "unit": "cái"
+     },
+     {
+      "name": "VELA SANWICH",
+      "qty": 1,
+      "revenue": 8000,
+      "unit": "cái"
      }
     ],
     "name": "Đồ Ăn",
-    "qty": 6,
-    "revenue": 64000
+    "qty": 7,
+    "revenue": 72000
    }
   ]
  }
