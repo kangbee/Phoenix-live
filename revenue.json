@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 5,
+    "invoices": 8,
     "items": 0,
-    "revenue": 369000
+    "revenue": 489000
   },
   "ca2": {
     "closed": false,
@@ -21,21 +21,21 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Ca 1 ngày 15/11/2026 đến 11:14 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 11:10–11:15, cả ngày 369.000đ/5 HĐ/15 món, không đổi so với quét 11:05–11:07; Ca 1 369.000đ/5 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 4/113.000đ (Tại bàn, tăng từ 26.000đ lúc 11:06 trong khi doanh thu không tăng), chờ xác nhận thanh toán 0, ghi nợ 0). HĐ mới nhất 2400003764 thanh toán lúc 10:26.",
+  "source_note": "Ca 1 ngày 15/11/2026 đến 11:25 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 11:20–11:25, cả ngày 489.000đ/8 HĐ/18 món, tăng 120.000đ/3 HĐ/3 món so với quét 10:27–10:30; Ca 1 489.000đ/8 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 2/99.000đ (Tại bàn, giảm từ 4/113.000đ lúc 11:14), chờ xác nhận thanh toán 0, ghi nợ 0).",
   "totals": {
-    "invoices": 5,
-    "items": 15,
-    "revenue": 369000
+    "invoices": 8,
+    "items": 18,
+    "revenue": 489000
   },
   "unpaid": {
-    "checked_at": "11:14 ngày 15/11/2026",
+    "checked_at": "11:25 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 4,
-          "total": 113000
+          "count": 2,
+          "total": 99000
         },
         {
           "channel": "Mang đi",
@@ -53,24 +53,24 @@
           "total": 0
         }
       ],
-      "count": 4,
-      "total": 113000
+      "count": 2,
+      "total": 99000
     }
   },
-  "updated_label": "11:14 ngày 15/11/2026",
+  "updated_label": "11:25 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 8,
-        "revenue": 276000,
+        "qty": 11,
+        "revenue": 396000,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 3,
-            "revenue": 126000,
+            "qty": 6,
+            "revenue": 246000,
             "unit": "lượt"
           },
           {
