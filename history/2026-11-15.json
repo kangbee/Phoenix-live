@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 17:18 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:16–17:18, live TĂNG +44.000đ/+1 HĐ/+1 món so với quét 17:14: 3.314.000đ/31 HĐ/96 món, HĐ mới nhất 2400003790 lúc 17:14, Bàn Chơi - 6, Giờ Thường 44.000đ; Giờ Thường 19 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 4/255.000đ — giảm 1 đơn/2.000đ so với 17:14, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 17:32 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:30–17:32, live KHÔNG ĐỔI so với quét 17:18: 3.314.000đ/31 HĐ/96 món, HĐ mới nhất 2400003790 lúc 17:14; Giờ Thường 19 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0/0đ — giảm 4 đơn/255.000đ so với 17:18, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
   "invoices": 31,
   "items": 96,
   "revenue": 3314000
  },
  "unpaid": {
-  "checked_at": "17:19 ngày 15/11/2026",
+  "checked_at": "17:32 ngày 15/11/2026",
   "unfinished": {
-   "count": 4,
-   "total": 255000,
+   "count": 0,
+   "total": 0,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 4,
-     "total": 255000
+     "count": 0,
+     "total": 0
     },
     {
      "channel": "Mang đi",
@@ -57,7 +57,7 @@
   },
   "orders": []
  },
- "updated_label": "17:18 ngày 15/11/2026",
+ "updated_label": "17:32 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
