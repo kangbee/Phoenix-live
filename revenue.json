@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 18,
-    "items": 43,
-    "revenue": 1568250
+    "invoices": 19,
+    "items": 44,
+    "revenue": 1598250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,14 +21,14 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 23:12–23:14 ngày 15/11/2026 — live TĂNG so với quét 23:05: tổng ngày 5.411.250đ/53 HĐ/155 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.568.250đ/18 HĐ/43 món, HĐ mới nhất 2400003812 lúc 23:07, 130.000đ; tăng +168.000đ/2 HĐ/4 món, thêm HĐ 2400003811 lúc 23:05 38.000đ và 2400003812 lúc 23:07 130.000đ); đơn chưa hoàn tất 2 đơn/59.000đ (giảm 1 đơn so với 23:05, toàn bộ Tại bàn), chờ xác nhận thanh toán 0, ghi nợ 0. Lưu ý: HĐ 2400003813 lúc 23:17 (30.000đ) xuất hiện sau ảnh chụp live 23:14, chưa có trong số này, sẽ vào lần quét sau.",
+  "source_note": "Quét live 23:28–23:34 ngày 15/11/2026 — live TĂNG so với quét 23:19: tổng ngày 5.441.250đ/54 HĐ/156 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.598.250đ/19 HĐ/44 món, HĐ mới nhất 2400003813 lúc 23:17, 30.000đ, Saigon Dưa Lưới; tăng +30.000đ/1 HĐ/1 món, thêm HĐ 2400003813); đơn chưa hoàn tất 2 đơn/59.000đ (KHÔNG ĐỔI so với 23:19, toàn bộ Tại bàn), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 53,
-    "items": 155,
-    "revenue": 5411250
+    "invoices": 54,
+    "items": 156,
+    "revenue": 5441250
   },
   "unpaid": {
-    "checked_at": "23:19 ngày 15/11/2026",
+    "checked_at": "23:32 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
@@ -57,7 +57,7 @@
       "total": 59000
     }
   },
-  "updated_label": "23:19 ngày 15/11/2026",
+  "updated_label": "23:34 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -84,8 +84,8 @@
           },
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 5,
-            "revenue": 150000,
+            "qty": 6,
+            "revenue": 180000,
             "unit": "cái"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 85,
-        "revenue": 4473250
+        "qty": 86,
+        "revenue": 4503250
       },
       {
         "items": [
