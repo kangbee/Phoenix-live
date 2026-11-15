@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 13,
-    "items": 26,
-    "revenue": 1014750
+    "invoices": 14,
+    "items": 27,
+    "revenue": 1059750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,21 +21,21 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 22:13–22:21 ngày 15/11/2026 — live TĂNG so với quét 22:07: tổng ngày 4.857.750đ/48 HĐ/138 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.014.750đ/13 HĐ/26 món, HĐ mới nhất 2400003807 lúc 22:18, 28.000đ; 3806 lúc 22:17, 108.000đ); đơn chưa hoàn tất 0/0đ (giảm 7 đơn/314.750đ so với 22:07 — chỉ 2 HĐ mới 136.000đ, còn ~178.750đ bàn biến mất không thành HĐ, cần hỏi nhân viên), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 22:30–22:34 ngày 15/11/2026 — live TĂNG so với quét 22:21: tổng ngày 4.902.750đ/49 HĐ/139 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.059.750đ/14 HĐ/27 món, HĐ mới nhất 2400003808 lúc 22:22, Bàn Chơi - 7, 45.000đ; tăng +45.000đ/1 HĐ/1 món, món tăng là Giờ Vip +1/45.000đ); đơn chưa hoàn tất 5 đơn/310.250đ (tăng 5 đơn/310.250đ so với 22:21 — 5 bàn mới bắt đầu chơi sau 22:21, chưa chốt; HĐ 3808 đã thanh toán 45.000đ), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 48,
-    "items": 138,
-    "revenue": 4857750
+    "invoices": 49,
+    "items": 139,
+    "revenue": 4902750
   },
   "unpaid": {
-    "checked_at": "22:21 ngày 15/11/2026",
+    "checked_at": "22:34 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 0,
-          "total": 0
+          "count": 5,
+          "total": 310250
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 0,
-      "total": 0
+      "count": 5,
+      "total": 310250
     }
   },
-  "updated_label": "22:21 ngày 15/11/2026",
+  "updated_label": "22:34 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -72,8 +72,8 @@
           },
           {
             "name": "Giờ Vip",
-            "qty": 16,
-            "revenue": 1077750,
+            "qty": 17,
+            "revenue": 1122750,
             "unit": "lượt"
           },
           {
@@ -108,8 +108,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 75,
-        "revenue": 4030750
+        "qty": 76,
+        "revenue": 4075750
       },
       {
         "items": [
