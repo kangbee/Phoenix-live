@@ -7,35 +7,35 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 19,
-    "items": 44,
-    "revenue": 1598250
+    "invoices": 20,
+    "items": 52,
+    "revenue": 1742250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-15",
   "day_label": "Chủ nhật, 15/11/2026",
   "drinks": {
-    "qty": 55,
-    "revenue": 786000
+    "qty": 58,
+    "revenue": 816000
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 00:38–00:51 ngày 16/11/2026 — live KHÔNG ĐỔI so với quét 00:32: tổng ngày 5.441.250đ/54 HĐ/156 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.598.250đ/19 HĐ/44 món; HĐ mới nhất 2400003813 lúc 23:17, chưa có HĐ nào sau 00:00); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/371.000đ (toàn bộ Tại bàn), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 00:56–01:01 ngày 16/11/2026 — live TĂNG so với quét 00:50: tổng ngày 5.585.250đ/55 HĐ/164 món (Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 1.742.250đ/20 HĐ/52 món; HĐ mới nhất 2400003814 lúc 00:57, 144.000đ, Bàn Chơi - 3); đơn chưa hoàn tất GIẢM còn 2 đơn/249.000đ (toàn bộ Tại bàn), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
-    "invoices": 54,
-    "items": 156,
-    "revenue": 5441250
+    "invoices": 55,
+    "items": 164,
+    "revenue": 5585250
   },
   "unpaid": {
-    "checked_at": "00:50 ngày 16/11/2026",
+    "checked_at": "01:00 ngày 16/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 371000
+          "count": 2,
+          "total": 249000
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 3,
-      "total": 371000
+      "count": 2,
+      "total": 249000
     }
   },
-  "updated_label": "00:50 ngày 16/11/2026",
+  "updated_label": "01:00 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -66,8 +66,8 @@
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 33,
-            "revenue": 2394000,
+            "qty": 34,
+            "revenue": 2420000,
             "unit": "lượt"
           },
           {
@@ -78,8 +78,8 @@
           },
           {
             "name": "Cơ Thuê",
-            "qty": 19,
-            "revenue": 551000,
+            "qty": 21,
+            "revenue": 609000,
             "unit": "lượt"
           },
           {
@@ -96,8 +96,8 @@
           },
           {
             "name": "Saigon Bạc",
-            "qty": 5,
-            "revenue": 125000,
+            "qty": 6,
+            "revenue": 150000,
             "unit": "cái"
           },
           {
@@ -105,11 +105,17 @@
             "qty": 1,
             "revenue": 10000,
             "unit": "bộ"
+          },
+          {
+            "name": "Bật Lửa",
+            "qty": 1,
+            "revenue": 5000,
+            "unit": "cái"
           }
         ],
         "name": "Không có danh mục",
-        "qty": 86,
-        "revenue": 4503250
+        "qty": 91,
+        "revenue": 4617250
       },
       {
         "items": [
@@ -163,8 +169,8 @@
           },
           {
             "name": "Nước Lọc",
-            "qty": 10,
-            "revenue": 100000,
+            "qty": 12,
+            "revenue": 120000,
             "unit": "chai/lon"
           },
           {
@@ -193,8 +199,8 @@
           },
           {
             "name": "Tiền Hải Ngọt",
-            "qty": 4,
-            "revenue": 40000,
+            "qty": 5,
+            "revenue": 50000,
             "unit": "chai/lon"
           },
           {
@@ -217,8 +223,8 @@
           }
         ],
         "name": "Đồ Uống",
-        "qty": 55,
-        "revenue": 786000
+        "qty": 58,
+        "revenue": 816000
       },
       {
         "items": [
