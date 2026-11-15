@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 27,
-  "items": 92,
-  "revenue": 3107250
+  "invoices": 29,
+  "items": 94,
+  "revenue": 3198000
  },
  "ca2": {
   "closed": false,
@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 16:46 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:44–16:46, live KHÔNG ĐỔI 3.107.250đ/27 HĐ/92 món so với quét 16:40, HĐ mới nhất vẫn 2400003786 lúc 16:37; Nutri Dâu xác nhận 1 × 16.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 8/192.500đ — tăng 2 đơn/108.000đ so với 16:40, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 16:55 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:53–16:55, live TĂNG +90.750đ/+2 HĐ/+2 món so với quét 16:50, HĐ mới nhất 2400003788 lúc 16:54 (Bàn Chơi - 8, 60.750đ) và 2400003787 lúc 16:50 (Bàn Chơi - 3, 30.000đ); Giờ Thường 18 lượt, Giờ Vip 10 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/226.250đ — giảm 2 đơn/4.250đ so với 16:50, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 27,
-  "items": 92,
-  "revenue": 3107250
+  "invoices": 29,
+  "items": 94,
+  "revenue": 3198000
  },
  "unpaid": {
-  "checked_at": "16:50 ngày 15/11/2026",
+  "checked_at": "16:56 ngày 15/11/2026",
   "unfinished": {
-   "count": 8,
-   "total": 230500,
+   "count": 6,
+   "total": 226250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 8,
-     "total": 230500
+     "count": 6,
+     "total": 226250
     },
     {
      "channel": "Mang đi",
@@ -57,24 +57,24 @@
   },
   "orders": []
  },
- "updated_label": "16:50 ngày 15/11/2026",
+ "updated_label": "16:55 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
     "name": "Không có danh mục",
-    "qty": 45,
-    "revenue": 2469250,
+    "qty": 47,
+    "revenue": 2560000,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 17,
-      "revenue": 1400000,
+      "qty": 18,
+      "revenue": 1430000,
       "unit": "lượt"
      },
      {
       "name": "Giờ Vip",
-      "qty": 9,
-      "revenue": 560250,
+      "qty": 10,
+      "revenue": 621000,
       "unit": "lượt"
      },
      {
