@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 14:55 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 14:50–14:55, Ca 1 tăng 49.000đ/1 HĐ/3 món so với quét 14:47 — thêm HĐ 2400003775 lúc 14:48, Bò Húc +2 lon, Sting Đỏ +1 lon; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 10/1.188.250đ — tăng 224.000đ so với 14:47, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 15:02 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 15:00–15:02, live không đổi so với quét 14:56 — Ca 1 1.030.750đ/16 HĐ/39 món, HĐ mới nhất 2400003775 lúc 14:48; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 11/1.242.500đ — tăng 1 đơn/54.250đ so với 14:55, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
   "invoices": 16,
   "items": 39,
   "revenue": 1030750
  },
  "unpaid": {
-  "checked_at": "14:55 ngày 15/11/2026",
+  "checked_at": "15:02 ngày 15/11/2026",
   "unfinished": {
-   "count": 10,
-   "total": 1188250,
+   "count": 11,
+   "total": 1242500,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 10,
-     "total": 1188250
+     "count": 11,
+     "total": 1242500
     },
     {
      "channel": "Mang đi",
@@ -57,7 +57,7 @@
   },
   "orders": []
  },
- "updated_label": "14:55 ngày 15/11/2026",
+ "updated_label": "15:02 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
