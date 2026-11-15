@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 4,
+    "invoices": 5,
     "items": 0,
-    "revenue": 268000
+    "revenue": 369000
   },
   "ca2": {
     "closed": false,
@@ -16,19 +16,19 @@
   "day": "2026-11-15",
   "day_label": "Chủ nhật, 15/11/2026",
   "drinks": {
-    "qty": 3,
-    "revenue": 46000
+    "qty": 4,
+    "revenue": 62000
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Ca 1 ngày 15/11/2026 đến 10:24 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 10:23–10:24, cả ngày 268.000đ/4 HĐ/10 món; Ca 1 268.000đ/4 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0, chờ xác nhận thanh toán 0, ghi nợ 0). Không đổi so với quét 10:18–10:20 — HĐ mới nhất 2400003763 thanh toán lúc 10:13.",
+  "source_note": "Ca 1 ngày 15/11/2026 đến 10:30 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 10:27–10:30, cả ngày 369.000đ/5 HĐ/15 món; Ca 1 369.000đ/5 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0, chờ xác nhận thanh toán 0, ghi nợ 0). Tăng 101.000đ/1 HĐ/5 món so với quét 10:23–10:24 — HĐ mới nhất 2400003764 thanh toán lúc 10:26.",
   "totals": {
-    "invoices": 4,
-    "items": 10,
-    "revenue": 268000
+    "invoices": 5,
+    "items": 15,
+    "revenue": 369000
   },
   "unpaid": {
-    "checked_at": "10:24 ngày 15/11/2026",
+    "checked_at": "10:30 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
@@ -57,20 +57,20 @@
       "total": 0
     }
   },
-  "updated_label": "10:24 ngày 15/11/2026",
+  "updated_label": "10:30 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 7,
-        "revenue": 222000,
+        "qty": 8,
+        "revenue": 276000,
         "items": [
           {
-            "name": "Cơ Thuê",
-            "qty": 2,
-            "revenue": 58000,
+            "name": "Giờ Thường",
+            "qty": 3,
+            "revenue": 126000,
             "unit": "lượt"
           },
           {
@@ -80,9 +80,9 @@
             "unit": "lượt"
           },
           {
-            "name": "Giờ Thường",
+            "name": "Cơ Thuê",
             "qty": 2,
-            "revenue": 72000,
+            "revenue": 58000,
             "unit": "lượt"
           },
           {
@@ -95,9 +95,21 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 3,
-        "revenue": 46000,
+        "qty": 4,
+        "revenue": 62000,
         "items": [
+          {
+            "name": "Latte Socola",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Nutri Dâu",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
           {
             "name": "ICE Trà Đào",
             "qty": 1,
@@ -109,12 +121,25 @@
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Ăn",
+        "qty": 3,
+        "revenue": 31000,
+        "items": [
+          {
+            "name": "Bimbim Oishi",
+            "qty": 2,
+            "revenue": 16000,
+            "unit": "cái"
           },
           {
-            "name": "Nutri Dâu",
+            "name": "VELA to",
             "qty": 1,
-            "revenue": 16000,
-            "unit": "chai/lon"
+            "revenue": 15000,
+            "unit": "cái"
           }
         ]
       }
