@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 9,
+    "invoices": 11,
     "items": 0,
-    "revenue": 683000
+    "revenue": 805000
   },
   "ca2": {
     "closed": false,
@@ -16,26 +16,26 @@
   "day": "2026-11-15",
   "day_label": "Chủ nhật, 15/11/2026",
   "drinks": {
-    "qty": 7,
-    "revenue": 109000
+    "qty": 9,
+    "revenue": 139000
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Ca 1 ngày 15/11/2026 đến 12:34 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 12:32–12:34, cả ngày 683.000đ/9 HĐ/26 món, không đổi so với quét 12:30; Ca 1 683.000đ/9 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 7/332.000đ (Tại bàn, tăng từ 301.000đ lúc 12:30), chờ xác nhận thanh toán 0, ghi nợ 0).",
+  "source_note": "Ca 1 ngày 15/11/2026 đến 12:42 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 12:40–12:42, cả ngày 805.000đ/11 HĐ/30 món, tăng 122.000đ/2 HĐ/4 món so với quét 12:34; Ca 1 805.000đ/11 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 5/312.000đ (Tại bàn, giảm từ 7/332.000đ lúc 12:34), chờ xác nhận thanh toán 0, ghi nợ 0).",
   "totals": {
-    "invoices": 9,
-    "items": 26,
-    "revenue": 683000
+    "invoices": 11,
+    "items": 30,
+    "revenue": 805000
   },
   "unpaid": {
-    "checked_at": "12:34 ngày 15/11/2026",
+    "checked_at": "12:42 ngày 15/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 332000
+          "count": 5,
+          "total": 312000
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 7,
-      "total": 332000
+      "count": 5,
+      "total": 312000
     }
   },
-  "updated_label": "12:34 ngày 15/11/2026",
+  "updated_label": "12:42 ngày 15/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -66,8 +66,8 @@
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 7,
-            "revenue": 316000,
+            "qty": 9,
+            "revenue": 408000,
             "unit": "lượt"
           },
           {
@@ -96,8 +96,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 14,
-        "revenue": 525000
+        "qty": 16,
+        "revenue": 617000
       },
       {
         "items": [
@@ -133,14 +133,20 @@
           },
           {
             "name": "Warriod Nho",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Sting Đỏ",
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
           }
         ],
         "name": "Đồ Uống",
-        "qty": 7,
-        "revenue": 109000
+        "qty": 9,
+        "revenue": 139000
       },
       {
         "items": [
