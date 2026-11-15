@@ -28,15 +28,15 @@
   "revenue": 3198000
  },
  "unpaid": {
-  "checked_at": "16:56 ngày 15/11/2026",
+  "checked_at": "17:02 ngày 15/11/2026",
   "unfinished": {
    "count": 6,
-   "total": 226250,
+   "total": 236250,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 6,
-     "total": 226250
+     "total": 236250
     },
     {
      "channel": "Mang đi",
@@ -57,7 +57,7 @@
   },
   "orders": []
  },
- "updated_label": "16:55 ngày 15/11/2026",
+ "updated_label": "17:02 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
