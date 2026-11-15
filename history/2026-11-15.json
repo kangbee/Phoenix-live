@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 11,
+  "invoices": 12,
   "items": 0,
-  "revenue": 805000
+  "revenue": 865000
  },
  "ca2": {
   "closed": false,
@@ -21,21 +21,21 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 13:00 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 12:58–13:00, cả ngày 805.000đ/11 HĐ/30 món, không đổi so với quét 12:54; Ca 1 805.000đ/11 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/356.250đ — tăng từ 0/0đ lúc 12:54 trong khi doanh thu đã thanh toán không tăng, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 13:08 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 13:04–13:08, cả ngày 865.000đ/12 HĐ/31 món, tăng 60.000đ/1 HĐ/1 món so với quét 13:00 — thêm HĐ 2400003771 lúc 13:05; Ca 1 865.000đ/12 HĐ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/434.500đ — tăng từ 356.250đ lúc 13:00, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 11,
-  "items": 30,
-  "revenue": 805000
+  "invoices": 12,
+  "items": 31,
+  "revenue": 865000
  },
  "unpaid": {
-  "checked_at": "13:00 ngày 15/11/2026",
+  "checked_at": "13:08 ngày 15/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 6,
-     "total": 356250
+     "total": 434500
     },
     {
      "channel": "Mang đi",
@@ -54,10 +54,10 @@
     }
    ],
    "count": 6,
-   "total": 356250
+   "total": 434500
   }
  },
- "updated_label": "13:00 ngày 15/11/2026",
+ "updated_label": "13:08 ngày 15/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
@@ -66,8 +66,8 @@
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 9,
-      "revenue": 408000,
+      "qty": 10,
+      "revenue": 468000,
       "unit": "lượt"
      },
      {
@@ -96,8 +96,8 @@
      }
     ],
     "name": "Không có danh mục",
-    "qty": 16,
-    "revenue": 617000
+    "qty": 17,
+    "revenue": 677000
    },
    {
     "items": [
