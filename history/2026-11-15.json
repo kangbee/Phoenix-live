@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 34,
-    "items": 107,
-    "revenue": 3674000
+    "invoices": 35,
+    "items": 112,
+    "revenue": 3843000
   },
   "ca2": {
     "closed": false,
@@ -21,22 +21,22 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Ca 1 ngày 15/11/2026 đến 18:17 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 18:15–18:17, live TĂNG so với quét 18:12: 3.674.000đ/34 HĐ/107 món, +318.000đ/+2 HĐ/+10 món, HĐ mới nhất 2400003793 lúc 18:15; Giờ Thường 22 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 1/119.000đ — giảm 1 đơn/94.000đ so với 18:12, chờ xác nhận thanh toán 0, ghi nợ 0).",
+  "source_note": "Ca 1 ngày 15/11/2026 đến 18:21 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 18:20–18:21, live TĂNG so với quét 18:17: 3.843.000đ/35 HĐ/112 món, +169.000đ/+1 HĐ/+5 món, HĐ mới nhất 2400003794 lúc 18:17; Giờ Thường 23 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0/0đ — giảm 1 đơn/119.000đ so với 18:17, chờ xác nhận thanh toán 0, ghi nợ 0).",
   "totals": {
-    "invoices": 34,
-    "items": 107,
-    "revenue": 3674000
+    "invoices": 35,
+    "items": 112,
+    "revenue": 3843000
   },
   "unpaid": {
-    "checked_at": "18:17 ngày 15/11/2026",
+    "checked_at": "18:21 ngày 15/11/2026",
     "unfinished": {
-      "count": 1,
-      "total": 119000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 119000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -57,18 +57,18 @@
     },
     "orders": []
   },
-  "updated_label": "18:17 ngày 15/11/2026",
+  "updated_label": "18:21 ngày 15/11/2026",
   "views": {
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 53,
-        "revenue": 2967000,
+        "qty": 57,
+        "revenue": 3121000,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 22,
-            "revenue": 1736000,
+            "qty": 23,
+            "revenue": 1802000,
             "unit": "lượt"
           },
           {
@@ -79,14 +79,14 @@
           },
           {
             "name": "Cơ Thuê",
-            "qty": 12,
-            "revenue": 348000,
+            "qty": 14,
+            "revenue": 406000,
             "unit": "lượt"
           },
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 3,
-            "revenue": 90000,
+            "qty": 4,
+            "revenue": 120000,
             "unit": "cái"
           },
           {
@@ -202,8 +202,8 @@
       },
       {
         "name": "Đồ Ăn",
-        "qty": 14,
-        "revenue": 137000,
+        "qty": 15,
+        "revenue": 152000,
         "items": [
           {
             "name": "Bimbim Oishi",
@@ -213,8 +213,8 @@
           },
           {
             "name": "VELA to",
-            "qty": 1,
-            "revenue": 15000,
+            "qty": 2,
+            "revenue": 30000,
             "unit": "cái"
           },
           {
