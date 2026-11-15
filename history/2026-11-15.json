@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 31,
-  "items": 96,
-  "revenue": 3314000
+  "invoices": 32,
+  "items": 97,
+  "revenue": 3356000
  },
  "ca2": {
   "closed": false,
@@ -21,22 +21,22 @@
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 17:37 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:35–17:37, live KHÔNG ĐỔI so với quét 17:32: 3.314.000đ/31 HĐ/96 món, HĐ mới nhất 2400003790 lúc 17:14; Giờ Thường 19 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 4/255.000đ — tăng 4 đơn/255.000đ so với 17:32 (đúng bằng số lúc 17:18), chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 17:45 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 17:42–17:45, live TĂNG so với quét 17:37: 3.356.000đ/32 HĐ/97 món, HĐ mới nhất 2400003791 lúc 17:41; Giờ Thường 20 lượt, Giờ Vip 11 lượt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 3/253.000đ — giảm 1 đơn/2.000đ so với 17:37, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 31,
-  "items": 96,
-  "revenue": 3314000
+  "invoices": 32,
+  "items": 97,
+  "revenue": 3356000
  },
  "unpaid": {
-  "checked_at": "17:37 ngày 15/11/2026",
+  "checked_at": "17:45 ngày 15/11/2026",
   "unfinished": {
-   "count": 4,
-   "total": 255000,
+   "count": 3,
+   "total": 253000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 4,
-     "total": 255000
+     "count": 3,
+     "total": 253000
     },
     {
      "channel": "Mang đi",
@@ -57,18 +57,18 @@
   },
   "orders": []
  },
- "updated_label": "17:37 ngày 15/11/2026",
+ "updated_label": "17:45 ngày 15/11/2026",
  "views": {
   "ca_ngay": [
    {
     "name": "Không có danh mục",
-    "qty": 49,
-    "revenue": 2676000,
+    "qty": 50,
+    "revenue": 2718000,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 19,
-      "revenue": 1474000,
+      "qty": 20,
+      "revenue": 1516000,
       "unit": "lượt"
      },
      {
