@@ -21,22 +21,21 @@
   },
   "provisional": true,
   "schema": 1,
-  "source_note": "Quét live 20:37–20:42 ngày 15/11/2026 — live TĂNG so với quét 20:33 (tổng ngày 4.040.500đ/39 HĐ/119 món, tăng 52.000đ/1 HĐ/1 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 197.500đ/4 HĐ/7 món, HĐ mới nhất 2400003798 lúc 20:37, Bàn Chơi - 3, 52.000đ Giờ Thường); đơn chưa hoàn tất 7/166.000đ (Tại bàn, giảm 1 đơn/2.000đ so với 20:33), chờ xác nhận thanh toán 0, ghi nợ 0.",
+  "source_note": "Quét live 20:47–20:50 ngày 15/11/2026 — live KHÔNG ĐỔI so với quét 20:42 (tổng ngày 4.040.500đ/39 HĐ/119 món; Ca 1 đã chốt 3.843.000đ/35 HĐ/112 món; Ca 2 197.500đ/4 HĐ/7 món, HĐ mới nhất 2400003798 lúc 20:37); đơn chưa hoàn tất 9/224.000đ (Tại bàn, tăng 2 đơn/58.000đ so với 20:42), chờ xác nhận thanh toán 0, ghi nợ 0.",
   "totals": {
     "invoices": 39,
     "items": 119,
     "revenue": 4040500
   },
   "unpaid": {
-    "checked_at": "20:42 ngày 15/11/2026",
+    "checked_at": "20:50 ngày 15/11/2026",
+    "orders": [],
     "unfinished": {
-      "count": 7,
-      "total": 166000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 166000
+          "count": 9,
+          "total": 224000
         },
         {
           "channel": "Mang đi",
@@ -53,17 +52,17 @@
           "count": 0,
           "total": 0
         }
-      ]
-    },
-    "orders": []
+      ],
+      "count": 9,
+      "total": 224000
+    }
   },
-  "updated_label": "20:42 ngày 15/11/2026",
+  "updated_label": "20:50 ngày 15/11/2026",
   "views": {
+    "ca1": [],
+    "ca2": [],
     "ca_ngay": [
       {
-        "name": "Không có danh mục",
-        "qty": 62,
-        "revenue": 3293500,
         "items": [
           {
             "name": "Giờ Thường",
@@ -107,12 +106,12 @@
             "revenue": 10000,
             "unit": "bộ"
           }
-        ]
+        ],
+        "name": "Không có danh mục",
+        "qty": 62,
+        "revenue": 3293500
       },
       {
-        "name": "Đồ Uống",
-        "qty": 42,
-        "revenue": 595000,
         "items": [
           {
             "name": "ICE Trà Đào",
@@ -198,12 +197,12 @@
             "revenue": 20000,
             "unit": "chai/lon"
           }
-        ]
+        ],
+        "name": "Đồ Uống",
+        "qty": 42,
+        "revenue": 595000
       },
       {
-        "name": "Đồ Ăn",
-        "qty": 15,
-        "revenue": 152000,
         "items": [
           {
             "name": "Bimbim Oishi",
@@ -235,10 +234,11 @@
             "revenue": 40000,
             "unit": "cái"
           }
-        ]
+        ],
+        "name": "Đồ Ăn",
+        "qty": 15,
+        "revenue": 152000
       }
-    ],
-    "ca1": [],
-    "ca2": []
+    ]
   }
 }
