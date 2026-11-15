@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 23,
-  "items": 69,
-  "revenue": 2331000
+  "invoices": 26,
+  "items": 87,
+  "revenue": 2930500
  },
  "ca2": {
   "closed": false,
@@ -16,26 +16,27 @@
  "day": "2026-11-15",
  "day_label": "Chủ nhật, 15/11/2026",
  "drinks": {
-  "qty": 27,
-  "revenue": 431000
+  "qty": 34,
+  "revenue": 499000
  },
  "provisional": true,
  "schema": 1,
- "source_note": "Ca 1 ngày 15/11/2026 đến 16:28 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:26–16:28, live TĂNG 2.331.000đ/23 HĐ/69 món so với quét 16:14 — thêm HĐ 2400003782 lúc 16:27: Giờ Thường +1 lượt 172.000đ, Cơ Thuê +3 87.000đ, Saigon Dưa Lưới +1 30.000đ, Bò Húc +2 34.000đ, Saigon Bạc +2 50.000đ, Nước Lọc +1 10.000đ, VELA SANWICH +1 8.000đ; Ca 2 chưa bắt đầu; đơn chưa hoàn tất 9/714.500đ — giảm 1 đơn/365.000đ so với 16:14, chờ xác nhận thanh toán 0, ghi nợ 0).",
+ "source_note": "Ca 1 ngày 15/11/2026 đến 16:34 — đang chạy, chưa chốt; đọc từ báo cáo Sapo FnB qua phiên đăng nhập quản trị (phiên còn hạn; quét lúc 16:31–16:34, live TĂNG 2.930.500đ/26 HĐ/87 món so với quét 16:28 — thêm HĐ 2400003783 177.000đ, 2400003784 lúc 16:31 364.000đ, 2400003785 lúc 16:33 58.500đ: Giờ Thường +2 lượt 312.000đ, Giờ Vip +1 58.500đ, Cơ Thuê +2 58.000đ, Bò Húc +1 17.000đ, Sting Đỏ +2 30.000đ, ICE Trà Đào +1 15.000đ, Nước Lọc +3 30.000đ, Thăng Long +1 20.000đ, VELA ruốc +1 15.000đ, VELA SANWICH +1 8.000đ, Latte Caramen +1 16.000đ (mới), Bài +1 10.000đ (mới), Tiền Hải Ngọt +1 10.000đ (mới); Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6/223.250đ — giảm 3 đơn/491.250đ so với 16:28, chờ xác nhận thanh toán 0, ghi nợ 0).",
  "totals": {
-  "invoices": 23,
-  "items": 69,
-  "revenue": 2331000
+  "invoices": 26,
+  "items": 87,
+  "revenue": 2930500
  },
  "unpaid": {
-  "checked_at": "16:28 ngày 15/11/2026",
-  "orders": [],
+  "checked_at": "16:34 ngày 15/11/2026",
   "unfinished": {
+   "count": 6,
+   "total": 223250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 9,
-     "total": 714500
+     "count": 6,
+     "total": 223250
     },
     {
      "channel": "Mang đi",
@@ -52,34 +53,34 @@
      "count": 0,
      "total": 0
     }
-   ],
-   "count": 9,
-   "total": 714500
-  }
+   ]
+  },
+  "orders": []
  },
- "updated_label": "16:28 ngày 15/11/2026",
+ "updated_label": "16:34 ngày 15/11/2026",
  "views": {
-  "ca1": [],
-  "ca2": [],
   "ca_ngay": [
    {
+    "name": "Không có danh mục",
+    "qty": 44,
+    "revenue": 2336500,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 15,
-      "revenue": 1088000,
+      "qty": 17,
+      "revenue": 1400000,
       "unit": "lượt"
      },
      {
       "name": "Giờ Vip",
-      "qty": 7,
-      "revenue": 369000,
+      "qty": 8,
+      "revenue": 427500,
       "unit": "lượt"
      },
      {
       "name": "Cơ Thuê",
-      "qty": 9,
-      "revenue": 261000,
+      "qty": 11,
+      "revenue": 319000,
       "unit": "lượt"
      },
      {
@@ -90,27 +91,39 @@
      },
      {
       "name": "Thăng Long",
-      "qty": 1,
-      "revenue": 20000,
+      "qty": 2,
+      "revenue": 40000,
       "unit": "cái"
+     },
+     {
+      "name": "Saigon Bạc",
+      "qty": 2,
+      "revenue": 50000,
+      "unit": "cái"
+     },
+     {
+      "name": "Bài",
+      "qty": 1,
+      "revenue": 10000,
+      "unit": "bộ"
      }
-    ],
-    "name": "Không có danh mục",
-    "qty": 35,
-    "revenue": 1828000
+    ]
    },
    {
+    "name": "Đồ Uống",
+    "qty": 34,
+    "revenue": 499000,
     "items": [
      {
       "name": "ICE Trà Đào",
-      "qty": 3,
-      "revenue": 45000,
+      "qty": 4,
+      "revenue": 60000,
       "unit": "chai/lon"
      },
      {
       "name": "Bò Húc",
-      "qty": 5,
-      "revenue": 85000,
+      "qty": 6,
+      "revenue": 102000,
       "unit": "chai/lon"
      },
      {
@@ -145,14 +158,14 @@
      },
      {
       "name": "Sting Đỏ",
-      "qty": 4,
-      "revenue": 60000,
+      "qty": 6,
+      "revenue": 90000,
       "unit": "chai/lon"
      },
      {
       "name": "Nước Lọc",
-      "qty": 2,
-      "revenue": 20000,
+      "qty": 5,
+      "revenue": 50000,
       "unit": "chai/lon"
      },
      {
@@ -174,17 +187,23 @@
       "unit": "chai/lon"
      },
      {
-      "name": "Saigon Bạc",
-      "qty": 2,
-      "revenue": 50000,
+      "name": "Latte Caramen",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Tiền Hải Ngọt",
+      "qty": 1,
+      "revenue": 10000,
       "unit": "chai/lon"
      }
-    ],
-    "name": "Đồ Uống",
-    "qty": 27,
-    "revenue": 431000
+    ]
    },
    {
+    "name": "Đồ Ăn",
+    "qty": 9,
+    "revenue": 95000,
     "items": [
      {
       "name": "Bimbim Oishi",
@@ -206,21 +225,20 @@
      },
      {
       "name": "VELA ruốc",
-      "qty": 1,
-      "revenue": 15000,
+      "qty": 2,
+      "revenue": 30000,
       "unit": "cái"
      },
      {
       "name": "VELA SANWICH",
-      "qty": 1,
-      "revenue": 8000,
+      "qty": 2,
+      "revenue": 16000,
       "unit": "cái"
      }
-    ],
-    "name": "Đồ Ăn",
-    "qty": 7,
-    "revenue": 72000
+    ]
    }
-  ]
+  ],
+  "ca1": [],
+  "ca2": []
  }
 }
