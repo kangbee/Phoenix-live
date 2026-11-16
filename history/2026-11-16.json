@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 16,
-    "items": 44,
-    "revenue": 1597500
+    "invoices": 17,
+    "items": 45,
+    "revenue": 1617500
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,22 +21,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 23:35–23:44 ngày 16/11/2026 — ngày vận hành 16/11: 3.641.500đ/39 HĐ/100 món, KHÔNG ĐỔI so với quét 23:21–23:26 (không có HĐ mới sau 2400003855 lúc 23:16); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.597.500đ/16 HĐ/44 món; đơn chưa hoàn tất KHÔNG ĐỔI 2 đơn/68.000đ (Tại bàn) lúc 23:43; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.372.150đ/617 HĐ. Lưu ý: lần quét này Sapo đọc khung Ca 1 07:00–19:00 là 1.927.000đ/22 HĐ (thấp hơn số chốt 19:15 đúng HĐ 2400003839 lúc 19:06, 117.000đ) — chỉ khác ranh giới 19:00/19:15, tổng ngày vẫn khớp nên giữ nguyên phân ca theo chốt 19:15, không nạp lại. 2 món lệch ở lần quét trước đã khớp lại: Latte Mãng Cầu 15.000đ, Latte Trà Sữa 16.000đ.",
+  "source_note": "Quét live 23:49–23:55 ngày 16/11/2026 — ngày vận hành 16/11: 3.661.500đ/40 HĐ/101 món, TĂNG 20.000đ (+1 HĐ: Thăng Long +1 20.000đ) so với quét 23:35–23:44; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.617.500đ/17 HĐ/45 món; đơn chưa hoàn tất TĂNG 68.000đ → 205.000đ (2 đơn Tại bàn) lúc 23:49 — 2 bàn đang chơi gọi thêm; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.392.150đ/618 HĐ.",
   "totals": {
-    "invoices": 39,
-    "items": 100,
-    "revenue": 3641500
+    "invoices": 40,
+    "items": 101,
+    "revenue": 3661500
   },
   "unpaid": {
-    "checked_at": "23:43 ngày 16/11/2026",
+    "checked_at": "23:55 ngày 16/11/2026",
     "unfinished": {
       "count": 2,
-      "total": 68000,
+      "total": 205000,
       "channels": [
         {
           "channel": "Tại bàn",
           "count": 2,
-          "total": 68000
+          "total": 205000
         },
         {
           "channel": "Mang đi",
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "23:43 ngày 16/11/2026",
+  "updated_label": "23:55 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -255,13 +255,13 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 2,
-        "revenue": 40000,
+        "qty": 3,
+        "revenue": 60000,
         "items": [
           {
             "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
+            "qty": 3,
+            "revenue": 60000,
             "unit": "bao"
           }
         ]
@@ -270,8 +270,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 63372150,
-    "invoices": 617,
+    "revenue": 63392150,
+    "invoices": 618,
     "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
@@ -336,7 +336,7 @@
       },
       {
         "date": "16/11",
-        "revenue": 3641500
+        "revenue": 3661500
       }
     ]
   }
