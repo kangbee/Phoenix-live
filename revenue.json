@@ -21,21 +21,21 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 10:05–10:08 ngày 16/11/2026 — ngày vận hành mới 16/11: 0đ/0 HĐ/0 món (quán mới mở ca 07:00, chưa có hóa đơn; Sapo báo 'Chưa ghi nhận báo cáo'); ngày 15/11 đã chốt 6.071.250đ/57 HĐ/175 món; đơn chưa hoàn tất 1 đơn / 97.000đ (Tại bàn), chờ xác nhận thanh toán 0, ghi nợ 0. Lưu ý: đơn chưa hoàn tất vẫn 1 đơn (Tại bàn) nhưng tổng tiền tăng từ 76.000đ lúc 10:01 lên 97.000đ lúc 10:08 — số chỉ đúng tại thời điểm quét, cần hỏi nhân viên ca.",
+  "source_note": "Quét live 10:12–10:16 ngày 16/11/2026 — ngày vận hành mới 16/11: 0đ/0 HĐ/0 món (quán mới mở ca 07:00, chưa có hóa đơn; Sapo báo 'Chưa ghi nhận báo cáo'); ngày 15/11 đã chốt 6.071.250đ/57 HĐ/175 món; đơn chưa hoàn tất 0 đơn / 0đ (giảm từ 1 đơn / 97.000đ lúc 10:08), chờ xác nhận thanh toán 0, ghi nợ 0. Lưu ý: đơn chưa hoàn tất 1 đơn / 97.000đ (Tại bàn) biến mất lúc 10:16 mà không có hóa đơn mới nào — Sapo không cho biết đã thanh toán hay hủy, cần hỏi nhân viên ca.",
   "totals": {
     "invoices": 0,
     "items": 0,
     "revenue": 0
   },
   "unpaid": {
-    "checked_at": "10:08 ngày 16/11/2026",
+    "checked_at": "10:16 ngày 16/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 97000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -53,11 +53,11 @@
           "total": 0
         }
       ],
-      "count": 1,
-      "total": 97000
+      "count": 0,
+      "total": 0
     }
   },
-  "updated_label": "10:08 ngày 16/11/2026",
+  "updated_label": "10:16 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
