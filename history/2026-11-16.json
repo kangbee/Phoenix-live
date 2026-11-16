@@ -7,36 +7,36 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 18,
-    "items": 52,
-    "revenue": 1780500
+    "invoices": 19,
+    "items": 62,
+    "revenue": 2041500
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-16",
   "day_label": "Thứ hai, 16/11/2026",
   "drinks": {
-    "qty": 47,
-    "revenue": 818000
+    "qty": 52,
+    "revenue": 893000
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 01:36–01:40 ngày 17/11/2026 — ngày vận hành 16/11: 3.824.500đ/41 HĐ/108 món, KHÔNG ĐỔI so với quét 01:24–01:29 (không có HĐ mới sau 2400003857 lúc 01:06); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi — HĐ 2400003839 lúc 19:06 vẫn tính Ca 1 theo quy ước chốt 19:15), Ca 2 1.780.500đ/18 HĐ/52 món; chi tiết món cả ngày 27 dòng cộng đúng 3.824.500đ/108 món; đơn chưa hoàn tất TĂNG 0đ → 336.250đ (3 đơn Tại bàn) lúc 01:39 (bàn mới mở sau 01:28); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.555.150đ/619 HĐ.",
+  "source_note": "Quét live 01:46–01:50 ngày 17/11/2026 — ngày vận hành 16/11: 4.085.500đ/42 HĐ/118 món, TĂNG +261.000đ/+1 HĐ/+10 món so với quét 01:36–01:40 (HĐ mới 2400003858 lúc 01:41: Nước Lọc +3 30.000đ, Cơ Thuê +2 58.000đ, Giờ Thường +1 98.000đ, ICE Trà Đào +1 15.000đ, Bài +1 10.000đ, Saigon Dưa Lưới +1 30.000đ, Thăng Long +1 20.000đ); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi — HĐ 2400003839 lúc 19:06 vẫn tính Ca 1 theo quy ước chốt 19:15), Ca 2 2.041.500đ/19 HĐ/62 món; chi tiết món cả ngày 27 dòng cộng đúng 4.085.500đ/118 món; đơn chưa hoàn tất GIẢM 3 đơn/336.250đ → 2 đơn/81.250đ (Tại bàn) lúc 01:49 (giảm 255.000đ, chênh 6.000đ so với HĐ mới 261.000đ nên không khẳng định HĐ 3858 chính là đơn vừa hoàn tất); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.816.150đ/620 HĐ.",
   "totals": {
-    "invoices": 41,
-    "items": 108,
-    "revenue": 3824500
+    "invoices": 42,
+    "items": 118,
+    "revenue": 4085500
   },
   "unpaid": {
-    "checked_at": "01:39 ngày 17/11/2026",
+    "checked_at": "01:49 ngày 17/11/2026",
     "unfinished": {
-      "count": 3,
-      "total": 336250,
+      "count": 2,
+      "total": 81250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 336250
+          "count": 2,
+          "total": 81250
         },
         {
           "channel": "Mang đi",
@@ -57,20 +57,20 @@
     },
     "orders": []
   },
-  "updated_label": "01:39 ngày 17/11/2026",
+  "updated_label": "01:49 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 18,
-        "revenue": 1310500,
+        "qty": 19,
+        "revenue": 1408500,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 12,
-            "revenue": 730000,
+            "qty": 13,
+            "revenue": 828000,
             "unit": "lượt"
           },
           {
@@ -102,27 +102,27 @@
       },
       {
         "name": "Khác",
-        "qty": 12,
-        "revenue": 329000,
+        "qty": 15,
+        "revenue": 397000,
         "items": [
           {
             "name": "Cơ Thuê",
-            "qty": 11,
-            "revenue": 319000,
+            "qty": 13,
+            "revenue": 377000,
             "unit": "lượt"
           },
           {
             "name": "Bài",
-            "qty": 1,
-            "revenue": 10000,
+            "qty": 2,
+            "revenue": 20000,
             "unit": "cái"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 47,
-        "revenue": 818000,
+        "qty": 52,
+        "revenue": 893000,
         "items": [
           {
             "name": "Bò Húc",
@@ -132,8 +132,8 @@
           },
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 5,
-            "revenue": 150000,
+            "qty": 6,
+            "revenue": 180000,
             "unit": "chai/lon"
           },
           {
@@ -156,8 +156,8 @@
           },
           {
             "name": "Nước Lọc",
-            "qty": 4,
-            "revenue": 40000,
+            "qty": 7,
+            "revenue": 70000,
             "unit": "chai/lon"
           },
           {
@@ -204,8 +204,8 @@
           },
           {
             "name": "ICE Trà Đào",
-            "qty": 1,
-            "revenue": 15000,
+            "qty": 2,
+            "revenue": 30000,
             "unit": "chai/lon"
           },
           {
@@ -255,13 +255,13 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 3,
-        "revenue": 60000,
+        "qty": 4,
+        "revenue": 80000,
         "items": [
           {
             "name": "Thăng Long",
-            "qty": 3,
-            "revenue": 60000,
+            "qty": 4,
+            "revenue": 80000,
             "unit": "bao"
           }
         ]
@@ -270,8 +270,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 63555150,
-    "invoices": 619,
+    "revenue": 63816150,
+    "invoices": 620,
     "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
@@ -336,7 +336,7 @@
       },
       {
         "date": "16/11",
-        "revenue": 3824500
+        "revenue": 4085500
       }
     ]
   }
