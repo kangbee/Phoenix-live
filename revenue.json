@@ -12,44 +12,44 @@
     "revenue": 0
   },
   "costs": {},
-  "costs_updated_label": "Ch\u01b0a nh\u1eadp gi\u00e1 v\u1ed1n tr\u00ean Sapo \u2014 qu\u00e9t ng\u00e0y 10/11/2026 m\u1edbi 2/70 m\u00f3n c\u00f3 gi\u00e1 v\u1ed1n.",
+  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-16",
-  "day_label": "Th\u1ee9 hai, 16/11/2026",
+  "day_label": "Thứ hai, 16/11/2026",
   "drinks": {
     "qty": 2,
     "revenue": 30000
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Qu\u00e9t live 11:27\u201311:28 ng\u00e0y 16/11/2026 \u2014 ng\u00e0y v\u1eadn h\u00e0nh 16/11: 135.000\u0111/1 H\u0110/4 m\u00f3n (Ca 1: 135.000\u0111/1 H\u0110; Ca 2 ch\u01b0a b\u1eaft \u0111\u1ea7u), KH\u00d4NG \u0110\u1ed4I so v\u1edbi qu\u00e9t 11:20\u201311:22; H\u0110 m\u1edbi nh\u1ea5t 2400003817 l\u00fac 11:05 (E47370 B\u00e0n Ch\u01a1i - 1, 135.000\u0111, ti\u1ec1n m\u1eb7t); ng\u00e0y 15/11 \u0111\u00e3 ch\u1ed1t 6.071.250\u0111/57 H\u0110/175 m\u00f3n; \u0111\u01a1n ch\u01b0a ho\u00e0n t\u1ea5t 0 \u0111\u01a1n / 0\u0111 (2 \u0111\u01a1n / 100.000\u0111 l\u00fac 11:22 \u0111\u00e3 bi\u1ebfn m\u1ea5t m\u00e0 kh\u00f4ng c\u00f3 H\u0110 m\u1edbi \u2014 c\u1ea7n h\u1ecfi nh\u00e2n vi\u00ean ca), ch\u1edd x\u00e1c nh\u1eadn thanh to\u00e1n 0, ghi n\u1ee3 0",
+  "source_note": "Quét live 11:33–11:36 ngày 16/11/2026 — ngày vận hành 16/11: 135.000đ/1 HĐ/4 món (Ca 1: 135.000đ/1 HĐ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 11:27–11:28; HĐ mới nhất 2400003817 lúc 11:05 (E47370 Bàn Chơi - 1, 135.000đ, tiền mặt); ngày 15/11 đã chốt 6.071.250đ/57 HĐ/175 món; đơn chưa hoàn tất 2 đơn / 100.000đ (Tại bàn) — đã biến mất lúc 11:28 rồi lại hiện lúc 11:36 mà không có HĐ mới, số chỉ đúng tại thời điểm quét; cần hỏi nhân viên ca, chờ xác nhận thanh toán 0, ghi nợ 0",
   "totals": {
     "invoices": 1,
     "items": 4,
     "revenue": 135000
   },
   "unpaid": {
-    "checked_at": "11:28 ng\u00e0y 16/11/2026",
+    "checked_at": "11:36 ngày 16/11/2026",
     "unfinished": {
-      "count": 0,
-      "total": 0,
+      "count": 2,
+      "total": 100000,
       "channels": [
         {
-          "channel": "T\u1ea1i b\u00e0n",
+          "channel": "Tại bàn",
+          "count": 2,
+          "total": 100000
+        },
+        {
+          "channel": "Mang đi",
           "count": 0,
           "total": 0
         },
         {
-          "channel": "Mang \u0111i",
+          "channel": "Giao hàng",
           "count": 0,
           "total": 0
         },
         {
-          "channel": "Giao h\u00e0ng",
-          "count": 0,
-          "total": 0
-        },
-        {
-          "channel": "\u0110\u1ed1i t\u00e1c t\u00edch h\u1ee3p",
+          "channel": "Đối tác tích hợp",
           "count": 0,
           "total": 0
         }
@@ -57,37 +57,37 @@
     },
     "orders": []
   },
-  "updated_label": "11:28 ng\u00e0y 16/11/2026",
+  "updated_label": "11:36 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
-        "name": "Kh\u00f4ng c\u00f3 danh m\u1ee5c",
+        "name": "Không có danh mục",
         "qty": 1,
         "revenue": 90000,
         "items": [
           {
-            "name": "Gi\u1edd Th\u01b0\u1eddng",
+            "name": "Giờ Thường",
             "qty": 1,
             "revenue": 90000,
-            "unit": "l\u01b0\u1ee3t"
+            "unit": "lượt"
           }
         ]
       },
       {
-        "name": "\u0110\u1ed3 U\u1ed1ng",
+        "name": "Đồ Uống",
         "qty": 2,
         "revenue": 30000,
         "items": [
           {
-            "name": "Tr\u00e0 V\u1ea3i Joco",
+            "name": "Trà Vải Joco",
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte M\u00e3ng C\u1ea7u",
+            "name": "Latte Mãng Cầu",
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "name": "\u0110\u1ed3 \u0102n",
+        "name": "Đồ Ăn",
         "qty": 1,
         "revenue": 15000,
         "items": [
@@ -103,17 +103,17 @@
             "name": "VELA to",
             "qty": 1,
             "revenue": 15000,
-            "unit": "c\u00e1i"
+            "unit": "cái"
           }
         ]
       }
     ]
   },
   "month": {
-    "label": "Th\u00e1ng 11/2026 l\u0169y k\u1ebf",
+    "label": "Tháng 11/2026 lũy kế",
     "revenue": 59865650,
     "invoices": 579,
-    "note": "T\u00ednh \u0111\u1ebfn h\u1ebft ng\u00e0y v\u1eadn h\u00e0nh 16/11/2026",
+    "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
         "date": "01/11",
