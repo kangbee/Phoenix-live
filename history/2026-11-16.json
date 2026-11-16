@@ -21,22 +21,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 01:09–01:11 ngày 17/11/2026 — ngày vận hành 16/11: 3.824.500đ/41 HĐ/108 món, TĂNG 163.000đ/+1 HĐ/+7 món so với quét 00:57–01:01 (HĐ mới 2400003857 lúc 01:06, 163.000đ: Bò Húc +2, Cơ Thuê +1, Bimbim Oishi +2, Nước Lọc +1, Giờ Thường +1); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.780.500đ/18 HĐ/52 món; chi tiết món cả ngày 27 dòng cộng đúng 3.824.500đ/108 món; đơn chưa hoàn tất GIẢM 127.000đ → 292.250đ (3 đơn Tại bàn) lúc 01:11; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.555.150đ/619 HĐ.",
+  "source_note": "Quét live 01:36–01:40 ngày 17/11/2026 — ngày vận hành 16/11: 3.824.500đ/41 HĐ/108 món, KHÔNG ĐỔI so với quét 01:24–01:29 (không có HĐ mới sau 2400003857 lúc 01:06); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi — HĐ 2400003839 lúc 19:06 vẫn tính Ca 1 theo quy ước chốt 19:15), Ca 2 1.780.500đ/18 HĐ/52 món; chi tiết món cả ngày 27 dòng cộng đúng 3.824.500đ/108 món; đơn chưa hoàn tất TĂNG 0đ → 336.250đ (3 đơn Tại bàn) lúc 01:39 (bàn mới mở sau 01:28); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.555.150đ/619 HĐ.",
   "totals": {
     "invoices": 41,
     "items": 108,
     "revenue": 3824500
   },
   "unpaid": {
-    "checked_at": "01:28 ngày 17/11/2026",
+    "checked_at": "01:39 ngày 17/11/2026",
     "unfinished": {
-      "count": 0,
-      "total": 0,
+      "count": 3,
+      "total": 336250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 0,
-          "total": 0
+          "count": 3,
+          "total": 336250
         },
         {
           "channel": "Mang đi",
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "01:11 ngày 17/11/2026",
+  "updated_label": "01:39 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
