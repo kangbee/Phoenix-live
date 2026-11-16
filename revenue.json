@@ -21,22 +21,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 01:46–01:50 ngày 17/11/2026 — ngày vận hành 16/11: 4.085.500đ/42 HĐ/118 món, TĂNG +261.000đ/+1 HĐ/+10 món so với quét 01:36–01:40 (HĐ mới 2400003858 lúc 01:41: Nước Lọc +3 30.000đ, Cơ Thuê +2 58.000đ, Giờ Thường +1 98.000đ, ICE Trà Đào +1 15.000đ, Bài +1 10.000đ, Saigon Dưa Lưới +1 30.000đ, Thăng Long +1 20.000đ); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi — HĐ 2400003839 lúc 19:06 vẫn tính Ca 1 theo quy ước chốt 19:15), Ca 2 2.041.500đ/19 HĐ/62 món; chi tiết món cả ngày 27 dòng cộng đúng 4.085.500đ/118 món; đơn chưa hoàn tất GIẢM 3 đơn/336.250đ → 2 đơn/81.250đ (Tại bàn) lúc 01:49 (giảm 255.000đ, chênh 6.000đ so với HĐ mới 261.000đ nên không khẳng định HĐ 3858 chính là đơn vừa hoàn tất); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.816.150đ/620 HĐ.",
+  "source_note": "Quét live 01:59–02:03 ngày 17/11/2026 — ngày vận hành 16/11: live KHÔNG ĐỔI 4.085.500đ/42 HĐ/118 món so với quét 01:46–01:50; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi — HĐ 2400003839 lúc 19:06 vẫn tính Ca 1 theo quy ước chốt 19:15), Ca 2 2.041.500đ/19 HĐ/62 món; đơn chưa hoàn tất TĂNG 2 đơn/81.250đ → 3 đơn/117.250đ (Tại bàn) lúc 02:02; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.816.150đ/620 HĐ.",
   "totals": {
     "invoices": 42,
     "items": 118,
     "revenue": 4085500
   },
   "unpaid": {
-    "checked_at": "01:49 ngày 17/11/2026",
+    "checked_at": "02:02 ngày 17/11/2026",
     "unfinished": {
-      "count": 2,
-      "total": 81250,
+      "count": 3,
+      "total": 117250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 2,
-          "total": 81250
+          "count": 3,
+          "total": 117250
         },
         {
           "channel": "Mang đi",
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "01:49 ngày 17/11/2026",
+  "updated_label": "02:02 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
