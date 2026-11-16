@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 2,
-    "items": 5,
-    "revenue": 154000
+    "invoices": 3,
+    "items": 6,
+    "revenue": 216000
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,22 +21,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 20:35–20:38 ngày 16/11/2026 — ngày vận hành 16/11: 2.198.000đ/25 HĐ/61 món, TĂNG 85.000đ (+1 HĐ 2400003841 lúc 20:30: Number One x1 16.000đ + Trà Vải Joco x1 15.000đ + Giờ Vip 54.000đ) so với quét 20:24–20:29; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 154.000đ/2 HĐ/5 món; đơn chưa hoàn tất 11 đơn/702.250đ (Tại bàn) lúc 20:38 — số 0 lúc 20:28 là widget tải chậm, đã kiểm chứng lại 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 61.928.650đ/603 HĐ",
+  "source_note": "Quét live 20:56–21:01 ngày 16/11/2026 — ngày vận hành 16/11: 2.260.000đ/26 HĐ/62 món, TĂNG 62.000đ (+1 HĐ 2400003842 lúc 20:59: Giờ Thường 62.000đ) so với quét 20:45–20:50; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 216.000đ/3 HĐ/6 món; đơn chưa hoàn tất 10 đơn/795.000đ (Tại bàn) lúc 21:00 — giảm 1 đơn (HĐ 3842 đã thanh toán), tăng 19.000đ do bàn đang mở gọi thêm; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 61.990.650đ/604 HĐ",
   "totals": {
-    "invoices": 25,
-    "items": 61,
-    "revenue": 2198000
+    "invoices": 26,
+    "items": 62,
+    "revenue": 2260000
   },
   "unpaid": {
-    "checked_at": "20:50 ngày 16/11/2026",
+    "checked_at": "21:00 ngày 16/11/2026",
     "unfinished": {
-      "count": 11,
-      "total": 756000,
+      "count": 10,
+      "total": 795000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 11,
-          "total": 756000
+          "count": 10,
+          "total": 795000
         },
         {
           "channel": "Mang đi",
@@ -57,20 +57,20 @@
     },
     "orders": []
   },
-  "updated_label": "20:38 ngày 16/11/2026",
+  "updated_label": "21:01 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 11,
-        "revenue": 714000,
+        "qty": 12,
+        "revenue": 776000,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 9,
-            "revenue": 534000,
+            "qty": 10,
+            "revenue": 596000,
             "unit": "lượt"
           },
           {
@@ -216,8 +216,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 61928650,
-    "invoices": 603,
+    "revenue": 61990650,
+    "invoices": 604,
     "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
@@ -282,7 +282,7 @@
       },
       {
         "date": "16/11",
-        "revenue": 2198000
+        "revenue": 2260000
       }
     ]
   }
