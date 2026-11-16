@@ -182,9 +182,9 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 44313400,
-    "invoices": 422,
-    "note": "Tính đến hết ngày vận hành 12/11/2026",
+    "revenue": 59730650,
+    "invoices": 578,
+    "note": "Tính đến hết ngày vận hành 15/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -233,6 +233,18 @@
       {
         "date": "12/11",
         "revenue": 2563000
+      },
+      {
+        "date": "13/11",
+        "revenue": 2391500
+      },
+      {
+        "date": "14/11",
+        "revenue": 6954500
+      },
+      {
+        "date": "15/11",
+        "revenue": 6071250
       }
     ]
   },
