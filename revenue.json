@@ -21,14 +21,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 23:21–23:26 ngày 16/11/2026 — ngày vận hành 16/11: 3.641.500đ/39 HĐ/100 món, TĂNG 17.000đ (+1 HĐ 2400003855 lúc 23:16: Bò Húc 17.000đ, thu ngân nvien mới) so với quét 23:12–23:15; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.597.500đ/16 HĐ/44 món; đơn chưa hoàn tất TĂNG 1 đơn/32.000đ → 2 đơn/68.000đ (Tại bàn) lúc 23:25; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.372.150đ/617 HĐ. Lưu ý: báo cáo mặt hàng Sapo đọc 2 món lệch so với số đã lưu — Latte Mãng Cầu cả ngày 10.000đ (thấp hơn Ca 1 đã lưu 15.000đ) và Latte Trà Sữa 15.000đ (Ca 2 đã lưu 16.000đ) — đã giữ số đã lưu vì cộng kiểm khớp tổng ngày 3.641.500đ.",
+  "source_note": "Quét live 23:35–23:44 ngày 16/11/2026 — ngày vận hành 16/11: 3.641.500đ/39 HĐ/100 món, KHÔNG ĐỔI so với quét 23:21–23:26 (không có HĐ mới sau 2400003855 lúc 23:16); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.597.500đ/16 HĐ/44 món; đơn chưa hoàn tất KHÔNG ĐỔI 2 đơn/68.000đ (Tại bàn) lúc 23:43; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.372.150đ/617 HĐ. Lưu ý: lần quét này Sapo đọc khung Ca 1 07:00–19:00 là 1.927.000đ/22 HĐ (thấp hơn số chốt 19:15 đúng HĐ 2400003839 lúc 19:06, 117.000đ) — chỉ khác ranh giới 19:00/19:15, tổng ngày vẫn khớp nên giữ nguyên phân ca theo chốt 19:15, không nạp lại. 2 món lệch ở lần quét trước đã khớp lại: Latte Mãng Cầu 15.000đ, Latte Trà Sữa 16.000đ.",
   "totals": {
     "invoices": 39,
     "items": 100,
     "revenue": 3641500
   },
   "unpaid": {
-    "checked_at": "23:25 ngày 16/11/2026",
+    "checked_at": "23:43 ngày 16/11/2026",
     "unfinished": {
       "count": 2,
       "total": 68000,
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "23:25 ngày 16/11/2026",
+  "updated_label": "23:43 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
