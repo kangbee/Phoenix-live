@@ -21,14 +21,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 21:15–21:19 ngày 16/11/2026 — ngày vận hành 16/11: 2.341.000đ/27 HĐ/65 món, TĂNG 81.000đ (+1 HĐ 2400003843 lúc 21:16: Combo HS 50.000đ + ICE Trà Đào 15.000đ + Latte Trà Sữa 16.000đ) so với quét 21:06–21:10; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 297.000đ/4 HĐ/9 món; đơn chưa hoàn tất 10 đơn/716.000đ (Tại bàn) lúc 21:19 — giảm 1 đơn/81.000đ (HĐ 3843 đã thanh toán); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 62.071.650đ/605 HĐ",
+  "source_note": "Quét live 21:28–21:31 ngày 16/11/2026 — ngày vận hành 16/11: live KHÔNG ĐỔI 2.341.000đ/27 HĐ/65 món so với quét 21:15–21:19 (không có HĐ mới sau 21:16, mới nhất vẫn 2400003843 lúc 21:16); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 297.000đ/4 HĐ/9 món; đơn chưa hoàn tất KHÔNG ĐỔI 10 đơn/716.000đ (Tại bàn) lúc 21:30; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 62.071.650đ/605 HĐ",
   "totals": {
     "invoices": 27,
     "items": 65,
     "revenue": 2341000
   },
   "unpaid": {
-    "checked_at": "21:19 ngày 16/11/2026",
+    "checked_at": "21:30 ngày 16/11/2026",
     "unfinished": {
       "count": 10,
       "total": 716000,
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "21:19 ngày 16/11/2026",
+  "updated_label": "21:30 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
