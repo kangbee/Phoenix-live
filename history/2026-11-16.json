@@ -7,36 +7,36 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 11,
-    "items": 31,
-    "revenue": 1141500
+    "invoices": 13,
+    "items": 37,
+    "revenue": 1312500
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-16",
   "day_label": "Thứ hai, 16/11/2026",
   "drinks": {
-    "qty": 37,
-    "revenue": 632000
+    "qty": 40,
+    "revenue": 694000
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 22:09–22:12 ngày 16/11/2026 — ngày vận hành 16/11: live KHÔNG ĐỔI 3.185.500đ/34 HĐ/87 món so với quét 21:54–21:59 (không có HĐ mới sau 21:53); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 1.141.500đ/11 HĐ/31 món; đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/300.000đ (Tại bàn) lúc 22:11; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 62.916.150đ/612 HĐ",
+  "source_note": "Quét live 22:20–22:26 ngày 16/11/2026 — ngày vận hành 16/11: live TĂNG 3.185.500đ → 3.356.500đ/36 HĐ/93 món (+171.000đ, +2 HĐ: 2400003851 lúc 22:13 62.000đ, 2400003852 lúc 22:16 109.000đ); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 1.312.500đ/13 HĐ/37 món; đơn chưa hoàn tất GIẢM 3 đơn/300.000đ → 2 đơn/191.000đ (Tại bàn) lúc 22:24; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.087.150đ/614 HĐ",
   "totals": {
-    "invoices": 34,
-    "items": 87,
-    "revenue": 3185500
+    "invoices": 36,
+    "items": 93,
+    "revenue": 3356500
   },
   "unpaid": {
-    "checked_at": "22:11 ngày 16/11/2026",
+    "checked_at": "22:24 ngày 16/11/2026",
     "unfinished": {
-      "count": 3,
-      "total": 300000,
+      "count": 2,
+      "total": 191000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 300000
+          "count": 2,
+          "total": 191000
         },
         {
           "channel": "Mang đi",
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "22:11 ngày 16/11/2026",
+  "updated_label": "22:24 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -83,8 +83,8 @@
       },
       {
         "name": "Combo",
-        "qty": 17,
-        "revenue": 1125000,
+        "qty": 18,
+        "revenue": 1204000,
         "items": [
           {
             "name": "Combo HS",
@@ -94,8 +94,8 @@
           },
           {
             "name": "Combo 79",
-            "qty": 3,
-            "revenue": 279000,
+            "qty": 4,
+            "revenue": 358000,
             "unit": "lượt"
           }
         ]
@@ -115,8 +115,8 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 37,
-        "revenue": 632000,
+        "qty": 40,
+        "revenue": 694000,
         "items": [
           {
             "name": "Bò Húc",
@@ -126,8 +126,8 @@
           },
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 3,
-            "revenue": 90000,
+            "qty": 4,
+            "revenue": 120000,
             "unit": "chai/lon"
           },
           {
@@ -149,13 +149,13 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Boncha Ô Long Đào",
+            "name": "Latte Caramen",
             "qty": 2,
             "revenue": 32000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Caramen",
+            "name": "Boncha Ô Long Đào",
             "qty": 2,
             "revenue": 32000,
             "unit": "chai/lon"
@@ -173,7 +173,19 @@
             "unit": "chai/lon"
           },
           {
+            "name": "Nutri Dâu",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "Boncha Yuzu",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Socola",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
@@ -206,23 +218,23 @@
       },
       {
         "name": "Đồ Ăn",
-        "qty": 6,
-        "revenue": 57000,
+        "qty": 8,
+        "revenue": 87000,
         "items": [
           {
-            "name": "VELA SANWICH",
+            "name": "VELA to",
+            "qty": 3,
+            "revenue": 45000,
+            "unit": "cái"
+          },
+          {
+            "name": "Bimbim Oishi",
             "qty": 2,
             "revenue": 16000,
             "unit": "cái"
           },
           {
-            "name": "VELA to",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "cái"
-          },
-          {
-            "name": "Bimbim Oishi",
+            "name": "VELA SANWICH",
             "qty": 2,
             "revenue": 16000,
             "unit": "cái"
@@ -252,8 +264,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 62916150,
-    "invoices": 612,
+    "revenue": 63087150,
+    "invoices": 614,
     "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
@@ -318,7 +330,7 @@
       },
       {
         "date": "16/11",
-        "revenue": 3185500
+        "revenue": 3356500
       }
     ]
   }
