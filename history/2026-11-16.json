@@ -7,36 +7,36 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 14,
-    "items": 39,
-    "revenue": 1389500
+    "invoices": 15,
+    "items": 43,
+    "revenue": 1580500
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-16",
   "day_label": "Thứ hai, 16/11/2026",
   "drinks": {
-    "qty": 41,
-    "revenue": 711000
+    "qty": 43,
+    "revenue": 757000
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 22:38–22:40 ngày 16/11/2026 — ngày vận hành 16/11: live TĂNG 3.356.500đ → 3.433.500đ/37 HĐ/95 món (+77.000đ, +1 HĐ lúc 22:38 77.000đ — Giờ Thường +1 giờ 60.000đ, Bò Húc +1 17.000đ); Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt), Ca 2 1.389.500đ/14 HĐ/39 món; đơn chưa hoàn tất GIẢM 2 đơn/191.000đ → 1 đơn/146.000đ (Tại bàn) lúc 22:40; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.164.150đ/615 HĐ",
+  "source_note": "Quét live 22:48–22:55 ngày 16/11/2026 — ngày vận hành 16/11: 3.624.500đ/38 HĐ/99 món, TĂNG 191.000đ (+1 HĐ 2400003854 lúc 22:49: Giờ Vip 135.000đ + Latte Socola 16.000đ + Bài 10.000đ + Saigon Dưa Lưới 30.000đ) so với quét 22:38–22:40; Ca 1 2.044.000đ/23 HĐ/56 món (đã chốt, không đổi), Ca 2 1.580.500đ/15 HĐ/43 món; đơn chưa hoàn tất GIẢM 1 đơn/146.000đ → 0 đơn/0đ (Tại bàn) lúc 22:55 — lưu ý: không thấy HĐ 146.000đ nào được thanh toán sau 22:40 (HĐ mới duy nhất là 3854, 191.000đ) nên chưa rõ đơn đó đã thanh toán gộp, hủy hay xử lý khác; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 63.355.150đ/616 HĐ",
   "totals": {
-    "invoices": 37,
-    "items": 95,
-    "revenue": 3433500
+    "invoices": 38,
+    "items": 99,
+    "revenue": 3624500
   },
   "unpaid": {
-    "checked_at": "22:40 ngày 16/11/2026",
+    "checked_at": "22:55 ngày 16/11/2026",
     "unfinished": {
-      "count": 1,
-      "total": 146000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 146000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -57,15 +57,15 @@
     },
     "orders": []
   },
-  "updated_label": "22:40 ngày 16/11/2026",
+  "updated_label": "22:55 ngày 16/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 16,
-        "revenue": 1101500,
+        "qty": 17,
+        "revenue": 1236500,
         "items": [
           {
             "name": "Giờ Thường",
@@ -75,8 +75,8 @@
           },
           {
             "name": "Giờ Vip",
-            "qty": 5,
-            "revenue": 445500,
+            "qty": 6,
+            "revenue": 580500,
             "unit": "lượt"
           }
         ]
@@ -102,21 +102,27 @@
       },
       {
         "name": "Khác",
-        "qty": 10,
-        "revenue": 290000,
+        "qty": 11,
+        "revenue": 300000,
         "items": [
           {
             "name": "Cơ Thuê",
             "qty": 10,
             "revenue": 290000,
             "unit": "lượt"
+          },
+          {
+            "name": "Bài",
+            "qty": 1,
+            "revenue": 10000,
+            "unit": "cái"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 41,
-        "revenue": 711000,
+        "qty": 43,
+        "revenue": 757000,
         "items": [
           {
             "name": "Bò Húc",
@@ -126,8 +132,8 @@
           },
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 4,
-            "revenue": 120000,
+            "qty": 5,
+            "revenue": 150000,
             "unit": "chai/lon"
           },
           {
@@ -186,8 +192,8 @@
           },
           {
             "name": "Latte Socola",
-            "qty": 1,
-            "revenue": 16000,
+            "qty": 2,
+            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -264,8 +270,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 63164150,
-    "invoices": 615,
+    "revenue": 63355150,
+    "invoices": 616,
     "note": "Tính đến hết ngày vận hành 16/11/2026",
     "daily": [
       {
@@ -330,7 +336,7 @@
       },
       {
         "date": "16/11",
-        "revenue": 3433500
+        "revenue": 3624500
       }
     ]
   }
