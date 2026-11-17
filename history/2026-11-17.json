@@ -97,21 +97,23 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 16:23–16:25 ngày 17/11/2026 — ngày vận hành 17/11: 467.750đ/8 HĐ/15 món (Ca 1: Combo HS 212.000đ x4, Giờ Thường 78.000đ x2, Thăng Long 40.000đ x2, Combo 39 39.000đ x1, Bò Húc 34.000đ x2, ICE Trà Đào 30.000đ x2, Giờ Vip 24.750đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 16:19–16:21; HĐ mới nhất vẫn 2400003869 lúc 16:10, 52.000đ; đơn chưa hoàn tất 4 đơn/182.000đ lúc 16:25 (Tại bàn), KHÔNG ĐỔI so với 16:21; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.538.150đ/631 HĐ.",
+  "source_note": "Quét live 16:27–16:29 ngày 17/11/2026 — ngày vận hành 17/11: 467.750đ/8 HĐ/15 món (Ca 1: Combo HS 212.000đ x4, Giờ Thường 78.000đ x2, Thăng Long 40.000đ x2, Combo 39 39.000đ x1, Bò Húc 34.000đ x2, ICE Trà Đào 30.000đ x2, Giờ Vip 24.750đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 16:23–16:25; HĐ mới nhất vẫn 2400003869 lúc 16:10, 52.000đ; đơn chưa hoàn tất 0 đơn/0đ lúc 16:29, GIẢM 4 đơn/182.000đ so với 16:25 mà không có HĐ mới — cần hỏi nhân viên (hủy hay tính tiền ngoài); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.538.150đ/631 HĐ.",
   "totals": {
     "invoices": 8,
     "items": 15,
     "revenue": 467750
   },
   "unpaid": {
-    "checked_at": "16:25 ngày 17/11/2026",
+    "checked_at": "16:29 ngày 17/11/2026",
     "orders": [],
     "unfinished": {
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 4,
-          "total": 182000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -128,12 +130,10 @@
           "count": 0,
           "total": 0
         }
-      ],
-      "count": 4,
-      "total": 182000
+      ]
     }
   },
-  "updated_label": "16:25 ngày 17/11/2026",
+  "updated_label": "16:29 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
