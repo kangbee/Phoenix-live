@@ -20,10 +20,6 @@
     "revenue": 10000
   },
   "month": {
-    "label": "Tháng 11/2026 lũy kế",
-    "revenue": 64248400,
-    "invoices": 626,
-    "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -93,26 +89,29 @@
         "date": "17/11",
         "revenue": 178000
       }
-    ]
+    ],
+    "invoices": 626,
+    "label": "Tháng 11/2026 lũy kế",
+    "note": "Tính đến hết ngày vận hành 17/11/2026",
+    "revenue": 64248400
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:08–14:10 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), tăng 80.000đ so với quét 13:57–13:59; HĐ mới nhất 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 1 đơn/50.000đ lúc 14:09 (Tại bàn, giảm 30.000đ so với 80.000đ lúc 13:58), chờ xác nhận 0, ghi nợ 0.",
+  "source_note": "Quét live 14:15–14:17 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 14:08–14:10; HĐ mới nhất vẫn 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 3 đơn/139.000đ lúc 14:16 (Tại bàn, tăng 2 đơn/89.000đ so với 1 đơn/50.000đ lúc 14:09), chờ xác nhận 0, ghi nợ 0.",
   "totals": {
     "invoices": 3,
     "items": 6,
     "revenue": 178000
   },
   "unpaid": {
-    "checked_at": "14:09 ngày 17/11/2026",
+    "checked_at": "14:16 ngày 17/11/2026",
+    "orders": [],
     "unfinished": {
-      "count": 1,
-      "total": 50000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 50000
+          "count": 3,
+          "total": 139000
         },
         {
           "channel": "Mang đi",
@@ -129,19 +128,17 @@
           "count": 0,
           "total": 0
         }
-      ]
-    },
-    "orders": []
+      ],
+      "count": 3,
+      "total": 139000
+    }
   },
-  "updated_label": "14:09 ngày 17/11/2026",
+  "updated_label": "14:16 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
-        "name": "Không có danh mục",
-        "qty": 1,
-        "revenue": 18000,
         "items": [
           {
             "name": "Giờ Thường",
@@ -149,12 +146,12 @@
             "revenue": 18000,
             "unit": "lượt"
           }
-        ]
+        ],
+        "name": "Không có danh mục",
+        "qty": 1,
+        "revenue": 18000
       },
       {
-        "name": "Combo",
-        "qty": 2,
-        "revenue": 110000,
         "items": [
           {
             "name": "Combo HS",
@@ -162,12 +159,12 @@
             "revenue": 110000,
             "unit": "lượt"
           }
-        ]
+        ],
+        "name": "Combo",
+        "qty": 2,
+        "revenue": 110000
       },
       {
-        "name": "Thuốc Lá",
-        "qty": 2,
-        "revenue": 40000,
         "items": [
           {
             "name": "Thăng Long",
@@ -175,12 +172,12 @@
             "revenue": 40000,
             "unit": "bao"
           }
-        ]
+        ],
+        "name": "Thuốc Lá",
+        "qty": 2,
+        "revenue": 40000
       },
       {
-        "name": "Đồ Uống",
-        "qty": 1,
-        "revenue": 10000,
         "items": [
           {
             "name": "Tiền Hải Ngọt",
@@ -188,7 +185,10 @@
             "revenue": 10000,
             "unit": "chai/lon"
           }
-        ]
+        ],
+        "name": "Đồ Uống",
+        "qty": 1,
+        "revenue": 10000
       }
     ]
   }
