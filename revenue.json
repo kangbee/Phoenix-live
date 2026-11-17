@@ -20,6 +20,10 @@
     "revenue": 10000
   },
   "month": {
+    "label": "Tháng 11/2026 lũy kế",
+    "revenue": 64248400,
+    "invoices": 626,
+    "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -89,24 +93,21 @@
         "date": "17/11",
         "revenue": 178000
       }
-    ],
-    "invoices": 626,
-    "label": "Tháng 11/2026 lũy kế",
-    "note": "Tính đến hết ngày vận hành 17/11/2026",
-    "revenue": 64248400
+    ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:21–14:23 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 14:15–14:17; HĐ mới nhất vẫn 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 3 đơn/139.000đ lúc 14:22 (Tại bàn, không đổi so với 14:16), chờ xác nhận 0, ghi nợ 0.",
+  "source_note": "Quét live 14:27–14:29 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 14:21–14:23; HĐ mới nhất vẫn 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 3 đơn/139.000đ lúc 14:28 (Tại bàn, không đổi so với 14:22), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.248.400đ/626 HĐ",
   "totals": {
     "invoices": 3,
     "items": 6,
     "revenue": 178000
   },
   "unpaid": {
-    "checked_at": "14:22 ngày 17/11/2026",
-    "orders": [],
+    "checked_at": "14:28 ngày 17/11/2026",
     "unfinished": {
+      "count": 3,
+      "total": 139000,
       "channels": [
         {
           "channel": "Tại bàn",
@@ -128,12 +129,11 @@
           "count": 0,
           "total": 0
         }
-      ],
-      "count": 3,
-      "total": 139000
-    }
+      ]
+    },
+    "orders": []
   },
-  "updated_label": "14:22 ngày 17/11/2026",
+  "updated_label": "14:28 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
