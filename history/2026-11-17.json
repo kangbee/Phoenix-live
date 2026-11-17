@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 0,
-    "items": 0,
-    "revenue": 0
+    "invoices": 1,
+    "items": 1,
+    "revenue": 18000
   },
   "ca2": {
     "closed": false,
@@ -20,6 +20,10 @@
     "revenue": 0
   },
   "month": {
+    "label": "Tháng 11/2026 lũy kế",
+    "revenue": 64088400,
+    "invoices": 624,
+    "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -84,31 +88,31 @@
       {
         "date": "16/11",
         "revenue": 4339750
+      },
+      {
+        "date": "17/11",
+        "revenue": 18000
       }
-    ],
-    "invoices": 623,
-    "label": "Tháng 11/2026 lũy kế",
-    "note": "Tính đến hết ngày vận hành 16/11/2026",
-    "revenue": 64070400
+    ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 12:35–12:46 ngày 17/11/2026 — ngày vận hành 17/11: 0đ/0 HĐ/0 món (quán chưa có hóa đơn; Sapo báo 'Chưa ghi nhận báo cáo'); ngày 16/11 đã chốt 4.339.750đ/45 HĐ/126 món; HĐ mới nhất 2400003861 lúc 02:35, 103.250đ (thuộc ngày 16/11); đơn chưa hoàn tất 3 đơn/104.000đ lúc 12:45 (Tại bàn; tăng từ 2 đơn/52.000đ lúc 12:30, lần tải đầu hiện 0 sai, đã tải lại + cuộn xuống chờ widget, xác nhận ổn định sau 10 giây), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.070.400đ/623 HĐ.",
+  "source_note": "Quét live 12:52–12:57 ngày 17/11/2026 — ngày vận hành 17/11: 18.000đ/1 HĐ/1 món (Ca 1: Giờ Thường 18.000đ, HĐ 2400003862 lúc 12:51, Bàn Chơi - 1; Ca 2 chưa bắt đầu); ngày 16/11 đã chốt 4.339.750đ/45 HĐ/126 món; HĐ mới nhất 2400003862 lúc 12:51, 18.000đ; đơn chưa hoàn tất 2 đơn/100.000đ lúc 12:55 (Tại bàn; giảm từ 3 đơn/104.000đ lúc 12:45), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.088.400đ/624 HĐ.",
   "totals": {
-    "invoices": 0,
-    "items": 0,
-    "revenue": 0
+    "invoices": 1,
+    "items": 1,
+    "revenue": 18000
   },
   "unpaid": {
-    "checked_at": "12:45 ngày 17/11/2026",
+    "checked_at": "12:55 ngày 17/11/2026",
     "unfinished": {
-      "count": 3,
-      "total": 104000,
+      "count": 2,
+      "total": 100000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 104000
+          "count": 2,
+          "total": 100000
         },
         {
           "channel": "Mang đi",
@@ -129,10 +133,24 @@
     },
     "orders": []
   },
-  "updated_label": "12:49 ngày 17/11/2026",
+  "updated_label": "13:00 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
-    "ca_ngay": []
+    "ca_ngay": [
+      {
+        "name": "Không có danh mục",
+        "qty": 1,
+        "revenue": 18000,
+        "items": [
+          {
+            "name": "Giờ Thường",
+            "qty": 1,
+            "revenue": 18000,
+            "unit": "lượt"
+          }
+        ]
+      }
+    ]
   }
 }
