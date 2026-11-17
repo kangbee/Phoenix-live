@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 1,
-    "items": 1,
-    "revenue": 2000
+    "invoices": 2,
+    "items": 3,
+    "revenue": 71000
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-17",
   "day_label": "Thứ ba, 17/11/2026",
   "drinks": {
-    "qty": 8,
-    "revenue": 121000
+    "qty": 9,
+    "revenue": 136000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 64811150,
-    "invoices": 636,
+    "revenue": 64880150,
+    "invoices": 637,
     "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
@@ -91,27 +91,28 @@
       },
       {
         "date": "17/11",
-        "revenue": 740750
+        "revenue": 809750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 20:37–20:40 ngày 17/11/2026 — ngày vận hành 17/11: 740.750đ/13 HĐ/25 món (không đổi so với quét 20:25–20:32); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 2.000đ/1 HĐ/1 món; đơn chưa hoàn tất 6 đơn/256.250đ lúc 20:40 (không đổi); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.811.150đ/636 HĐ.",
+  "source_note": "Quét live 20:47–20:50 ngày 17/11/2026 — ngày vận hành 17/11: 809.750đ/14 HĐ/27 món (tăng 69.000đ/1 HĐ/2 món so với quét 20:37–20:40); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 71.000đ/2 HĐ/3 món (mới: HĐ 2400003875 lúc 20:43, 69.000đ: Giờ Thường 54.000đ + JOCO ĐẬU XANH 15.000đ, Bàn Chơi - 6); đơn chưa hoàn tất 5 đơn/288.250đ lúc 20:50 (giảm 1 đơn, tăng 32.000đ so với 20:40); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.880.150đ/637 HĐ.",
   "totals": {
-    "invoices": 13,
-    "items": 25,
-    "revenue": 740750
+    "invoices": 14,
+    "items": 27,
+    "revenue": 809750
   },
   "unpaid": {
-    "checked_at": "20:40 ngày 17/11/2026",
-    "orders": [],
+    "checked_at": "20:50 ngày 17/11/2026",
     "unfinished": {
+      "count": 5,
+      "total": 288250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 256250
+          "count": 5,
+          "total": 288250
         },
         {
           "channel": "Mang đi",
@@ -128,12 +129,11 @@
           "count": 0,
           "total": 0
         }
-      ],
-      "count": 6,
-      "total": 256250
-    }
+      ]
+    },
+    "orders": []
   },
-  "updated_label": "20:40 ngày 17/11/2026",
+  "updated_label": "20:50 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -142,8 +142,8 @@
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 4,
-            "revenue": 126000,
+            "qty": 5,
+            "revenue": 180000,
             "unit": "lượt"
           },
           {
@@ -154,8 +154,8 @@
           }
         ],
         "name": "Không có danh mục",
-        "qty": 5,
-        "revenue": 150750
+        "qty": 6,
+        "revenue": 204750
       },
       {
         "items": [
@@ -220,11 +220,17 @@
             "qty": 1,
             "revenue": 10000,
             "unit": "chai/lon"
+          },
+          {
+            "name": "JOCO ĐẬU XANH",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
           }
         ],
         "name": "Đồ Uống",
-        "qty": 8,
-        "revenue": 121000
+        "qty": 9,
+        "revenue": 136000
       },
       {
         "items": [
