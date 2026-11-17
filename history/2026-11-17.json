@@ -97,14 +97,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:15–14:17 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 14:08–14:10; HĐ mới nhất vẫn 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 3 đơn/139.000đ lúc 14:16 (Tại bàn, tăng 2 đơn/89.000đ so với 1 đơn/50.000đ lúc 14:09), chờ xác nhận 0, ghi nợ 0.",
+  "source_note": "Quét live 14:21–14:23 ngày 17/11/2026 — ngày vận hành 17/11: 178.000đ/3 HĐ/6 món (Ca 1: Combo HS 110.000đ x2, Thăng Long 40.000đ x2, Giờ Thường 18.000đ, Tiền Hải Ngọt 10.000đ; Ca 2 chưa bắt đầu), KHÔNG ĐỔI so với quét 14:15–14:17; HĐ mới nhất vẫn 2400003864 lúc 14:07, 80.000đ, Bàn Chơi - 5; đơn chưa hoàn tất 3 đơn/139.000đ lúc 14:22 (Tại bàn, không đổi so với 14:16), chờ xác nhận 0, ghi nợ 0.",
   "totals": {
     "invoices": 3,
     "items": 6,
     "revenue": 178000
   },
   "unpaid": {
-    "checked_at": "14:16 ngày 17/11/2026",
+    "checked_at": "14:22 ngày 17/11/2026",
     "orders": [],
     "unfinished": {
       "channels": [
@@ -133,7 +133,7 @@
       "total": 139000
     }
   },
-  "updated_label": "14:16 ngày 17/11/2026",
+  "updated_label": "14:22 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
