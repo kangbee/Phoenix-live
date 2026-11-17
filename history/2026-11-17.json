@@ -7,23 +7,19 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 8,
-    "items": 16,
-    "revenue": 520250
+    "invoices": 10,
+    "items": 25,
+    "revenue": 766250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-17",
   "day_label": "Thứ ba, 17/11/2026",
   "drinks": {
-    "qty": 15,
-    "revenue": 235000
+    "qty": 21,
+    "revenue": 322000
   },
   "month": {
-    "label": "Tháng 11/2026 lũy kế",
-    "revenue": 65329400,
-    "invoices": 643,
-    "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -91,28 +87,31 @@
       },
       {
         "date": "17/11",
-        "revenue": 1259000
+        "revenue": 1505000
       }
-    ]
+    ],
+    "invoices": 645,
+    "label": "Tháng 11/2026 lũy kế",
+    "note": "Tính đến hết ngày vận hành 17/11/2026",
+    "revenue": 65575400
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 23:00–23:05 ngày 17/11/2026 — ngày vận hành 17/11: 1.259.000đ/20 HĐ/40 món, không đổi so với quét 22:49–22:53; Ca 1 đã chốt 738.750đ/12 HĐ/24 món; Ca 2: 520.250đ/8 HĐ/16 món; đơn chưa hoàn tất 3 đơn/414.000đ lúc 23:04 (tăng 56.000đ so với 3 đơn/358.000đ lúc 22:52 — giờ chơi bàn đang mở tính tiếp); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 65.329.400đ/643 HĐ.",
+  "source_note": "Quét live 23:13–23:24 ngày 17/11/2026 — ngày vận hành 17/11: 1.505.000đ/22 HĐ/49 món, tăng 246.000đ/2 HĐ/9 món so với quét 23:00–23:05 (mới: HĐ 2400003882 lúc 23:18, 146.000đ, Bàn Chơi - 6; HĐ 2400003883 lúc 23:20, 100.000đ, Bàn Chơi - 4); Ca 1 đã chốt 738.750đ/12 HĐ/24 món; Ca 2: 766.250đ/10 HĐ/25 món; đơn chưa hoàn tất 2 đơn/280.000đ lúc 23:21 (giảm 1 đơn/134.000đ so với 3 đơn/414.000đ lúc 23:04 — trong lúc quét có 2 HĐ mới 3882, 3883; 2 đơn còn lại là bàn Ca 2 đang chơi); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 65.575.400đ/645 HĐ.",
   "totals": {
-    "invoices": 20,
-    "items": 40,
-    "revenue": 1259000
+    "invoices": 22,
+    "items": 49,
+    "revenue": 1505000
   },
   "unpaid": {
-    "checked_at": "23:04 ngày 17/11/2026",
+    "checked_at": "23:21 ngày 17/11/2026",
+    "orders": [],
     "unfinished": {
-      "count": 3,
-      "total": 414000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 414000
+          "count": 2,
+          "total": 280000
         },
         {
           "channel": "Mang đi",
@@ -129,24 +128,22 @@
           "count": 0,
           "total": 0
         }
-      ]
-    },
-    "orders": []
+      ],
+      "count": 2,
+      "total": 280000
+    }
   },
-  "updated_label": "23:05 ngày 17/11/2026",
+  "updated_label": "23:24 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
-        "name": "Không có danh mục",
-        "qty": 9,
-        "revenue": 371000,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 7,
-            "revenue": 344000,
+            "qty": 9,
+            "revenue": 498000,
             "unit": "lượt"
           },
           {
@@ -155,12 +152,12 @@
             "revenue": 27000,
             "unit": "lượt"
           }
-        ]
+        ],
+        "name": "Không có danh mục",
+        "qty": 11,
+        "revenue": 525000
       },
       {
-        "name": "Combo",
-        "qty": 11,
-        "revenue": 580000,
         "items": [
           {
             "name": "Combo HS",
@@ -180,12 +177,12 @@
             "revenue": 79000,
             "unit": "lượt"
           }
-        ]
+        ],
+        "name": "Combo",
+        "qty": 11,
+        "revenue": 580000
       },
       {
-        "name": "Thuốc Lá",
-        "qty": 3,
-        "revenue": 60000,
         "items": [
           {
             "name": "Thăng Long",
@@ -193,12 +190,12 @@
             "revenue": 60000,
             "unit": "bao"
           }
-        ]
+        ],
+        "name": "Thuốc Lá",
+        "qty": 3,
+        "revenue": 60000
       },
       {
-        "name": "Đồ Uống",
-        "qty": 15,
-        "revenue": 235000,
         "items": [
           {
             "name": "Bò Húc",
@@ -208,8 +205,8 @@
           },
           {
             "name": "ICE Trà Đào",
-            "qty": 2,
-            "revenue": 30000,
+            "qty": 3,
+            "revenue": 45000,
             "unit": "chai/lon"
           },
           {
@@ -226,14 +223,14 @@
           },
           {
             "name": "Tiền Hải Ngọt",
-            "qty": 3,
-            "revenue": 30000,
+            "qty": 4,
+            "revenue": 40000,
             "unit": "chai/lon"
           },
           {
             "name": "JOCO ĐẬU XANH",
-            "qty": 1,
-            "revenue": 15000,
+            "qty": 2,
+            "revenue": 30000,
             "unit": "chai/lon"
           },
           {
@@ -244,8 +241,8 @@
           },
           {
             "name": "Nutri Dâu",
-            "qty": 1,
-            "revenue": 16000,
+            "qty": 2,
+            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -253,13 +250,25 @@
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
+          },
+          {
+            "name": "Number One",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Sting Vàng",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
           }
-        ]
+        ],
+        "name": "Đồ Uống",
+        "qty": 21,
+        "revenue": 322000
       },
       {
-        "name": "Đồ Ăn",
-        "qty": 1,
-        "revenue": 8000,
         "items": [
           {
             "name": "Bimbim Oishi",
@@ -267,20 +276,23 @@
             "revenue": 8000,
             "unit": "cái"
           }
-        ]
+        ],
+        "name": "Đồ Ăn",
+        "qty": 1,
+        "revenue": 8000
       },
       {
-        "name": "Khác",
-        "qty": 1,
-        "revenue": 5000,
         "items": [
           {
             "name": "Bật Lửa",
-            "qty": 1,
-            "revenue": 5000,
+            "qty": 2,
+            "revenue": 10000,
             "unit": "cái"
           }
-        ]
+        ],
+        "name": "Khác",
+        "qty": 2,
+        "revenue": 10000
       }
     ]
   }
