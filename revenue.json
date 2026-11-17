@@ -97,22 +97,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 04:23–04:32 ngày 18/11/2026 — ngày vận hành 17/11: 1.961.000đ/25 HĐ/63 món (mới: HĐ 2400003886 lúc 04:25, 326.000đ, Hoàng Hà, Bàn Chơi - 3, 11 món; tăng 326.000đ/1 HĐ/11 món so với quét 04:15–04:18); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 1.222.250đ/13 HĐ/39 món; đơn chưa hoàn tất 1 đơn/598.000đ lúc 04:29 (Tại bàn), giảm 1 đơn/294.000đ; tháng 11 66.031.400đ/648 HĐ",
+ "source_note": "Quét live 04:44–04:49 ngày 18/11/2026 — ngày vận hành 17/11: 1.961.000đ/25 HĐ/63 món, không đổi so với quét 04:23–04:32; Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 1.222.250đ/13 HĐ/39 món; đơn chưa hoàn tất 2 đơn/622.000đ lúc 04:48 (Tại bàn), tăng 1 đơn/24.000đ; tháng 11 66.031.400đ/648 HĐ",
  "totals": {
   "invoices": 25,
   "items": 63,
   "revenue": 1961000
  },
  "unpaid": {
-  "checked_at": "04:29 ngày 18/11/2026",
+  "checked_at": "04:48 ngày 18/11/2026",
   "unfinished": {
-   "count": 1,
-   "total": 598000,
+   "count": 2,
+   "total": 622000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 1,
-     "total": 598000
+     "count": 2,
+     "total": 622000
     },
     {
      "channel": "Mang đi",
@@ -133,7 +133,7 @@
   },
   "orders": []
  },
- "updated_label": "04:29 ngày 18/11/2026",
+ "updated_label": "04:48 ngày 18/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
