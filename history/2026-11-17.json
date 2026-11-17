@@ -21,14 +21,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 09:59–10:02 ngày 17/11/2026 — ngày vận hành mới 17/11: 0đ/0 HĐ/0 món (quán mới mở ca 07:00, chưa có hóa đơn; Sapo báo 'Chưa ghi nhận báo cáo'); ngày 16/11 đã chốt 4.339.750đ/45 HĐ/126 món; HĐ mới nhất 2400003861 lúc 02:35, 103.250đ; đơn chưa hoàn tất 0 đơn/0đ lúc 10:01 (đã tải lại + cuộn dashboard), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.070.400đ/623 HĐ.",
+  "source_note": "Quét live 10:05–10:07 ngày 17/11/2026 — ngày vận hành mới 17/11: 0đ/0 HĐ/0 món (quán mới mở ca 07:00, chưa có hóa đơn; Sapo báo 'Chưa ghi nhận báo cáo'); ngày 16/11 đã chốt 4.339.750đ/45 HĐ/126 món; HĐ mới nhất 2400003861 lúc 02:35, 103.250đ; đơn chưa hoàn tất 0 đơn/0đ lúc 10:06 (đã tải lại + cuộn dashboard), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 64.070.400đ/623 HĐ.",
   "totals": {
     "revenue": 0,
     "invoices": 0,
     "items": 0
   },
   "unpaid": {
-    "checked_at": "10:01 ngày 17/11/2026",
+    "checked_at": "10:06 ngày 17/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -57,7 +57,7 @@
     },
     "orders": []
   },
-  "updated_label": "10:02 ngày 17/11/2026",
+  "updated_label": "10:07 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
