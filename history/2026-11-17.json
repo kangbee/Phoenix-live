@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 6,
-    "items": 13,
-    "revenue": 375250
+    "invoices": 7,
+    "items": 15,
+    "revenue": 470250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-17",
   "day_label": "Thứ ba, 17/11/2026",
   "drinks": {
-    "qty": 14,
-    "revenue": 219000
+    "qty": 15,
+    "revenue": 235000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 65184400,
-    "invoices": 641,
+    "revenue": 65279400,
+    "invoices": 642,
     "note": "Tính đến hết ngày vận hành 17/11/2026",
     "daily": [
       {
@@ -91,28 +91,28 @@
       },
       {
         "date": "17/11",
-        "revenue": 1114000
+        "revenue": 1209000
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 21:58–22:06 ngày 17/11/2026 — ngày vận hành 17/11: 1.114.000đ/18 HĐ/37 món, không đổi so với quét 21:45–21:49; Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 375.250đ/6 HĐ/13 món, không có HĐ mới sau 2400003879 lúc 21:44; đơn chưa hoàn tất 5 đơn/397.000đ lúc 22:05 (tăng 22.000đ so với 375.000đ lúc 21:48, vẫn 5 đơn, giờ chơi đang chạy); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 65.184.400đ/641 HĐ.",
+  "source_note": "Quét live 22:12–22:24 ngày 17/11/2026 — ngày vận hành 17/11: 1.209.000đ/19 HĐ/39 món (tăng 95.000đ/1 HĐ/2 món so với quét 21:58–22:06, HĐ mới 2400003880 lúc 22:07, 95.000đ, Combo 79 + Latte Caramen, Hoàng Hà, Bàn Chơi - 2); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 470.250đ/7 HĐ/15 món; đơn chưa hoàn tất 4 đơn/318.000đ lúc 22:23 (giảm 1 đơn/79.000đ so với 5 đơn/397.000đ lúc 22:05 — 1 đơn thành HĐ 2400003880, các bàn Ca 2 còn lại vẫn chơi); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 65.279.400đ/642 HĐ.",
   "totals": {
-    "invoices": 18,
-    "items": 37,
-    "revenue": 1114000
+    "invoices": 19,
+    "items": 39,
+    "revenue": 1209000
   },
   "unpaid": {
-    "checked_at": "22:05 ngày 17/11/2026",
+    "checked_at": "22:23 ngày 17/11/2026",
     "unfinished": {
-      "count": 5,
-      "total": 397000,
+      "count": 4,
+      "total": 318000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 5,
-          "total": 397000
+          "count": 4,
+          "total": 318000
         },
         {
           "channel": "Mang đi",
@@ -133,7 +133,7 @@
     },
     "orders": []
   },
-  "updated_label": "22:06 ngày 17/11/2026",
+  "updated_label": "22:24 ngày 17/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
@@ -159,8 +159,8 @@
       },
       {
         "name": "Combo",
-        "qty": 9,
-        "revenue": 451000,
+        "qty": 10,
+        "revenue": 530000,
         "items": [
           {
             "name": "Combo HS",
@@ -172,6 +172,12 @@
             "name": "Combo 39",
             "qty": 1,
             "revenue": 39000,
+            "unit": "lượt"
+          },
+          {
+            "name": "Combo 79",
+            "qty": 1,
+            "revenue": 79000,
             "unit": "lượt"
           }
         ]
@@ -191,8 +197,8 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 14,
-        "revenue": 219000,
+        "qty": 15,
+        "revenue": 235000,
         "items": [
           {
             "name": "Bò Húc",
@@ -238,6 +244,12 @@
           },
           {
             "name": "Nutri Dâu",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Caramen",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
