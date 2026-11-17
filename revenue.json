@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 12,
-  "items": 28,
-  "revenue": 896250
+  "invoices": 13,
+  "items": 39,
+  "revenue": 1222250
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-17",
  "day_label": "Thứ ba, 17/11/2026",
  "drinks": {
-  "qty": 22,
-  "revenue": 332000
+  "qty": 26,
+  "revenue": 385000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 65705400,
-  "invoices": 647,
+  "revenue": 66031400,
+  "invoices": 648,
   "note": "Tính đến hết ngày vận hành 17/11/2026",
   "daily": [
    {
@@ -91,28 +91,28 @@
    },
    {
     "date": "17/11",
-    "revenue": 1635000
+    "revenue": 1961000
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 04:15–04:18 ngày 18/11/2026 — ngày vận hành 17/11: 1.635.000đ/24 HĐ/52 món, không đổi so với quét 04:08 (không có HĐ mới sau 2400003885 lúc 02:17); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 896.250đ/12 HĐ/28 món, không đổi; đơn chưa hoàn tất 2 đơn/892.000đ lúc 04:17 (Tại bàn), không đổi; tháng 11 65.705.400đ/647 HĐ",
+ "source_note": "Quét live 04:23–04:32 ngày 18/11/2026 — ngày vận hành 17/11: 1.961.000đ/25 HĐ/63 món (mới: HĐ 2400003886 lúc 04:25, 326.000đ, Hoàng Hà, Bàn Chơi - 3, 11 món; tăng 326.000đ/1 HĐ/11 món so với quét 04:15–04:18); Ca 1 đã chốt 738.750đ/12 HĐ/24 món, không đổi; Ca 2: 1.222.250đ/13 HĐ/39 món; đơn chưa hoàn tất 1 đơn/598.000đ lúc 04:29 (Tại bàn), giảm 1 đơn/294.000đ; tháng 11 66.031.400đ/648 HĐ",
  "totals": {
-  "invoices": 24,
-  "items": 52,
-  "revenue": 1635000
+  "invoices": 25,
+  "items": 63,
+  "revenue": 1961000
  },
  "unpaid": {
-  "checked_at": "04:17 ngày 18/11/2026",
+  "checked_at": "04:29 ngày 18/11/2026",
   "unfinished": {
-   "count": 2,
-   "total": 892000,
+   "count": 1,
+   "total": 598000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 2,
-     "total": 892000
+     "count": 1,
+     "total": 598000
     },
     {
      "channel": "Mang đi",
@@ -133,17 +133,20 @@
   },
   "orders": []
  },
- "updated_label": "04:17 ngày 18/11/2026",
+ "updated_label": "04:29 ngày 18/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
   "ca_ngay": [
    {
+    "name": "Không có danh mục",
+    "qty": 14,
+    "revenue": 807000,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 11,
-      "revenue": 618000,
+      "qty": 12,
+      "revenue": 780000,
       "unit": "lượt"
      },
      {
@@ -152,12 +155,12 @@
       "revenue": 27000,
       "unit": "lượt"
      }
-    ],
-    "name": "Không có danh mục",
-    "qty": 13,
-    "revenue": 645000
+    ]
    },
    {
+    "name": "Combo",
+    "qty": 11,
+    "revenue": 580000,
     "items": [
      {
       "name": "Combo HS",
@@ -177,30 +180,30 @@
       "revenue": 79000,
       "unit": "lượt"
      }
-    ],
-    "name": "Combo",
-    "qty": 11,
-    "revenue": 580000
+    ]
    },
    {
+    "name": "Thuốc Lá",
+    "qty": 4,
+    "revenue": 80000,
     "items": [
      {
       "name": "Thăng Long",
-      "qty": 3,
-      "revenue": 60000,
+      "qty": 4,
+      "revenue": 80000,
       "unit": "bao"
      }
-    ],
-    "name": "Thuốc Lá",
-    "qty": 3,
-    "revenue": 60000
+    ]
    },
    {
+    "name": "Đồ Uống",
+    "qty": 26,
+    "revenue": 385000,
     "items": [
      {
       "name": "Bò Húc",
-      "qty": 4,
-      "revenue": 68000,
+      "qty": 5,
+      "revenue": 85000,
       "unit": "chai/lon"
      },
      {
@@ -241,8 +244,8 @@
      },
      {
       "name": "Nutri Dâu",
-      "qty": 2,
-      "revenue": 32000,
+      "qty": 3,
+      "revenue": 48000,
       "unit": "chai/lon"
      },
      {
@@ -265,40 +268,61 @@
      },
      {
       "name": "Nước Lọc",
-      "qty": 1,
-      "revenue": 10000,
+      "qty": 3,
+      "revenue": 30000,
       "unit": "chai/lon"
      }
-    ],
-    "name": "Đồ Uống",
-    "qty": 22,
-    "revenue": 332000
+    ]
    },
    {
+    "name": "Đồ Ăn",
+    "qty": 4,
+    "revenue": 41000,
     "items": [
      {
       "name": "Bimbim Oishi",
       "qty": 1,
       "revenue": 8000,
       "unit": "cái"
+     },
+     {
+      "name": "Bimbim Lays",
+      "qty": 1,
+      "revenue": 10000,
+      "unit": "gói"
+     },
+     {
+      "name": "VELA ruốc",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "cái"
+     },
+     {
+      "name": "VELA SANWICH",
+      "qty": 1,
+      "revenue": 8000,
+      "unit": "cái"
      }
-    ],
-    "name": "Đồ Ăn",
-    "qty": 1,
-    "revenue": 8000
+    ]
    },
    {
+    "name": "Khác",
+    "qty": 4,
+    "revenue": 68000,
     "items": [
      {
       "name": "Bật Lửa",
       "qty": 2,
       "revenue": 10000,
       "unit": "cái"
+     },
+     {
+      "name": "Cơ Thuê",
+      "qty": 2,
+      "revenue": 58000,
+      "unit": "lượt"
      }
-    ],
-    "name": "Khác",
-    "qty": 2,
-    "revenue": 10000
+    ]
    }
   ]
  }
