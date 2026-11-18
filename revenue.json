@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 5,
-    "items": 9,
-    "revenue": 413250
+    "invoices": 6,
+    "items": 10,
+    "revenue": 491250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 67802150,
-    "invoices": 664,
+    "revenue": 67880150,
+    "invoices": 665,
     "note": "Tính đến hết ngày vận hành 18/11/2026",
     "daily": [
       {
@@ -95,28 +95,28 @@
       },
       {
         "date": "18/11",
-        "revenue": 1040750
+        "revenue": 1118750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 02:10–02:15 ngày 19/11/2026 — ngày vận hành 18/11: 1.040.750đ/14 HĐ/30 món (không đổi so với quét 02:04, 01:56, 01:45, 01:34, 01:27, 01:20, 01:11, 00:55, 00:49, 00:38, 00:29, 00:22 và 23:06, không có hóa đơn mới sau 22:56, HĐ 2400003902); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 413.250đ/5 HĐ/9 món; đơn chưa hoàn tất TĂNG 1 đơn/2.000đ → 1 đơn/78.000đ (Tại bàn) lúc 02:14 (đã tải lại trang và cuộn xuống; lần tải đầu hiện sai 0; đơn 2.000đ trước đó biến mất — có thể đã hủy hoặc thành bàn mới 78.000đ, cần hỏi nhân viên); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.802.150đ/664 HĐ",
+  "source_note": "Quét live 02:20–02:25 ngày 19/11/2026 — ngày vận hành 18/11: 1.118.750đ/15 HĐ/31 món (tăng +78.000đ/+1 HĐ/+1 món so với quét 02:14, hóa đơn mới 2100003903 lúc 02:16, 78.000đ, Bàn Chơi-1, nviên mới — chính là bàn chưa hoàn tất 78.000đ lúc 02:14 đã thanh toán); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 491.250đ/6 HĐ/10 món; đơn chưa hoàn tất GIẢM 1 đơn/78.000đ → 0 đơn/0đ lúc 02:23 (đã tải lại trang và cuộn xuống); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.880.150đ/665 HĐ",
   "totals": {
-    "invoices": 14,
-    "items": 30,
-    "revenue": 1040750
+    "invoices": 15,
+    "items": 31,
+    "revenue": 1118750
   },
   "unpaid": {
-    "checked_at": "02:14 ngày 19/11/2026",
+    "checked_at": "02:23 ngày 19/11/2026",
     "unfinished": {
-      "count": 1,
-      "total": 78000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 78000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -137,15 +137,15 @@
     },
     "orders": []
   },
-  "updated_label": "02:14 ngày 19/11/2026",
+  "updated_label": "02:23 ngày 19/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 8,
-        "revenue": 315750,
+        "qty": 9,
+        "revenue": 393750,
         "items": [
           {
             "name": "Giờ Vip",
@@ -155,8 +155,8 @@
           },
           {
             "name": "Giờ Thường",
-            "qty": 5,
-            "revenue": 156000,
+            "qty": 6,
+            "revenue": 234000,
             "unit": "lượt"
           }
         ]
