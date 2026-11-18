@@ -101,21 +101,21 @@
     },
     "provisional": false,
     "schema": 1,
-    "source_note": "Quét live 13:40–13:42 ngày 18/11/2026 — ngày vận hành 18/11: 135.500đ/1 HĐ/6 món (KHÔNG ĐỔI so với 13:37; HĐ mới nhất vẫn 2400003889 lúc 13:16); Ca 1 135.500đ/1 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất 0 đơn/0đ lúc 13:42 (GIẢM từ 1 đơn/50.000đ lúc 13:37 — đơn 50.000đ biến mất mà không thành doanh thu, không có HĐ hủy; dashboard đã tải lại và 2 tab chờ xác nhận/ghi nợ đều 0; theo dõi lần quét sau vì số này từng nhấp nháy về 0 rồi hiện lại lúc 13:25–13:31), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 66.896.900đ/651 HĐ.",
+    "source_note": "Quét live 13:45–13:47 ngày 18/11/2026 — ngày vận hành 18/11: 135.500đ/1 HĐ/6 món (KHÔNG ĐỔI so với 13:42; HĐ mới nhất vẫn 2400003889 lúc 13:16); Ca 1 135.500đ/1 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất 1 đơn/70.000đ lúc 13:47 (TĂNG từ 0 đơn/0đ lúc 13:42 — đơn 50.000đ lúc 13:37 KHÔNG xuất hiện lại, tổng mới là 70.000đ, có thể đơn đang mở đã thêm món; dashboard đã tải lại + cuộn, kiểm chứng 3 lần), chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 66.896.900đ/651 HĐ.",
     "totals": {
         "invoices": 1,
         "items": 6,
         "revenue": 135500
     },
     "unpaid": {
-        "checked_at": "13:42 ngày 18/11/2026",
+        "checked_at": "13:47 ngày 18/11/2026",
         "orders": [],
         "unfinished": {
             "channels": [
                 {
                     "channel": "Tại bàn",
-                    "count": 0,
-                    "total": 0
+                    "count": 1,
+                    "total": 70000
                 },
                 {
                     "channel": "Mang đi",
@@ -133,11 +133,11 @@
                     "total": 0
                 }
             ],
-            "count": 0,
-            "total": 0
+            "count": 1,
+            "total": 70000
         }
     },
-    "updated_label": "13:42 ngày 18/11/2026",
+    "updated_label": "13:47 ngày 18/11/2026",
     "views": {
         "ca1": [],
         "ca2": [],
