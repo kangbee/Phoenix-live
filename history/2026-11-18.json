@@ -101,14 +101,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 22:43–22:46 ngày 18/11/2026 — ngày vận hành 18/11: 935.750đ/13 HĐ/27 món (không đổi so với quét 22:34, không có hóa đơn mới sau 21:58); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 308.250đ/4 HĐ/6 món; đơn chưa hoàn tất không đổi 2 đơn/45.000đ (Tại bàn) lúc 22:45; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.697.150đ/663 HĐ",
+ "source_note": "Quét live 22:51–22:55 ngày 18/11/2026 — ngày vận hành 18/11: 935.750đ/13 HĐ/27 món (không đổi so với quét 22:45, không có hóa đơn mới sau 21:58); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 308.250đ/4 HĐ/6 món; đơn chưa hoàn tất không đổi 2 đơn/45.000đ (Tại bàn) lúc 22:55; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.697.150đ/663 HĐ",
  "totals": {
   "invoices": 13,
   "items": 27,
   "revenue": 935750
  },
  "unpaid": {
-  "checked_at": "22:45 ngày 18/11/2026",
+  "checked_at": "22:55 ngày 18/11/2026",
   "unfinished": {
    "count": 2,
    "total": 45000,
@@ -137,7 +137,7 @@
   },
   "orders": []
  },
- "updated_label": "22:45 ngày 18/11/2026",
+ "updated_label": "22:55 ngày 18/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
