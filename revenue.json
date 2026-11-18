@@ -101,14 +101,14 @@
     },
     "provisional": false,
     "schema": 1,
-    "source_note": "Quét live 14:47–14:50 ngày 18/11/2026 — ngày vận hành 18/11: 135.500đ/1 HĐ/6 món (KHÔNG ĐỔI so với 13:19, 14:31, 14:38, 14:43; HĐ mới nhất vẫn 2400003889 lúc 13:16); Ca 1 135.500đ/1 HĐ, Ca 2 chưa bắt đầu; sửa phân loại Saigon Bạc sang Thuốc Lá theo danh mục Sapo (Giờ chơi 58.500đ, Đồ Uống 52.000đ, Thuốc Lá 25.000đ); đơn chưa hoàn tất KHÔNG ĐỔI: 2 đơn/140.000đ (Tại bàn) lúc 14:50, chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 66.896.900đ/651 HĐ",
+    "source_note": "Quét live 14:56–14:59 ngày 18/11/2026 — ngày vận hành 18/11: 135.500đ/1 HĐ/6 món (KHÔNG ĐỔI so với lần quét trước 14:50; HĐ mới nhất vẫn 2400003889 lúc 13:16); Ca 1 135.500đ/1 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất KHÔNG ĐỔI: 2 đơn/140.000đ (Tại bàn) lúc 14:59, chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 66.896.900đ/651 HĐ",
     "totals": {
         "invoices": 1,
         "items": 6,
         "revenue": 135500
     },
     "unpaid": {
-        "checked_at": "14:50 ngày 18/11/2026",
+        "checked_at": "14:59 ngày 18/11/2026",
         "orders": [],
         "unfinished": {
             "channels": [
@@ -137,7 +137,7 @@
             "total": 140000
         }
     },
-    "updated_label": "14:50 ngày 18/11/2026",
+    "updated_label": "14:59 ngày 18/11/2026",
     "views": {
         "ca1": [],
         "ca2": [],
