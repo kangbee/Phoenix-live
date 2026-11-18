@@ -7,9 +7,9 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 4,
-  "items": 6,
-  "revenue": 308250
+  "invoices": 5,
+  "items": 9,
+  "revenue": 413250
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,8 +21,8 @@
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 67697150,
-  "invoices": 663,
+  "revenue": 67802150,
+  "invoices": 664,
   "note": "Tính đến hết ngày vận hành 18/11/2026",
   "daily": [
    {
@@ -95,28 +95,28 @@
    },
    {
     "date": "18/11",
-    "revenue": 935750
+    "revenue": 1040750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 22:51–22:55 ngày 18/11/2026 — ngày vận hành 18/11: 935.750đ/13 HĐ/27 món (không đổi so với quét 22:45, không có hóa đơn mới sau 21:58); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 308.250đ/4 HĐ/6 món; đơn chưa hoàn tất không đổi 2 đơn/45.000đ (Tại bàn) lúc 22:55; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.697.150đ/663 HĐ",
+ "source_note": "Quét live 23:01–23:06 ngày 18/11/2026 — ngày vận hành 18/11: 1.040.750đ/14 HĐ/30 món (tăng +105.000đ/+1 HĐ/+3 món so với quét 22:55); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 413.250đ/5 HĐ/9 món; hóa đơn mới 2400003902 lúc 22:56 (105.000đ, Bàn Chơi-6, Hoàng Hà); đơn chưa hoàn tất về 0 đơn/0đ (lúc 22:55 còn 2 đơn/45.000đ) — không có hóa đơn 45.000đ hay đơn hủy tương ứng, cần hỏi nhân viên; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.802.150đ/664 HĐ",
  "totals": {
-  "invoices": 13,
-  "items": 27,
-  "revenue": 935750
+  "invoices": 14,
+  "items": 30,
+  "revenue": 1040750
  },
  "unpaid": {
-  "checked_at": "22:55 ngày 18/11/2026",
+  "checked_at": "23:06 ngày 18/11/2026",
   "unfinished": {
-   "count": 2,
-   "total": 45000,
+   "count": 0,
+   "total": 0,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 2,
-     "total": 45000
+     "count": 0,
+     "total": 0
     },
     {
      "channel": "Mang đi",
@@ -137,15 +137,15 @@
   },
   "orders": []
  },
- "updated_label": "22:55 ngày 18/11/2026",
+ "updated_label": "23:06 ngày 18/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
   "ca_ngay": [
    {
     "name": "Không có danh mục",
-    "qty": 6,
-    "revenue": 235750,
+    "qty": 8,
+    "revenue": 315750,
     "items": [
      {
       "name": "Giờ Vip",
@@ -155,8 +155,8 @@
      },
      {
       "name": "Giờ Thường",
-      "qty": 3,
-      "revenue": 76000,
+      "qty": 5,
+      "revenue": 156000,
       "unit": "lượt"
      }
     ]
@@ -182,8 +182,8 @@
    },
    {
     "name": "Thuốc Lá",
-    "qty": 3,
-    "revenue": 65000,
+    "qty": 4,
+    "revenue": 90000,
     "items": [
      {
       "name": "Thăng Long",
@@ -193,8 +193,8 @@
      },
      {
       "name": "Saigon Bạc",
-      "qty": 1,
-      "revenue": 25000,
+      "qty": 2,
+      "revenue": 50000,
       "unit": "bao"
      }
     ]
