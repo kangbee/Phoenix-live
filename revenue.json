@@ -1,6 +1,6 @@
 {
  "ca1": {
-  "closed": false,
+  "closed": true,
   "invoices": 9,
   "items": 21,
   "revenue": 627500
@@ -16,8 +16,8 @@
  "day": "2026-11-18",
  "day_label": "Thứ tư, 18/11/2026",
  "drinks": {
-  "qty": 9,
-  "revenue": 141000
+  "qty": 8,
+  "revenue": 116000
  },
  "month": {
   "daily": [
@@ -101,22 +101,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 18:32–18:34 ngày 18/11/2026 — ngày vận hành 18/11: 627.500đ/9 HĐ/21 món (tăng 60.000đ so với 18:29; HĐ mới 2400003897 lúc 18:32, Bàn Chơi - 4, 60.000đ); Ca 1 627.500đ/9 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất giảm 2 đơn/88.250đ → 1 đơn/36.250đ (Tại bàn) lúc 18:34; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.388.900đ/659 HĐ",
+ "source_note": "Chốt Ca 1 19:12–19:17 ngày 18/11/2026 — ngày vận hành 18/11: 627.500đ/9 HĐ/21 món (không đổi so với quét live 18:34, không có hóa đơn mới sau 18:32); Ca 1 đã chốt; Ca 2 chưa bắt đầu; đơn chưa hoàn tất tăng 1 đơn/36.250đ → 3 đơn/244.000đ (Tại bàn) lúc 19:16; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.388.900đ/659 HĐ",
  "totals": {
   "invoices": 9,
   "items": 21,
   "revenue": 627500
  },
  "unpaid": {
-  "checked_at": "18:34 ngày 18/11/2026",
+  "checked_at": "19:16 ngày 18/11/2026",
   "unfinished": {
-   "count": 1,
-   "total": 36250,
+   "count": 3,
+   "total": 244000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 1,
-     "total": 36250
+     "count": 3,
+     "total": 244000
     },
     {
      "channel": "Mang đi",
@@ -137,10 +137,99 @@
   },
   "orders": []
  },
- "updated_label": "18:34 ngày 18/11/2026",
+ "updated_label": "19:16 ngày 18/11/2026",
  "views": {
   "ca1": [],
   "ca2": [],
-  "ca_ngay": []
+  "ca_ngay": [
+   {
+    "name": "Không có danh mục",
+    "qty": 4,
+    "revenue": 122500,
+    "items": [
+     {
+      "name": "Giờ Vip",
+      "qty": 2,
+      "revenue": 76500,
+      "unit": "lượt"
+     },
+     {
+      "name": "Giờ Thường",
+      "qty": 2,
+      "revenue": 46000,
+      "unit": "lượt"
+     }
+    ]
+   },
+   {
+    "name": "Combo",
+    "qty": 6,
+    "revenue": 324000,
+    "items": [
+     {
+      "name": "Combo HS",
+      "qty": 6,
+      "revenue": 324000,
+      "unit": "lượt"
+     }
+    ]
+   },
+   {
+    "name": "Thuốc Lá",
+    "qty": 3,
+    "revenue": 65000,
+    "items": [
+     {
+      "name": "Thăng Long",
+      "qty": 2,
+      "revenue": 40000,
+      "unit": "bao"
+     },
+     {
+      "name": "Saigon Bạc",
+      "qty": 1,
+      "revenue": 25000,
+      "unit": "bao"
+     }
+    ]
+   },
+   {
+    "name": "Đồ Uống",
+    "qty": 8,
+    "revenue": 116000,
+    "items": [
+     {
+      "name": "Latte Trà Sữa",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Number One",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Nước Lọc",
+      "qty": 2,
+      "revenue": 20000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Latte Socola",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Latte Caramen",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     }
+    ]
+   }
+  ]
  }
 }
