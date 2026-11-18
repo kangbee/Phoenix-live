@@ -101,14 +101,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 05:59–06:05 ngày 19/11/2026 — ngày vận hành 18/11: 1.320.750đ/18 HĐ/39 món (KHÔNG ĐỔI so với quét 05:50–05:53, không có hóa đơn mới sau 02:16, HĐ mới nhất 2100003903 lúc 02:16, 78.000đ, Bàn Chơi-1, nviên mới); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 693.250đ/9 HĐ/18 món; đơn chưa hoàn tất vẫn 2 đơn/374.000đ (Tại bàn) lúc 06:04 (lần tải đầu hiện 0 sai, tải lại mới hiện đúng); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.082.150đ/668 HĐ. Lưu ý: bảng Nhân viên trên dashboard ghi Hoàng Hà 135.000đ nhưng cột thu ngân trên danh sách hóa đơn cho thấy Hoàng Hà thu 4 HĐ tổng 296.000đ (lệch 161.000đ); tổng ngày vẫn khớp 1.320.750đ — cần nhân viên kiểm tra khi đối chiếu.",
+  "source_note": "Quét live 06:13–06:17 ngày 19/11/2026 — ngày vận hành 18/11: 1.320.750đ/18 HĐ/39 món (KHÔNG ĐỔI so với quét 05:59–06:05, không có hóa đơn mới sau 02:16, HĐ mới nhất 2100003903 lúc 02:16, 78.000đ, Bàn Chơi-1, nviên mới); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 693.250đ/9 HĐ/18 món; đơn chưa hoàn tất KHÔNG ĐỔI 2 đơn/374.000đ (Tại bàn) lúc 06:16; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.082.150đ/668 HĐ",
   "totals": {
     "invoices": 18,
     "items": 39,
     "revenue": 1320750
   },
   "unpaid": {
-    "checked_at": "06:04 ngày 19/11/2026",
+    "checked_at": "06:16 ngày 19/11/2026",
     "unfinished": {
       "count": 2,
       "total": 374000,
@@ -137,7 +137,7 @@
     },
     "orders": []
   },
-  "updated_label": "06:04 ngày 19/11/2026",
+  "updated_label": "06:16 ngày 19/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
