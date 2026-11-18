@@ -1,9 +1,9 @@
 {
     "ca1": {
         "closed": false,
-        "invoices": 2,
-        "items": 8,
-        "revenue": 217500
+        "invoices": 3,
+        "items": 10,
+        "revenue": 287500
     },
     "ca2": {
         "closed": false,
@@ -91,31 +91,31 @@
             },
             {
                 "date": "18/11",
-                "revenue": 217500
+                "revenue": 287500
             }
         ],
-        "invoices": 652,
+        "invoices": 653,
         "label": "Tháng 11/2026 lũy kế",
         "note": "Tính đến hết ngày vận hành 18/11/2026",
-        "revenue": 66978900
+        "revenue": 67048900
     },
     "provisional": false,
     "schema": 1,
-    "source_note": "Quét live 15:26–15:29 ngày 18/11/2026 — ngày vận hành 18/11: 217.500đ/2 HĐ/8 món (tăng 82.000đ/1 HĐ/2 món so với lần quét 15:19: thêm HĐ 2400003890 lúc 15:23, 82.000đ); Ca 1 217.500đ/2 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất: 2 đơn/120.000đ (Tại bàn) lúc 15:28 — widget dashboard lần đầu hiện 0 sai, tải lại + cuộn xuống mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 66.978.900đ/652 HĐ",
+    "source_note": "Quét live 15:33–15:36 ngày 18/11/2026 — ngày vận hành 18/11: 287.500đ/3 HĐ/10 món (tăng 70.000đ/1 HĐ/2 món so với lần quét 15:28: thêm HĐ 2400003891 lúc 15:28, 70.000đ, Bàn Chơi - 10); Ca 1 287.500đ/3 HĐ, Ca 2 chưa bắt đầu; đơn chưa hoàn tất: 2 đơn/52.250đ (Tại bàn) lúc 15:35 (giảm 67.750đ so với 120.000đ lúc 15:28, số đơn không đổi — theo dõi lần quét sau) — widget dashboard lần đầu hiện 0 sai, tải lại + cuộn xuống mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 67.048.900đ/653 HĐ",
     "totals": {
-        "invoices": 2,
-        "items": 8,
-        "revenue": 217500
+        "invoices": 3,
+        "items": 10,
+        "revenue": 287500
     },
     "unpaid": {
-        "checked_at": "15:28 ngày 18/11/2026",
+        "checked_at": "15:35 ngày 18/11/2026",
         "orders": [],
         "unfinished": {
             "channels": [
                 {
                     "channel": "Tại bàn",
                     "count": 2,
-                    "total": 120000
+                    "total": 52250
                 },
                 {
                     "channel": "Mang đi",
@@ -134,10 +134,10 @@
                 }
             ],
             "count": 2,
-            "total": 120000
+            "total": 52250
         }
     },
-    "updated_label": "15:28 ngày 18/11/2026",
+    "updated_label": "15:35 ngày 18/11/2026",
     "views": {
         "ca1": [],
         "ca2": [],
