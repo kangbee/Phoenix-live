@@ -6,23 +6,23 @@
     "revenue": 627500
   },
   "ca2": {
-    "closed": false,
-    "invoices": 10,
-    "items": 24,
-    "revenue": 950250
+    "closed": true,
+    "invoices": 11,
+    "items": 30,
+    "revenue": 1187250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-18",
   "day_label": "Thứ tư, 18/11/2026",
   "drinks": {
-    "qty": 13,
-    "revenue": 192000
+    "qty": 16,
+    "revenue": 228000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 68339150,
-    "invoices": 669,
+    "revenue": 68576150,
+    "invoices": 670,
     "note": "Tính đến hết ngày vận hành 18/11/2026",
     "daily": [
       {
@@ -95,28 +95,28 @@
       },
       {
         "date": "18/11",
-        "revenue": 1577750
+        "revenue": 1814750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 06:21–06:30 ngày 19/11/2026 — ngày vận hành 18/11: 1.577.750đ/19 HĐ/45 món (TĂNG +257.000đ/+1 HĐ/+6 món so với quét 06:13–06:17, hóa đơn mới 2400003907 lúc 06:23, 257.000đ, Bàn Chơi-1, nviên mới — Combo 189 203.000đ + VELA SANWICH x2 + Nước Lọc + Bimbim Oishi + Thăng Long); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 950.250đ/10 HĐ/24 món; đơn chưa hoàn tất GIẢM 2 đơn/374.000đ → 1 đơn/229.000đ (Tại bàn) lúc 06:30 — 1 đơn 145.000đ biến mất lúc ~06:28–06:29 mà không thành hóa đơn (vẫn 19 HĐ/1.577.750đ); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.339.150đ/669 HĐ",
+  "source_note": "Chốt ngày 07:12–07:22 ngày 19/11/2026 — ngày vận hành 18/11: 1.814.750đ/20 HĐ/51 món (TĂNG +237.000đ/+1 HĐ/+6 món so với quét live 06:21–06:30, HĐ mới 2400003908 lúc 06:35, 237.000đ, Bàn Chơi-3); Ca 1 đã chốt 627.500đ/9 HĐ/21 món; Ca 2 1.187.250đ/11 HĐ/30 món; đơn chưa hoàn tất 229.000đ lúc 06:30 đã biến mất, không thành hóa đơn 229.000đ nào (có thể đã thêm món thành HĐ 3908 lúc 06:35, hoặc bị xóa — Sapo không lưu vết); đơn 145.000đ biến mất lúc ~06:28–06:29 cũng không thành hóa đơn; đơn chưa hoàn tất hiện tại 1 đơn/50.000đ (Tại bàn); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.576.150đ/670 HĐ",
   "totals": {
-    "invoices": 19,
-    "items": 45,
-    "revenue": 1577750
+    "invoices": 20,
+    "items": 51,
+    "revenue": 1814750
   },
   "unpaid": {
-    "checked_at": "06:30 ngày 19/11/2026",
+    "checked_at": "07:21 ngày 19/11/2026",
     "unfinished": {
       "count": 1,
-      "total": 229000,
+      "total": 50000,
       "channels": [
         {
           "channel": "Tại bàn",
           "count": 1,
-          "total": 229000
+          "total": 50000
         },
         {
           "channel": "Mang đi",
@@ -137,20 +137,20 @@
     },
     "orders": []
   },
-  "updated_label": "06:30 ngày 19/11/2026",
+  "updated_label": "07:21 ngày 19/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
     "ca_ngay": [
       {
         "name": "Không có danh mục",
-        "qty": 11,
-        "revenue": 517750,
+        "qty": 12,
+        "revenue": 659750,
         "items": [
           {
             "name": "Giờ Thường",
-            "qty": 8,
-            "revenue": 358000,
+            "qty": 9,
+            "revenue": 500000,
             "unit": "lượt"
           },
           {
@@ -188,8 +188,8 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 5,
-        "revenue": 110000,
+        "qty": 6,
+        "revenue": 140000,
         "items": [
           {
             "name": "Thăng Long",
@@ -202,13 +202,19 @@
             "qty": 2,
             "revenue": 50000,
             "unit": "bao"
+          },
+          {
+            "name": "Saigon Dưa Lưới",
+            "qty": 1,
+            "revenue": 30000,
+            "unit": "bao"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 13,
-        "revenue": 192000,
+        "qty": 16,
+        "revenue": 228000,
         "items": [
           {
             "name": "Number One",
@@ -224,8 +230,8 @@
           },
           {
             "name": "Latte Socola",
-            "qty": 2,
-            "revenue": 32000,
+            "qty": 3,
+            "revenue": 48000,
             "unit": "chai/lon"
           },
           {
@@ -236,8 +242,14 @@
           },
           {
             "name": "Nước Lọc",
-            "qty": 3,
-            "revenue": 30000,
+            "qty": 4,
+            "revenue": 40000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Tiền Hải Ngọt",
+            "qty": 1,
+            "revenue": 10000,
             "unit": "chai/lon"
           },
           {
@@ -270,6 +282,19 @@
             "qty": 1,
             "revenue": 8000,
             "unit": "cái"
+          }
+        ]
+      },
+      {
+        "name": "Khác",
+        "qty": 1,
+        "revenue": 29000,
+        "items": [
+          {
+            "name": "Cơ Thuê",
+            "qty": 1,
+            "revenue": 29000,
+            "unit": "lượt"
           }
         ]
       }
