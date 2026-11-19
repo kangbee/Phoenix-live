@@ -105,22 +105,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:47–14:49 ngày 19/11/2026 — ngày vận hành 19/11: 1.263.250đ/21 HĐ/37 món (TĂNG +89.000đ/+1 HĐ/+3 món so với quét 14:40–14:41: HĐ mới 2400003929 lúc 14:45, 89.000đ); Ca 1 1.263.250đ/21 HĐ/37 món (Combo 723.000đ/12, Giờ chơi 227.250đ/5, Đồ Uống 150.000đ/11, Thuốc Lá 80.000đ/3, Đồ Ăn 54.000đ/5, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất GIẢM 11 đơn/770.750đ → 10 đơn/729.000đ (Tại bàn) lúc 14:50 (kiểm tra 3 lần, ổn định) — giảm 41.750đ không có HĐ thanh toán tương ứng, cần hỏi nhân viên; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.839.400đ/691 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 14:58–15:01 ngày 19/11/2026 — ngày vận hành 19/11: 1.263.250đ/21 HĐ/37 món (KHÔNG ĐỔI so với quét 14:47–14:49; HĐ mới nhất vẫn 2400003929 lúc 14:45); Ca 1 1.263.250đ/21 HĐ/37 món (Combo 723.000đ/12, Giờ chơi 227.250đ/5, Đồ Uống 150.000đ/11, Thuốc Lá 80.000đ/3, Đồ Ăn 54.000đ/5, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 10 đơn/729.000đ → 11 đơn/768.250đ (Tại bàn) lúc 15:01 (kiểm tra 2 lần, ổn định) — tăng +39.250đ trong khi HĐ đã thanh toán không tăng, có thể bàn đang mở gọi thêm món, chưa hỏi nhân viên; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.839.400đ/691 HĐ (đến hết 19/11)",
   "totals": {
     "invoices": 21,
     "items": 37,
     "revenue": 1263250
   },
   "unpaid": {
-    "checked_at": "14:50 ngày 19/11/2026",
+    "checked_at": "15:01 ngày 19/11/2026",
     "unfinished": {
-      "count": 10,
-      "total": 729000,
+      "count": 11,
+      "total": 768250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 10,
-          "total": 729000
+          "count": 11,
+          "total": 768250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "14:49 ngày 19/11/2026",
+  "updated_label": "15:01 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
