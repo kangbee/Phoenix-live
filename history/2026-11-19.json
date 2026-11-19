@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 32,
-    "items": 65,
-    "revenue": 2353250
+    "invoices": 34,
+    "items": 67,
+    "revenue": 2393250
   },
   "ca2": {
     "closed": false,
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 70929400,
-    "invoices": 702,
+    "revenue": 70969400,
+    "invoices": 704,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 2353250
+        "revenue": 2393250
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 16:19–16:24 ngày 19/11/2026 — ngày vận hành 19/11: 2.353.250đ/32 HĐ/65 món (TĂNG +554.000đ/+4 HĐ/+15 món so với quét 16:02: 1.799.250đ/28 HĐ/50 món; HĐ mới 2400003937 lúc 16:03, 50.000đ; 2400003938 lúc 16:13, 50.000đ; 2400003939 lúc 16:19, 63.000đ; 2400003940 lúc 16:20, 391.000đ); Ca 1 2.353.250đ/32 HĐ/65 món (Combo 1.171.000đ/20, Giờ chơi 550.250đ/8, Đồ Uống 317.000đ/22, Thuốc Lá 130.000đ/5, Đồ Ăn 69.000đ/6, Khác 116.000đ/4); Ca 2 chưa bắt đầu; đơn chưa hoàn tất 6 đơn/233.250đ (Tại bàn) lúc 16:24 (GIẢM 3 đơn/467.000đ so với 9/700.250đ lúc 16:02 — đã thanh toán tăng 554.000đ trong khi chưa hoàn tất chỉ giảm 467.000đ, chênh 87.000đ có thể là món gọi thêm trên bàn đang mở; lần tải đầu widget hiện 7 đơn/600.250đ sai, tải lại + cuộn hết trang, kiểm tra 2 lần đều 6 đơn/233.250đ); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 70.929.400đ/702 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 16:33–16:36 ngày 19/11/2026 — ngày vận hành 19/11: 2.393.250đ/34 HĐ/67 món (TĂNG +40.000đ/+2 HĐ/+2 món so với quét 16:24: 2.353.250đ/32 HĐ/65 món; HĐ mới 2400003941 lúc 16:25, 20.000đ, Bàn Chơi - 4; 2400003942 lúc 16:33, 20.000đ; chi tiết 20 món cộng đúng 2.393.250đ; 34 HĐ #3909–#3942 cộng đủ 2.393.250đ); Ca 1 2.393.250đ/34 HĐ/67 món (Combo 1.171.000đ/20, Giờ chơi 570.250đ/9, Đồ Uống 317.000đ/22, Thuốc Lá 150.000đ/6, Đồ Ăn 69.000đ/6, Khác 116.000đ/4); Ca 2 chưa bắt đầu; đơn chưa hoàn tất 5 đơn/231.250đ (Tại bàn) lúc 16:36 (GIẢM 1 đơn/2.000đ so với 6/233.250đ lúc 16:24 — đã thanh toán tăng 40.000đ trong khi chưa hoàn tất chỉ giảm 2.000đ, chênh 38.000đ có thể là món gọi thêm trên bàn đang mở; widget lần đầu hiện 0 sai 2 lần, tải lại 2 lần mới hiện đúng và ổn định 5 đơn/231.250đ; dashboard lúc đầu chậm 1 HĐ, tải lại đã khớp); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 70.969.400đ/704 HĐ (đến hết 19/11)",
   "totals": {
-    "revenue": 2353250,
-    "invoices": 32,
-    "items": 65
+    "revenue": 2393250,
+    "invoices": 34,
+    "items": 67
   },
   "unpaid": {
-    "checked_at": "16:24 ngày 19/11/2026",
+    "checked_at": "16:36 ngày 19/11/2026",
     "unfinished": {
-      "count": 6,
-      "total": 233250,
+      "count": 5,
+      "total": 231250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 233250
+          "count": 5,
+          "total": 231250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "16:24 ngày 19/11/2026",
+  "updated_label": "16:36 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -171,8 +171,8 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 8,
-        "revenue": 550250,
+        "qty": 9,
+        "revenue": 570250,
         "items": [
           {
             "name": "Giờ Vip",
@@ -182,8 +182,8 @@
           },
           {
             "name": "Giờ Thường",
-            "qty": 2,
-            "revenue": 260000,
+            "qty": 3,
+            "revenue": 280000,
             "unit": "lượt"
           }
         ]
@@ -251,8 +251,8 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 5,
-        "revenue": 130000,
+        "qty": 6,
+        "revenue": 150000,
         "items": [
           {
             "name": "Saigon Dưa Lưới",
@@ -262,8 +262,8 @@
           },
           {
             "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
+            "qty": 3,
+            "revenue": 60000,
             "unit": "gói"
           }
         ]
@@ -336,8 +336,8 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 8,
-        "revenue": 550250,
+        "qty": 9,
+        "revenue": 570250,
         "items": [
           {
             "name": "Giờ Vip",
@@ -347,8 +347,8 @@
           },
           {
             "name": "Giờ Thường",
-            "qty": 2,
-            "revenue": 260000,
+            "qty": 3,
+            "revenue": 280000,
             "unit": "lượt"
           }
         ]
@@ -416,8 +416,8 @@
       },
       {
         "name": "Thuốc Lá",
-        "qty": 5,
-        "revenue": 130000,
+        "qty": 6,
+        "revenue": 150000,
         "items": [
           {
             "name": "Saigon Dưa Lưới",
@@ -427,8 +427,8 @@
           },
           {
             "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
+            "qty": 3,
+            "revenue": 60000,
             "unit": "gói"
           }
         ]
