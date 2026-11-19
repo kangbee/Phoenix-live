@@ -105,22 +105,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 16:42–16:46 ngày 19/11/2026 — ngày vận hành 19/11: 2.455.250đ/35 HĐ/68 món (TĂNG +62.000đ/+1 HĐ/+1 món so với quét 16:36: 2.393.250đ/34 HĐ/67 món; HĐ mới 2400003943 lúc 16:42, 62.000đ, E74360 Bàn Chơi - 10; chi tiết 20 món cộng đúng 2.455.250đ); Ca 1 2.455.250đ/35 HĐ/68 món (Combo 1.233.000đ/21, Giờ chơi 570.250đ/9, Đồ Uống 317.000đ/22, Thuốc Lá 150.000đ/6, Đồ Ăn 69.000đ/6, Khác 116.000đ/4); Ca 2 chưa bắt đầu; đơn chưa hoàn tất 4 đơn/201.250đ (Tại bàn) lúc 16:45 (GIẢM 1 đơn/30.000đ so với 5/231.250đ lúc 16:36 — đã thanh toán tăng 62.000đ trong khi chưa hoàn tất chỉ giảm 30.000đ, chênh 32.000đ có thể là món gọi thêm trên bàn đang mở; widget lần đầu hiện 0 sai, tải lại mới hiện đúng); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.031.400đ/705 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 16:51–16:55 ngày 19/11/2026 — ngày vận hành 19/11: 2.455.250đ/35 HĐ/68 món (KHÔNG ĐỔI so với quét 16:45: 2.455.250đ/35 HĐ/68 món; chi tiết 20 món cộng đúng 2.455.250đ); Ca 1 2.455.250đ/35 HĐ/68 món (Combo 1.233.000đ/21, Giờ chơi 570.250đ/9, Đồ Uống 317.000đ/22, Thuốc Lá 150.000đ/6, Đồ Ăn 69.000đ/6, Khác 116.000đ/4); Ca 2 chưa bắt đầu; đơn chưa hoàn tất 5 đơn/251.250đ (Tại bàn) lúc 16:54 (TĂNG 1 đơn/50.000đ so với 4/201.250đ lúc 16:45 trong khi doanh thu đã thanh toán không đổi — có bàn mới mở hoặc gọi thêm trên bàn đang mở; widget lần đầu hiện 0 sai, tải lại + cuộn mới hiện đúng); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.031.400đ/705 HĐ (đến hết 19/11)",
   "totals": {
     "revenue": 2455250,
     "invoices": 35,
     "items": 68
   },
   "unpaid": {
-    "checked_at": "16:45 ngày 19/11/2026",
+    "checked_at": "16:54 ngày 19/11/2026",
     "unfinished": {
-      "count": 4,
-      "total": 201250,
+      "count": 5,
+      "total": 251250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 4,
-          "total": 201250
+          "count": 5,
+          "total": 251250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "16:45 ngày 19/11/2026",
+  "updated_label": "16:54 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
