@@ -101,14 +101,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 07:48–07:54 ngày 19/11/2026 — ngày vận hành 19/11: 0đ/0 HĐ/0 món (ngày mới bắt đầu lúc 07:00, chưa có hóa đơn nào; Sapo ghi 'Chưa ghi nhận báo cáo'); Ca 1 0đ/0 HĐ/0 món; Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 0 đơn/0đ → 1 đơn/50.000đ (Tại bàn) lúc 07:51–07:53 (đã tải lại + cuộn hết trang mới hiện, xác minh 2 lần; đơn 1 đơn/50.000đ lúc 07:21 đã biến mất lúc 07:40, nay lại xuất hiện đúng cùng kênh và số tiền — không xác định được là đơn cũ hay đơn mới giống hệt, dashboard chỉ cho số tổng hợp, 2 tab Hóa đơn đều 0 đơn); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.576.150đ/670 HĐ (đến hết 18/11)",
+  "source_note": "Quét live 08:00–08:06 ngày 19/11/2026 — ngày vận hành 19/11: 0đ/0 HĐ/0 món (ngày mới, chưa có hóa đơn nào; Sapo ghi 'Chưa ghi nhận báo cáo'); Ca 1 0đ/0 HĐ/0 món; Ca 2 chưa bắt đầu; đơn chưa hoàn tất KHÔNG ĐỔI 1 đơn/50.000đ (Tại bàn) lúc 08:02 (đã tải lại + cuộn hết trang mới hiện; đơn vẫn còn, không biến mất); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.576.150đ/670 HĐ (đến hết 18/11)",
   "totals": {
     "invoices": 0,
     "items": 0,
     "revenue": 0
   },
   "unpaid": {
-    "checked_at": "07:53 ngày 19/11/2026",
+    "checked_at": "08:02 ngày 19/11/2026",
     "unfinished": {
       "count": 1,
       "total": 50000,
@@ -137,7 +137,7 @@
     },
     "orders": []
   },
-  "updated_label": "07:53 ngày 19/11/2026",
+  "updated_label": "08:02 ngày 19/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
