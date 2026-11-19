@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 1,
-    "items": 1,
-    "revenue": 54000
+    "invoices": 3,
+    "items": 5,
+    "revenue": 137500
   },
   "ca2": {
     "closed": false,
@@ -16,13 +16,13 @@
   "day": "2026-11-19",
   "day_label": "Thứ năm, 19/11/2026",
   "drinks": {
-    "qty": 0,
-    "revenue": 0
+    "qty": 2,
+    "revenue": 31000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 68630150,
-    "invoices": 671,
+    "revenue": 68713650,
+    "invoices": 673,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 54000
+        "revenue": 137500
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 09:17–09:20 ngày 19/11/2026 — ngày vận hành 19/11: 54.000đ/1 HĐ/1 món (KHÔNG ĐỔI so với quét 09:06–09:09; HĐ duy nhất 2400003909 lúc 09:00, Bàn Chơi - 5, Combo HS 54.000đ); Ca 1 54.000đ/1 HĐ/1 món; Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 5 đơn/261.250đ → 6 đơn/340.250đ (Tại bàn) lúc 09:20 (lần tải đầu hiện 0 sai, tải lại + cuộn hết trang mới hiện); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.630.150đ/671 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 09:27–09:32 ngày 19/11/2026 — ngày vận hành 19/11: 137.500đ/3 HĐ/5 món (TĂNG +83.500đ/+2 HĐ/+4 món so với quét 09:20; +HĐ 2400003910 lúc 09:25, 31.000đ, 2 latte; +HĐ 2400003911 lúc 09:28, 52.500đ, Saigon Dưa Lưới + Giờ Vip); Ca 1 137.500đ/3 HĐ/5 món (Combo 54.000đ, Đồ Uống 31.000đ/2, Thuốc Lá 30.000đ/1, Giờ chơi 22.500đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất GIẢM 1 đơn/32.250đ → 5 đơn/308.000đ (Tại bàn) lúc 09:28; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.713.650đ/673 HĐ (đến hết 19/11)",
   "totals": {
-    "invoices": 1,
-    "items": 1,
-    "revenue": 54000
+    "invoices": 3,
+    "items": 5,
+    "revenue": 137500
   },
   "unpaid": {
-    "checked_at": "09:20 ngày 19/11/2026",
+    "checked_at": "09:32 ngày 19/11/2026",
     "unfinished": {
-      "count": 6,
-      "total": 340250,
+      "count": 5,
+      "total": 308000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 340250
+          "count": 5,
+          "total": 308000
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "09:20 ngày 19/11/2026",
+  "updated_label": "09:32 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -153,6 +153,51 @@
             "name": "Combo HS",
             "qty": 1,
             "revenue": 54000,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Uống",
+        "qty": 2,
+        "revenue": 31000,
+        "items": [
+          {
+            "name": "Latte Socola",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Mãng Cầu",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          }
+        ]
+      },
+      {
+        "name": "Thuốc Lá",
+        "qty": 1,
+        "revenue": 30000,
+        "items": [
+          {
+            "name": "Saigon Dưa Lưới",
+            "qty": 1,
+            "revenue": 30000,
+            "unit": "gói"
+          }
+        ]
+      },
+      {
+        "name": "Giờ chơi",
+        "qty": 1,
+        "revenue": 22500,
+        "items": [
+          {
+            "name": "Giờ Vip",
+            "qty": 1,
+            "revenue": 22500,
             "unit": "lượt"
           }
         ]
@@ -169,6 +214,51 @@
             "name": "Combo HS",
             "qty": 1,
             "revenue": 54000,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Uống",
+        "qty": 2,
+        "revenue": 31000,
+        "items": [
+          {
+            "name": "Latte Socola",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Mãng Cầu",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          }
+        ]
+      },
+      {
+        "name": "Thuốc Lá",
+        "qty": 1,
+        "revenue": 30000,
+        "items": [
+          {
+            "name": "Saigon Dưa Lưới",
+            "qty": 1,
+            "revenue": 30000,
+            "unit": "gói"
+          }
+        ]
+      },
+      {
+        "name": "Giờ chơi",
+        "qty": 1,
+        "revenue": 22500,
+        "items": [
+          {
+            "name": "Giờ Vip",
+            "qty": 1,
+            "revenue": 22500,
             "unit": "lượt"
           }
         ]
