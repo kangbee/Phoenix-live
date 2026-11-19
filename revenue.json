@@ -105,22 +105,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 19:53–19:57 ngày 19/11/2026 — ngày vận hành 19/11: 3.202.750đ/43 HĐ/90 món (KHÔNG ĐỔI so với quét 19:45–19:48, chưa có HĐ thanh toán mới sau 2400003951 lúc 19:45; chi tiết 24 món cộng đúng 3.202.750đ; 43 HĐ #3909–#3951 cộng đủ 3.202.750đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 385.750đ/2 HĐ/13 món (HĐ 2400003950 lúc 19:31, 208.750đ/7 món và HĐ 2400003951 lúc 19:45, 177.000đ/6 món); đơn chưa hoàn tất 6 đơn/281.250đ (Tại bàn) lúc 19:57 — tăng từ 5/231.250đ lúc 19:47 (+1 đơn/+50.000đ, Ca 2 mở thêm 1 bàn mới, đã tải lại + kiểm tra 2 lần); chờ xác nhận thanh toán 0, ghi nợ 0; giá Latte Mãng Cầu trên Sapo đã về 15.000đ, khớp Ca 1, hết chênh 1.000đ; tháng 11 lũy kế 71.778.900đ/713 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 20:02–20:06 ngày 19/11/2026 — ngày vận hành 19/11: 3.202.750đ/43 HĐ/90 món (KHÔNG ĐỔI so với quét 19:53–19:57, chưa có HĐ thanh toán mới sau 2400003951 lúc 19:45; chi tiết 24 món cộng đúng 3.202.750đ; 43 HĐ #3909–#3951 cộng đủ 3.202.750đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 385.750đ/2 HĐ/13 món; đơn chưa hoàn tất 7 đơn/342.250đ (Tại bàn) lúc 20:06 — tăng từ 6/281.250đ lúc 19:57 (+1 đơn/+61.000đ, Ca 2 mở thêm bàn mới, không có HĐ mới sau 19:45; lần tải đầu widget hiện 0 sai, tải lại + cuộn hết trang, kiểm tra 2 lần đều 7/342.250đ); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.778.900đ/713 HĐ (đến hết 19/11)",
   "totals": {
     "revenue": 3202750,
     "invoices": 43,
     "items": 90
   },
   "unpaid": {
-    "checked_at": "19:57 ngày 19/11/2026",
+    "checked_at": "20:06 ngày 19/11/2026",
     "unfinished": {
-      "count": 6,
-      "total": 281250,
+      "count": 7,
+      "total": 342250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 281250
+          "count": 7,
+          "total": 342250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "19:57 ngày 19/11/2026",
+  "updated_label": "20:06 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
