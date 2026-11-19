@@ -101,14 +101,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 08:48–08:51 ngày 19/11/2026 — ngày vận hành 19/11: 0đ/0 HĐ/0 món (ngày mới, chưa có hóa đơn nào; Sapo ghi 'Chưa ghi nhận báo cáo'); Ca 1 0đ/0 HĐ/0 món; Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 0 đơn/0đ → 3 đơn/150.000đ (Tại bàn) lúc 08:49–08:50 (xác minh 2 lần, lần tải đầu hiện 0 sai, cuộn hết trang mới hiện; 2 đơn 50.000đ lúc 08:33 đã biến mất lúc 08:40, nay hiện lại thêm 1 đơn 50.000đ nữa — không có HĐ mới nên nhiều khả năng chỉ là lỗi hiển thị/tải chậm của widget, không phải đã thanh toán hay đã xóa); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.576.150đ/670 HĐ (đến hết 18/11)",
+  "source_note": "Quét live 08:55–09:00 ngày 19/11/2026 — ngày vận hành 19/11: 0đ/0 HĐ/0 món (ngày mới, chưa có hóa đơn nào; Sapo ghi 'Chưa ghi nhận báo cáo'); Ca 1 0đ/0 HĐ/0 món; Ca 2 chưa bắt đầu; đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/150.000đ (Tại bàn) lúc 08:59 (lần tải đầu hiện 0 sai, tải lại + cuộn hết trang mới hiện); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 68.576.150đ/670 HĐ (đến hết 18/11)",
   "totals": {
     "invoices": 0,
     "items": 0,
     "revenue": 0
   },
   "unpaid": {
-    "checked_at": "08:50 ngày 19/11/2026",
+    "checked_at": "08:59 ngày 19/11/2026",
     "unfinished": {
       "count": 3,
       "total": 150000,
@@ -137,7 +137,7 @@
     },
     "orders": []
   },
-  "updated_label": "08:50 ngày 19/11/2026",
+  "updated_label": "08:59 ngày 19/11/2026",
   "views": {
     "ca1": [],
     "ca2": [],
