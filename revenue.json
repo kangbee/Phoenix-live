@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 12,
-  "items": 17,
-  "revenue": 636750
+  "invoices": 13,
+  "items": 18,
+  "revenue": 666750
  },
  "ca2": {
   "closed": false,
@@ -21,8 +21,8 @@
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 69212900,
-  "invoices": 682,
+  "revenue": 69242900,
+  "invoices": 683,
   "note": "Tính đến hết ngày vận hành 19/11/2026",
   "daily": [
    {
@@ -99,17 +99,17 @@
    },
    {
     "date": "19/11",
-    "revenue": 636750
+    "revenue": 666750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 11:43–11:46 ngày 19/11/2026 — ngày vận hành 19/11: 636.750đ/12 HĐ/17 món (KHÔNG ĐỔI so với quét 11:34–11:37; HĐ mới nhất 2400003920 lúc 11:30); Ca 1 636.750đ/12 HĐ/17 món (Combo 376.000đ/7, Giờ chơi 123.750đ/3, Đồ Uống 78.000đ/5, Thuốc Lá 30.000đ/1, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 5 đơn/228.000đ → 6 đơn/267.000đ (Tại bàn) lúc 11:46 (lần tải đầu hiện 0 sai, tải lại + cuộn hết trang mới hiện); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.212.900đ/682 HĐ (đến hết 19/11)",
+ "source_note": "Quét live 11:49–11:54 ngày 19/11/2026 — ngày vận hành 19/11: 666.750đ/13 HĐ/18 món (TĂNG +30.000đ/+1 HĐ/+1 món so với quét 11:43–11:46; thêm HĐ 2400003921 lúc 11:48, 1× Saigon Dưa Lưới 30.000đ); Ca 1 666.750đ/13 HĐ/18 món (Combo 376.000đ/7, Giờ chơi 123.750đ/3, Đồ Uống 78.000đ/5, Thuốc Lá 60.000đ/2, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất: dashboard hiện 0 sau 2 lần tải lại NHƯNG CHƯA ĐÁNG TIN (lúc 11:46 là 6 đơn/267.000đ mà doanh thu đã thanh toán chỉ tăng 30.000đ, Hoàn/hủy 0đ, nhiều widget dashboard khác cũng hiện sai 'Chưa có doanh thu ngày hôm nay') nên GIỮ NGUYÊN snapshot 6 đơn/267.000đ lúc 11:46, chưa ghi đè bằng 0 — cần kiểm tra lại ở màn hình bán hàng/POS hoặc lần quét sau; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.242.900đ/683 HĐ (đến hết 19/11)",
  "totals": {
-  "invoices": 12,
-  "items": 17,
-  "revenue": 636750
+  "invoices": 13,
+  "items": 18,
+  "revenue": 666750
  },
  "unpaid": {
   "checked_at": "11:46 ngày 19/11/2026",
@@ -141,7 +141,7 @@
   },
   "orders": []
  },
- "updated_label": "11:47 ngày 19/11/2026",
+ "updated_label": "11:55 ngày 19/11/2026",
  "views": {
   "ca1": [
    {
@@ -190,13 +190,13 @@
    },
    {
     "name": "Thuốc Lá",
-    "qty": 1,
-    "revenue": 30000,
+    "qty": 2,
+    "revenue": 60000,
     "items": [
      {
       "name": "Saigon Dưa Lưới",
-      "qty": 1,
-      "revenue": 30000,
+      "qty": 2,
+      "revenue": 60000,
       "unit": "gói"
      }
     ]
@@ -276,13 +276,13 @@
    },
    {
     "name": "Thuốc Lá",
-    "qty": 1,
-    "revenue": 30000,
+    "qty": 2,
+    "revenue": 60000,
     "items": [
      {
       "name": "Saigon Dưa Lưới",
-      "qty": 1,
-      "revenue": 30000,
+      "qty": 2,
+      "revenue": 60000,
       "unit": "gói"
      }
     ]
