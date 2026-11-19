@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 4,
-    "items": 16,
-    "revenue": 467750
+    "invoices": 5,
+    "items": 17,
+    "revenue": 521750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 71860900,
-    "invoices": 715,
+    "revenue": 71914900,
+    "invoices": 716,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 3284750
+        "revenue": 3338750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 21:31–21:35 ngày 19/11/2026 — ngày vận hành 19/11: 3.284.750đ/45 HĐ/93 món (KHÔNG ĐỔI so với quét 21:20–21:23; HĐ mới nhất vẫn 2400003953 lúc 21:18; chi tiết 25 món cộng đúng 3.284.750đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 467.750đ/4 HĐ/16 món; đơn chưa hoàn tất 10 đơn/682.000đ (Tại bàn) lúc 21:34 — TĂNG 108.000đ so với 574.000đ lúc 21:23 (vẫn 10 đơn, bàn đang chơi gọi thêm; đã tải lại + cuộn hết dashboard, lần tải đầu hiện 0 sai); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.860.900đ/715 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 21:40–21:47 ngày 19/11/2026 — ngày vận hành 19/11: 3.338.750đ/46 HĐ/94 món (+54.000đ, HĐ mới 2400003954 lúc 21:42, E80139 Bàn Chơi - 8, Hoàng Hà, 1 món Combo HS); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 521.750đ/5 HĐ/17 món; đơn chưa hoàn tất 9 đơn/740.250đ (Tại bàn) lúc 21:46 — giảm 1 đơn nhưng tăng 58.250đ so với 10 đơn/682.000đ lúc 21:34 (có HĐ 54.000đ mới lúc 21:42, các bàn còn chơi gọi thêm; đã tải lại + cuộn hết dashboard, lần tải đầu hiện 0 sai); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.914.900đ/716 HĐ (đến hết 19/11)",
   "totals": {
-    "revenue": 3284750,
-    "invoices": 45,
-    "items": 93
+    "revenue": 3338750,
+    "invoices": 46,
+    "items": 94
   },
   "unpaid": {
-    "checked_at": "21:34 ngày 19/11/2026",
+    "checked_at": "21:46 ngày 19/11/2026",
     "unfinished": {
-      "count": 10,
-      "total": 682000,
+      "count": 9,
+      "total": 740250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 10,
-          "total": 682000
+          "count": 9,
+          "total": 740250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "21:34 ngày 19/11/2026",
+  "updated_label": "21:47 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -316,13 +316,13 @@
     "ca2": [
       {
         "name": "Combo",
-        "qty": 1,
-        "revenue": 50000,
+        "qty": 2,
+        "revenue": 104000,
         "items": [
           {
             "name": "Combo HS",
-            "qty": 1,
-            "revenue": 50000,
+            "qty": 2,
+            "revenue": 104000,
             "unit": "lượt"
           }
         ]
@@ -426,13 +426,13 @@
     "ca_ngay": [
       {
         "name": "Combo",
-        "qty": 27,
-        "revenue": 1535000,
+        "qty": 28,
+        "revenue": 1589000,
         "items": [
           {
             "name": "Combo HS",
-            "qty": 24,
-            "revenue": 1288000,
+            "qty": 25,
+            "revenue": 1342000,
             "unit": "lượt"
           },
           {
