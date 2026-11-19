@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 1,
-    "items": 7,
-    "revenue": 208750
+    "invoices": 2,
+    "items": 13,
+    "revenue": 385750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-19",
   "day_label": "Thứ năm, 19/11/2026",
   "drinks": {
-    "qty": 27,
-    "revenue": 399000
+    "qty": 29,
+    "revenue": 441000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 71601900,
-    "invoices": 712,
+    "revenue": 71778900,
+    "invoices": 713,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 3025750
+        "revenue": 3202750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 19:37–19:41 ngày 19/11/2026 — ngày vận hành 19/11: 3.025.750đ/42 HĐ/84 món (KHÔNG ĐỔI so với quét 19:31–19:33, chưa có HĐ thanh toán mới sau 2400003950 lúc 19:31; chi tiết 22 món cộng đúng 3.025.750đ; 42 HĐ #3909–#3950 cộng đủ 3.025.750đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 208.750đ/1 HĐ/7 món (HĐ 2400003950 lúc 19:31, Bàn Chơi - 11: Giờ Vip 1/96.750đ, Bò Húc 3/51.000đ, Saigon Dưa Lưới 1/30.000đ, Latte Socola 1/16.000đ, Coca Cola 1/15.000đ); đơn chưa hoàn tất 6 đơn/394.250đ (Tại bàn) lúc 19:41 — số 0 lúc 19:33 ĐÃ GIẢI THÍCH: widget dashboard hiện 0 khi chưa cuộn tới (lazy-load), số thật lúc 19:38 là 5/344.250đ, rồi tăng +1 đơn/+50.000đ lên 6/394.250đ lúc 19:40–19:41 (Ca 2 mở thêm 1 bàn mới); không có đơn nào biến mất không dấu vết, không cần hỏi nhân viên về 256.500đ nữa; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.601.900đ/712 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 19:45–19:48 ngày 19/11/2026 — ngày vận hành 19/11: 3.202.750đ/43 HĐ/90 món (TĂNG +177.000đ/+1 HĐ/+6 món so với quét 19:37–19:41, HĐ mới 2400003951 lúc 19:45, Bàn Chơi - 1: Giờ Thường 1/90.000đ, Cơ Thuê 1/29.000đ, Bò Húc 1/17.000đ, Saigon Bạc 1/25.000đ, Bimbim Oishi 2/16.000đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 385.750đ/2 HĐ/13 món; đơn chưa hoàn tất 5 đơn/231.250đ (Tại bàn) lúc 19:47 — GIẢM từ 6/394.250đ lúc 19:41 (-1 đơn/-163.000đ; HĐ 3951 thanh toán 177.000đ nên còn chênh +14.000đ, có thể bàn đang mở gọi thêm — theo dõi lần quét sau); chờ xác nhận thanh toán 0, ghi nợ 0. Lưu ý: chi tiết món cả ngày trên Sapo cộng 3.203.750đ, hơn tổng ngày 1.000đ — Latte Mãng Cầu Sapo ghi 16.000đ nhưng Ca 1 đã lưu 15.000đ; tổng ngày khớp theo hóa đơn nên không nạp lại, kiểm tra lại ở lần quét sau.",
   "totals": {
-    "revenue": 3025750,
-    "invoices": 42,
-    "items": 84
+    "revenue": 3202750,
+    "invoices": 43,
+    "items": 90
   },
   "unpaid": {
-    "checked_at": "19:41 ngày 19/11/2026",
+    "checked_at": "19:47 ngày 19/11/2026",
     "unfinished": {
-      "count": 6,
-      "total": 394250,
+      "count": 5,
+      "total": 231250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 394250
+          "count": 5,
+          "total": 231250
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "19:41 ngày 19/11/2026",
+  "updated_label": "19:48 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -316,32 +316,44 @@
     "ca2": [
       {
         "name": "Giờ chơi",
-        "qty": 1,
-        "revenue": 96750,
+        "qty": 2,
+        "revenue": 186750,
         "items": [
           {
             "name": "Giờ Vip",
             "qty": 1,
             "revenue": 96750,
             "unit": "lượt"
+          },
+          {
+            "name": "Giờ Thường",
+            "qty": 1,
+            "revenue": 90000,
+            "unit": "lượt"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 5,
-        "revenue": 82000,
+        "qty": 7,
+        "revenue": 124000,
         "items": [
           {
             "name": "Bò Húc",
-            "qty": 3,
-            "revenue": 51000,
+            "qty": 4,
+            "revenue": 68000,
             "unit": "chai/lon"
           },
           {
             "name": "Latte Socola",
             "qty": 1,
             "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Saigon Bạc",
+            "qty": 1,
+            "revenue": 25000,
             "unit": "chai/lon"
           },
           {
@@ -362,6 +374,32 @@
             "qty": 1,
             "revenue": 30000,
             "unit": "gói"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Ăn",
+        "qty": 2,
+        "revenue": 16000,
+        "items": [
+          {
+            "name": "Bimbim Oishi",
+            "qty": 2,
+            "revenue": 16000,
+            "unit": "cái"
+          }
+        ]
+      },
+      {
+        "name": "Khác",
+        "qty": 1,
+        "revenue": 29000,
+        "items": [
+          {
+            "name": "Cơ Thuê",
+            "qty": 1,
+            "revenue": 29000,
+            "unit": "lần"
           }
         ]
       }
@@ -394,8 +432,8 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 11,
-        "revenue": 727750,
+        "qty": 12,
+        "revenue": 817750,
         "items": [
           {
             "name": "Giờ Vip",
@@ -405,21 +443,21 @@
           },
           {
             "name": "Giờ Thường",
-            "qty": 3,
-            "revenue": 280000,
+            "qty": 4,
+            "revenue": 370000,
             "unit": "lượt"
           }
         ]
       },
       {
         "name": "Đồ Uống",
-        "qty": 27,
-        "revenue": 399000,
+        "qty": 29,
+        "revenue": 441000,
         "items": [
           {
             "name": "Bò Húc",
-            "qty": 8,
-            "revenue": 136000,
+            "qty": 9,
+            "revenue": 153000,
             "unit": "chai/lon"
           },
           {
@@ -444,6 +482,12 @@
             "name": "Tiền Hải Ngọt",
             "qty": 2,
             "revenue": 20000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Saigon Bạc",
+            "qty": 1,
+            "revenue": 25000,
             "unit": "chai/lon"
           },
           {
@@ -499,8 +543,8 @@
       },
       {
         "name": "Đồ Ăn",
-        "qty": 8,
-        "revenue": 89000,
+        "qty": 10,
+        "revenue": 105000,
         "items": [
           {
             "name": "VELA ruốc",
@@ -525,18 +569,24 @@
             "qty": 2,
             "revenue": 20000,
             "unit": "cái"
+          },
+          {
+            "name": "Bimbim Oishi",
+            "qty": 2,
+            "revenue": 16000,
+            "unit": "cái"
           }
         ]
       },
       {
         "name": "Khác",
-        "qty": 5,
-        "revenue": 145000,
+        "qty": 6,
+        "revenue": 174000,
         "items": [
           {
             "name": "Cơ Thuê",
-            "qty": 5,
-            "revenue": 145000,
+            "qty": 6,
+            "revenue": 174000,
             "unit": "lần"
           }
         ]
