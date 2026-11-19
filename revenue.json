@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 0,
-    "items": 0,
-    "revenue": 0
+    "invoices": 1,
+    "items": 7,
+    "revenue": 208750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-19",
   "day_label": "Thứ năm, 19/11/2026",
   "drinks": {
-    "qty": 22,
-    "revenue": 317000
+    "qty": 27,
+    "revenue": 399000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 71393150,
-    "invoices": 711,
+    "revenue": 71601900,
+    "invoices": 712,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 2817000
+        "revenue": 3025750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 19:26–19:28 ngày 19/11/2026 — ngày vận hành 19/11: 2.817.000đ/41 HĐ/77 món (KHÔNG ĐỔI so với quét 19:20–19:23, chưa có HĐ thanh toán mới sau 18:43; HĐ mới nhất vẫn 2400003949 lúc 18:43; chi tiết 21 món cộng đúng 2.817.000đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món (Combo 1.485.000đ/26, Giờ chơi 631.000đ/10, Đồ Uống 317.000đ/22, Thuốc Lá 150.000đ/6, Đồ Ăn 89.000đ/8, Khác 145.000đ/5); Ca 2 0 HĐ đã thanh toán; đơn chưa hoàn tất 5 đơn/465.250đ (Tại bàn) lúc 19:28 (TĂNG +1 đơn/+50.000đ so với 19:22 — Ca 2 mở thêm 1 đơn tại bàn mới, chưa chốt thành HĐ; widget lần đầu hiện 0 sai, tải lại + cuộn mới hiện đúng, kiểm tra 2 lần ổn định); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.393.150đ/711 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 19:31–19:33 ngày 19/11/2026 — ngày vận hành 19/11: 3.025.750đ/42 HĐ/84 món (TĂNG +208.750đ/+1 HĐ/+7 món so với quét 19:26–19:28; HĐ mới 2400003950 lúc 19:31, Bàn Chơi - 11, 208.750đ — HĐ đã thanh toán đầu tiên của Ca 2); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 208.750đ/1 HĐ/7 món (Giờ Vip 1/96.750đ, Bò Húc 3/51.000đ, Saigon Dưa Lưới 1/30.000đ, Latte Socola 1/16.000đ, Coca Cola 1/15.000đ); đơn chưa hoàn tất 0 đơn/0đ lúc 19:33 (GIẢM từ 5 đơn/465.250đ lúc 19:28 — chỉ 208.750đ thành HĐ 2400003950, còn 256.500đ chưa giải thích: có thể các bàn đã hủy hoặc widget dashboard tải lỗi — các widget khác cũng hiện 'Chưa có doanh thu ngày hôm nay' dù tổng ngày 3.025.750đ; đã tải lại 4 lần đều 0; chờ lần quét sau xác nhận, hỏi nhân viên nếu đến chốt ca vẫn không hiện lại); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 71.601.900đ/712 HĐ (đến hết 19/11)",
   "totals": {
-    "revenue": 2817000,
-    "invoices": 41,
-    "items": 77
+    "revenue": 3025750,
+    "invoices": 42,
+    "items": 84
   },
   "unpaid": {
-    "checked_at": "19:28 ngày 19/11/2026",
+    "checked_at": "19:33 ngày 19/11/2026",
     "unfinished": {
-      "count": 5,
-      "total": 465250,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 5,
-          "total": 465250
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "19:28 ngày 19/11/2026",
+  "updated_label": "19:33 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -313,7 +313,59 @@
         ]
       }
     ],
-    "ca2": [],
+    "ca2": [
+      {
+        "name": "Giờ chơi",
+        "qty": 1,
+        "revenue": 96750,
+        "items": [
+          {
+            "name": "Giờ Vip",
+            "qty": 1,
+            "revenue": 96750,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Uống",
+        "qty": 5,
+        "revenue": 82000,
+        "items": [
+          {
+            "name": "Bò Húc",
+            "qty": 3,
+            "revenue": 51000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Socola",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Coca Cola",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
+          }
+        ]
+      },
+      {
+        "name": "Thuốc Lá",
+        "qty": 1,
+        "revenue": 30000,
+        "items": [
+          {
+            "name": "Saigon Dưa Lưới",
+            "qty": 1,
+            "revenue": 30000,
+            "unit": "gói"
+          }
+        ]
+      }
+    ],
     "ca_ngay": [
       {
         "name": "Combo",
@@ -342,13 +394,13 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 10,
-        "revenue": 631000,
+        "qty": 11,
+        "revenue": 727750,
         "items": [
           {
             "name": "Giờ Vip",
-            "qty": 7,
-            "revenue": 351000,
+            "qty": 8,
+            "revenue": 447750,
             "unit": "lượt"
           },
           {
@@ -361,19 +413,19 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 22,
-        "revenue": 317000,
+        "qty": 27,
+        "revenue": 399000,
         "items": [
           {
             "name": "Bò Húc",
-            "qty": 5,
-            "revenue": 85000,
+            "qty": 8,
+            "revenue": 136000,
             "unit": "chai/lon"
           },
           {
             "name": "Latte Socola",
-            "qty": 5,
-            "revenue": 80000,
+            "qty": 6,
+            "revenue": 96000,
             "unit": "chai/lon"
           },
           {
@@ -417,18 +469,24 @@
             "qty": 1,
             "revenue": 15000,
             "unit": "chai/lon"
+          },
+          {
+            "name": "Coca Cola",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "chai/lon"
           }
         ]
       },
       {
         "name": "Thuốc Lá",
-        "qty": 6,
-        "revenue": 150000,
+        "qty": 7,
+        "revenue": 180000,
         "items": [
           {
             "name": "Saigon Dưa Lưới",
-            "qty": 3,
-            "revenue": 90000,
+            "qty": 4,
+            "revenue": 120000,
             "unit": "gói"
           },
           {
