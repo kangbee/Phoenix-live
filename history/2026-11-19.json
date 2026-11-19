@@ -105,22 +105,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 23:27–23:30 ngày 19/11/2026 — ngày vận hành 19/11: 4.335.500đ/55 HĐ/116 món (tăng 16.000đ/+1 HĐ/+1 món so với quét 23:17–23:22; HĐ mới nhất 2400003963 lúc 23:22, Bàn Chơi - 1, Hoàng Hà, 16.000đ Giờ Thường); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 1.518.500đ/14 HĐ/39 món; đơn chưa hoàn tất 2 đơn/550.000đ (Tại bàn) lúc 23:30 — giảm 1 đơn, giảm 2.000đ so với 3 đơn/552.000đ lúc 23:21 (HĐ 3963 lúc 23:22 có thể là 1 bàn trong số đó đã tính tiền, đồng thời có bàn mới mở thêm); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.911.650đ/725 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 23:50–23:55 ngày 19/11/2026 — ngày vận hành 19/11: 4.335.500đ/55 HĐ/116 món (không đổi so với quét 23:27–23:30); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 1.518.500đ/14 HĐ/39 món; đơn chưa hoàn tất 0 đơn/0đ lúc 23:54 (giảm từ 2 đơn/550.000đ lúc 23:30 — 2 bàn đã tính tiền hoặc hủy); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.911.650đ/725 HĐ (đến hết 19/11)",
   "totals": {
     "revenue": 4335500,
     "invoices": 55,
     "items": 116
   },
   "unpaid": {
-    "checked_at": "23:30 ngày 19/11/2026",
+    "checked_at": "23:54 ngày 19/11/2026",
     "unfinished": {
-      "count": 2,
-      "total": 550000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 2,
-          "total": 550000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "23:30 ngày 19/11/2026",
+  "updated_label": "23:54 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
