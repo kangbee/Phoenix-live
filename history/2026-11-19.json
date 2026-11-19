@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 7,
-    "items": 20,
-    "revenue": 665750
+    "invoices": 8,
+    "items": 27,
+    "revenue": 844250
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-19",
   "day_label": "Thứ năm, 19/11/2026",
   "drinks": {
-    "qty": 30,
-    "revenue": 457000
+    "qty": 34,
+    "revenue": 530000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 72058900,
-    "invoices": 718,
+    "revenue": 72237400,
+    "invoices": 719,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 3482750
+        "revenue": 3661250
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 22:19–22:22 ngày 19/11/2026 — ngày vận hành 19/11: 3.482.750đ/48 HĐ/97 món (tăng 92.000đ/+1 HĐ/+2 món so với quét 22:08–22:13; HĐ mới 2400003956 lúc 22:14, E83487 Bàn Chơi - 9, 92.000đ); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 665.750đ/7 HĐ/20 món; đơn chưa hoàn tất 8 đơn/924.500đ (Tại bàn) lúc 22:22 — giảm 1 đơn, tăng 111.250đ so với 9 đơn/813.250đ lúc 22:11 (lần tải đầu dashboard hiện 0 sai, đã tải lại + cuộn, kiểm tra 2 lần); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.058.900đ/718 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 22:31–22:34 ngày 19/11/2026 — ngày vận hành 19/11: 3.661.250đ/49 HĐ/104 món (tăng 178.500đ/+1 HĐ/+7 món so với quét 22:19–22:22; HĐ mới 2400003957 lúc 22:28, Bàn Chơi -10, 178.500đ, Hoàng Hà); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 844.250đ/8 HĐ/27 món; đơn chưa hoàn tất 7 đơn/826.000đ (Tại bàn) lúc 22:36 — giảm 1 đơn, giảm 98.500đ so với 8 đơn/924.500đ lúc 22:22 (lần tải đầu dashboard hiện 0 sai, đã tải lại + cuộn); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.237.400đ/719 HĐ (đến hết 19/11)",
   "totals": {
-    "revenue": 3482750,
-    "invoices": 48,
-    "items": 97
+    "revenue": 3661250,
+    "invoices": 49,
+    "items": 104
   },
   "unpaid": {
-    "checked_at": "22:22 ngày 19/11/2026",
+    "checked_at": "22:36 ngày 19/11/2026",
     "unfinished": {
-      "count": 8,
-      "total": 924500,
+      "count": 7,
+      "total": 826000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 8,
-          "total": 924500
+          "count": 7,
+          "total": 826000
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "22:25 ngày 19/11/2026",
+  "updated_label": "22:42 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -329,13 +329,13 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 4,
-        "revenue": 265750,
+        "qty": 5,
+        "revenue": 351250,
         "items": [
           {
             "name": "Giờ Vip",
-            "qty": 2,
-            "revenue": 159750,
+            "qty": 3,
+            "revenue": 245250,
             "unit": "lượt"
           },
           {
@@ -348,13 +348,13 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 8,
-        "revenue": 140000,
+        "qty": 12,
+        "revenue": 213000,
         "items": [
           {
             "name": "Bò Húc",
-            "qty": 4,
-            "revenue": 68000,
+            "qty": 5,
+            "revenue": 85000,
             "unit": "chai/lon"
           },
           {
@@ -365,8 +365,14 @@
           },
           {
             "name": "Saigon Bạc",
-            "qty": 1,
-            "revenue": 25000,
+            "qty": 2,
+            "revenue": 50000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Number One",
+            "qty": 2,
+            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -376,9 +382,9 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Number One",
+            "name": "Warriod Dâu",
             "qty": 1,
-            "revenue": 16000,
+            "revenue": 15000,
             "unit": "chai/lon"
           }
         ]
@@ -398,9 +404,15 @@
       },
       {
         "name": "Đồ Ăn",
-        "qty": 2,
-        "revenue": 16000,
+        "qty": 4,
+        "revenue": 36000,
         "items": [
+          {
+            "name": "Bimbim Lays",
+            "qty": 2,
+            "revenue": 20000,
+            "unit": "cái"
+          },
           {
             "name": "Bimbim Oishi",
             "qty": 2,
@@ -451,13 +463,13 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 14,
-        "revenue": 896750,
+        "qty": 15,
+        "revenue": 982250,
         "items": [
           {
             "name": "Giờ Vip",
-            "qty": 9,
-            "revenue": 510750,
+            "qty": 10,
+            "revenue": 596250,
             "unit": "lượt"
           },
           {
@@ -470,13 +482,13 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 30,
-        "revenue": 457000,
+        "qty": 34,
+        "revenue": 530000,
         "items": [
           {
             "name": "Bò Húc",
-            "qty": 9,
-            "revenue": 153000,
+            "qty": 10,
+            "revenue": 170000,
             "unit": "chai/lon"
           },
           {
@@ -505,8 +517,8 @@
           },
           {
             "name": "Saigon Bạc",
-            "qty": 1,
-            "revenue": 25000,
+            "qty": 2,
+            "revenue": 50000,
             "unit": "chai/lon"
           },
           {
@@ -541,8 +553,14 @@
           },
           {
             "name": "Number One",
+            "qty": 2,
+            "revenue": 32000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Warriod Dâu",
             "qty": 1,
-            "revenue": 16000,
+            "revenue": 15000,
             "unit": "chai/lon"
           }
         ]
@@ -568,8 +586,8 @@
       },
       {
         "name": "Đồ Ăn",
-        "qty": 10,
-        "revenue": 105000,
+        "qty": 12,
+        "revenue": 125000,
         "items": [
           {
             "name": "VELA ruốc",
@@ -591,8 +609,8 @@
           },
           {
             "name": "Bimbim Lays",
-            "qty": 2,
-            "revenue": 20000,
+            "qty": 4,
+            "revenue": 40000,
             "unit": "cái"
           },
           {
