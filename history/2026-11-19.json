@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 16,
-    "items": 22,
-    "revenue": 764750
+    "invoices": 17,
+    "items": 23,
+    "revenue": 814750
   },
   "ca2": {
     "closed": false,
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 69340900,
-    "invoices": 686,
+    "revenue": 69390900,
+    "invoices": 687,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 764750
+        "revenue": 814750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 12:38–12:41 ngày 19/11/2026 — ngày vận hành 19/11: 764.750đ/16 HĐ/22 món (TĂNG +39.000đ/+1 HĐ/+1 món so với quét 12:34; HĐ mới 3924 lúc 12:36, Combo 39 39.000đ, Bàn Chơi - 4); Ca 1 764.750đ/16 HĐ/22 món (Combo 458.000đ/9, Giờ chơi 123.750đ/3, Đồ Uống 78.000đ/5, Thuốc Lá 60.000đ/2, Đồ Ăn 16.000đ/2, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất GIẢM 5 đơn/268.000đ → 4 đơn/229.000đ (Tại bàn) lúc 12:40, khớp đúng HĐ mới đóng 3924 (39.000đ); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.340.900đ/686 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 12:46–12:48 ngày 19/11/2026 — ngày vận hành 19/11: 814.750đ/17 HĐ/23 món (TĂNG +50.000đ/+1 HĐ/+1 món so với quét 12:38–12:41; HĐ mới 2400003925 lúc 12:42, 50.000đ, Combo HS, Bàn Chơi - 2); Ca 1 814.750đ/17 HĐ/23 món (Combo 508.000đ/10, Giờ chơi 123.750đ/3, Đồ Uống 78.000đ/5, Thuốc Lá 60.000đ/2, Đồ Ăn 16.000đ/2, Khác 29.000đ/1); Ca 2 chưa bắt đầu; đơn chưa hoàn tất TĂNG 4 đơn/229.000đ → 5 đơn/231.250đ (Tại bàn) lúc 12:48; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 69.390.900đ/687 HĐ (đến hết 19/11)",
   "totals": {
-    "invoices": 16,
-    "items": 22,
-    "revenue": 764750
+    "invoices": 17,
+    "items": 23,
+    "revenue": 814750
   },
   "unpaid": {
-    "checked_at": "12:40 ngày 19/11/2026",
+    "checked_at": "12:48 ngày 19/11/2026",
     "unfinished": {
-      "count": 4,
-      "total": 229000,
+      "count": 5,
+      "total": 231250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 4,
-          "total": 229000
+          "count": 5,
+          "total": 231250
         },
         {
           "channel": "Mang đi",
@@ -141,24 +141,37 @@
     },
     "orders": []
   },
-  "updated_label": "12:40 ngày 19/11/2026",
+  "updated_label": "12:48 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
         "name": "Combo",
-        "qty": 9,
-        "revenue": 458000,
+        "qty": 10,
+        "revenue": 508000,
         "items": [
           {
             "name": "Combo HS",
-            "qty": 7,
-            "revenue": 376000,
+            "qty": 8,
+            "revenue": 426000,
             "unit": "lượt"
           },
           {
             "name": "Combo 39",
             "qty": 2,
             "revenue": 82000,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Giờ chơi",
+        "qty": 3,
+        "revenue": 123750,
+        "items": [
+          {
+            "name": "Giờ Vip",
+            "qty": 3,
+            "revenue": 123750,
             "unit": "lượt"
           }
         ]
@@ -175,6 +188,12 @@
             "unit": "chai/lon"
           },
           {
+            "name": "Boncha Ô Long Đào",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "ICE Trà Đào",
             "qty": 1,
             "revenue": 15000,
@@ -184,12 +203,6 @@
             "name": "Latte Mãng Cầu",
             "qty": 1,
             "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Boncha Ô Long Đào",
-            "qty": 1,
-            "revenue": 16000,
             "unit": "chai/lon"
           }
         ]
@@ -204,19 +217,6 @@
             "qty": 2,
             "revenue": 60000,
             "unit": "gói"
-          }
-        ]
-      },
-      {
-        "name": "Giờ chơi",
-        "qty": 3,
-        "revenue": 123750,
-        "items": [
-          {
-            "name": "Giờ Vip",
-            "qty": 3,
-            "revenue": 123750,
-            "unit": "lượt"
           }
         ]
       },
@@ -251,19 +251,32 @@
     "ca_ngay": [
       {
         "name": "Combo",
-        "qty": 9,
-        "revenue": 458000,
+        "qty": 10,
+        "revenue": 508000,
         "items": [
           {
             "name": "Combo HS",
-            "qty": 7,
-            "revenue": 376000,
+            "qty": 8,
+            "revenue": 426000,
             "unit": "lượt"
           },
           {
             "name": "Combo 39",
             "qty": 2,
             "revenue": 82000,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Giờ chơi",
+        "qty": 3,
+        "revenue": 123750,
+        "items": [
+          {
+            "name": "Giờ Vip",
+            "qty": 3,
+            "revenue": 123750,
             "unit": "lượt"
           }
         ]
@@ -280,6 +293,12 @@
             "unit": "chai/lon"
           },
           {
+            "name": "Boncha Ô Long Đào",
+            "qty": 1,
+            "revenue": 16000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "ICE Trà Đào",
             "qty": 1,
             "revenue": 15000,
@@ -289,12 +308,6 @@
             "name": "Latte Mãng Cầu",
             "qty": 1,
             "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Boncha Ô Long Đào",
-            "qty": 1,
-            "revenue": 16000,
             "unit": "chai/lon"
           }
         ]
@@ -309,19 +322,6 @@
             "qty": 2,
             "revenue": 60000,
             "unit": "gói"
-          }
-        ]
-      },
-      {
-        "name": "Giờ chơi",
-        "qty": 3,
-        "revenue": 123750,
-        "items": [
-          {
-            "name": "Giờ Vip",
-            "qty": 3,
-            "revenue": 123750,
-            "unit": "lượt"
           }
         ]
       },
