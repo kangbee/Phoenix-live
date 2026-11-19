@@ -7,9 +7,9 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 8,
-    "items": 27,
-    "revenue": 844250
+    "invoices": 9,
+    "items": 28,
+    "revenue": 983750
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 72237400,
-    "invoices": 719,
+    "revenue": 72376900,
+    "invoices": 720,
     "note": "Tính đến hết ngày vận hành 19/11/2026",
     "daily": [
       {
@@ -99,28 +99,28 @@
       },
       {
         "date": "19/11",
-        "revenue": 3661250
+        "revenue": 3800750
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 22:31–22:34 ngày 19/11/2026 — ngày vận hành 19/11: 3.661.250đ/49 HĐ/104 món (tăng 178.500đ/+1 HĐ/+7 món so với quét 22:19–22:22; HĐ mới 2400003957 lúc 22:28, Bàn Chơi -10, 178.500đ, Hoàng Hà); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 844.250đ/8 HĐ/27 món; đơn chưa hoàn tất 7 đơn/826.000đ (Tại bàn) lúc 22:36 — giảm 1 đơn, giảm 98.500đ so với 8 đơn/924.500đ lúc 22:22 (lần tải đầu dashboard hiện 0 sai, đã tải lại + cuộn); chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.237.400đ/719 HĐ (đến hết 19/11)",
+  "source_note": "Quét live 22:47–22:49 ngày 19/11/2026 — ngày vận hành 19/11: 3.800.750đ/50 HĐ/105 món (tăng 139.500đ/+1 HĐ/+1 món so với quét 22:31–22:34; HĐ mới 2400003958 lúc 22:37, Bàn Chơi -11, 139.500đ, Hoàng Hà); Ca 1 đã chốt 2.817.000đ/41 HĐ/77 món; Ca 2 983.750đ/9 HĐ/28 món; đơn chưa hoàn tất 6 đơn/867.750đ (Tại bàn) lúc 22:51 — giảm 1 đơn, tăng 41.750đ so với 7 đơn/826.000đ lúc 22:36; chờ xác nhận thanh toán 0, ghi nợ 0; tháng 11 lũy kế 72.376.900đ/720 HĐ (đến hết 19/11)",
   "totals": {
-    "revenue": 3661250,
-    "invoices": 49,
-    "items": 104
+    "revenue": 3800750,
+    "invoices": 50,
+    "items": 105
   },
   "unpaid": {
-    "checked_at": "22:36 ngày 19/11/2026",
+    "checked_at": "22:51 ngày 19/11/2026",
     "unfinished": {
-      "count": 7,
-      "total": 826000,
+      "count": 6,
+      "total": 867750,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 826000
+          "count": 6,
+          "total": 867750
         },
         {
           "channel": "Mang đi",
@@ -141,7 +141,7 @@
     },
     "orders": []
   },
-  "updated_label": "22:42 ngày 19/11/2026",
+  "updated_label": "22:55 ngày 19/11/2026",
   "views": {
     "ca1": [
       {
@@ -329,13 +329,13 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 5,
-        "revenue": 351250,
+        "qty": 6,
+        "revenue": 490750,
         "items": [
           {
             "name": "Giờ Vip",
-            "qty": 3,
-            "revenue": 245250,
+            "qty": 4,
+            "revenue": 384750,
             "unit": "lượt"
           },
           {
@@ -358,12 +358,6 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Socola",
-            "qty": 1,
-            "revenue": 16000,
-            "unit": "chai/lon"
-          },
-          {
             "name": "Saigon Bạc",
             "qty": 2,
             "revenue": 50000,
@@ -373,6 +367,12 @@
             "name": "Number One",
             "qty": 2,
             "revenue": 32000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Latte Socola",
+            "qty": 1,
+            "revenue": 16000,
             "unit": "chai/lon"
           },
           {
@@ -463,13 +463,13 @@
       },
       {
         "name": "Giờ chơi",
-        "qty": 15,
-        "revenue": 982250,
+        "qty": 16,
+        "revenue": 1121750,
         "items": [
           {
             "name": "Giờ Vip",
-            "qty": 10,
-            "revenue": 596250,
+            "qty": 11,
+            "revenue": 735750,
             "unit": "lượt"
           },
           {
@@ -498,9 +498,21 @@
             "unit": "chai/lon"
           },
           {
+            "name": "Saigon Bạc",
+            "qty": 2,
+            "revenue": 50000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "Nước Lọc",
             "qty": 4,
             "revenue": 40000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Number One",
+            "qty": 2,
+            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -516,9 +528,9 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Saigon Bạc",
-            "qty": 2,
-            "revenue": 50000,
+            "name": "Boncha Ô Long Đào",
+            "qty": 1,
+            "revenue": 16000,
             "unit": "chai/lon"
           },
           {
@@ -528,9 +540,9 @@
             "unit": "chai/lon"
           },
           {
-            "name": "Boncha Ô Long Đào",
+            "name": "Coca Cola",
             "qty": 1,
-            "revenue": 16000,
+            "revenue": 15000,
             "unit": "chai/lon"
           },
           {
@@ -543,18 +555,6 @@
             "name": "Sting Đỏ",
             "qty": 1,
             "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Coca Cola",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Number One",
-            "qty": 2,
-            "revenue": 32000,
             "unit": "chai/lon"
           },
           {
@@ -602,12 +602,6 @@
             "unit": "cái"
           },
           {
-            "name": "VELA to",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "cái"
-          },
-          {
             "name": "Bimbim Lays",
             "qty": 4,
             "revenue": 40000,
@@ -617,6 +611,12 @@
             "name": "Bimbim Oishi",
             "qty": 2,
             "revenue": 16000,
+            "unit": "cái"
+          },
+          {
+            "name": "VELA to",
+            "qty": 1,
+            "revenue": 15000,
             "unit": "cái"
           }
         ]
