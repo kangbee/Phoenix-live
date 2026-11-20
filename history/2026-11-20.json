@@ -109,14 +109,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 17:37–17:39 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 2.257.250đ/38 HĐ/53 món — KHÔNG ĐỔI so với quét 17:30–17:32 (HĐ mới nhất 2400004005 lúc 17:28); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 5 đơn/182.500đ lúc 17:39 (Tại bàn) — TĂNG từ 0đ lúc 17:32, đơn mới xuất hiện; 4 đơn/21.500đ biến mất 17:15→17:17 và 5 đơn/110.500đ biến mất lúc 17:03 vẫn không thành HĐ mới (tab Đã hủy 0) — cờ vẫn mở, cần nhân viên kiểm tra; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 75.979.900đ/767 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 17:42–17:45 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 2.257.250đ/38 HĐ/53 món — KHÔNG ĐỔI so với quét 17:37–17:39 (HĐ mới nhất 2400004005 lúc 17:28); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 5 đơn/182.500đ lúc 17:45 (Tại bàn) — KHÔNG ĐỔI so với lúc 17:39; 4 đơn/21.500đ biến mất 17:15→17:17 và 5 đơn/110.500đ biến mất lúc 17:03 vẫn không thành HĐ mới (tab Đã hủy 0) — cờ vẫn mở, cần nhân viên kiểm tra; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 75.979.900đ/767 HĐ (đến hết 20/11)",
   "totals": {
     "invoices": 38,
     "items": 53,
     "revenue": 2257250
   },
   "unpaid": {
-    "checked_at": "17:39 ngày 20/11/2026",
+    "checked_at": "17:45 ngày 20/11/2026",
     "unfinished": {
       "count": 5,
       "total": 182500,
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "Cập nhật 17:39 ngày 20/11/2026",
+  "updated_label": "Cập nhật 17:45 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
