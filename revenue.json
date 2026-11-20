@@ -109,22 +109,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "QUÉT LIVE 15:50–15:52 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.541.000đ/29 HĐ/37 món — tăng 39.000đ/1 HĐ/1 món so với quét 15:36–15:38 (1.502.000đ/28 HĐ/36 món); HĐ mới nhất 2400003996 lúc 15:50 (Combo 39, 39.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ (lúc 15:37 còn 7 đơn/441.000đ — 7 bàn biến mất khỏi danh sách chưa hoàn tất mà chỉ 1 đơn thành HĐ mới, cần nhân viên kiểm tra ở màn hình POS); chờ xác nhận 0, ghi nợ 0.",
+ "source_note": "QUÉT LIVE 15:58–15:59 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.541.000đ/29 HĐ/37 món — KHÔNG ĐỔI so với quét 15:50–15:52 (1.541.000đ/29 HĐ/37 món); không có HĐ mới sau 2400003996 lúc 15:50; giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 7/441.000đ (Tại bàn) lúc 15:59 — HIỆN LẠI đúng 7 đơn/441.000đ như lúc 15:37 sau khi hiện 0 lúc 15:52, nên số 0 lúc 15:52 là widget tải chưa kịp (nhấp nháy), không phải bàn bị hủy, không cần hỏi nhân viên vụ này nữa; chờ xác nhận 0, ghi nợ 0.",
  "totals": {
   "revenue": 1541000,
   "invoices": 29,
   "items": 37
  },
  "unpaid": {
-  "checked_at": "15:52 ngày 20/11/2026",
+  "checked_at": "15:59 ngày 20/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 7,
+   "total": 441000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 7,
+     "total": 441000
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Cập nhật 15:52 ngày 20/11/2026",
+ "updated_label": "Cập nhật 15:59 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
