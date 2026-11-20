@@ -109,22 +109,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "QUÉT LIVE 14:57–15:02 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.502.000đ/28 HĐ/36 món — TĂNG +279.000đ/+3 HĐ/+7 món so với quét 14:49–14:52 (1.223.000đ/25 HĐ/29 món): HĐ mới 2400003993 lúc 14:55 (179.000đ, Combo 79 + Latte Socola ×2 + Saigon Dưa Lưới + Tiền Hải Ngọt), 2400003994 lúc 14:58 (50.000đ, Combo HS), 2400003995 lúc 14:59 (50.000đ, Combo HS); món mới Combo 79, Latte Socola, Saigon Dưa Lưới; giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 5 đơn/224.000đ (toàn Tại bàn) lúc 15:02 — GIẢM 2 đơn so với 7 đơn/327.750đ lúc 14:52 nhưng 3 HĐ mới đã chốt nên có thể 1 bàn mới mở trong lúc quét; tiền chưa hoàn tất nhảy +78.250đ trong 2 phút (145.750đ lúc 15:00 → 224.000đ lúc 15:02, cùng 5 đơn) — tiền giờ chạy/gọi thêm món, cần nhân viên kiểm tra ở POS nếu đối chiếu; chờ xác nhận 0, ghi nợ 0, đã hủy 0; tháng 11 lũy kế 75.224.650đ/757 HĐ (khớp getmonthsummary).",
+ "source_note": "QUÉT LIVE 15:07–15:09 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.502.000đ/28 HĐ/36 món — KHÔNG ĐỔI so với quét 14:57–15:02 (1.502.000đ/28 HĐ/36 món); không có HĐ mới sau 2400003995 lúc 14:59; giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 7 đơn/339.000đ (toàn Tại bàn) lúc 15:09 — TĂNG +2 đơn/+115.000đ so với 5 đơn/224.000đ lúc 15:02, không phát sinh HĐ mới — các bàn đang gọi thêm món; chờ xác nhận 0, ghi nợ 0, đã hủy 0; tháng 11 lũy kế 75.224.650đ/757 HĐ (khớp getmonthsummary).",
  "totals": {
   "revenue": 1502000,
   "invoices": 28,
   "items": 36
  },
  "unpaid": {
-  "checked_at": "15:02 ngày 20/11/2026",
+  "checked_at": "15:09 ngày 20/11/2026",
   "unfinished": {
-   "count": 5,
-   "total": 224000,
+   "count": 7,
+   "total": 339000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 5,
-     "total": 224000
+     "count": 7,
+     "total": 339000
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Cập nhật 15:02 ngày 20/11/2026",
+ "updated_label": "Cập nhật 15:09 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
