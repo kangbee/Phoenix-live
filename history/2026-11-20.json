@@ -109,22 +109,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 00:07–00:15 ngày 21/11/2026 — ngày vận hành 20/11: 3.705.750đ/54 HĐ/90 món — TĂNG +185.250đ/+4 HĐ/+5 món so với quét 23:51–23:56 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới 2400004018 lúc 00:04 121.250đ, 2400004019 lúc 00:04 10.000đ, 2400004020 lúc 00:04 10.000đ, 2400004021 lúc 00:13 44.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 2 đơn/80.000đ lúc 00:14–00:15 (toàn bộ Tại bàn; lúc 00:08–00:12 là 3 đơn/82.000đ, giảm 1 đơn/2.000đ trong lúc quét, không khớp 1:1 với HĐ 4021 44.000đ nên chưa kết luận được); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: 4 đơn/124.500đ biến mất 23:43→23:54 ngày 20/11 không thành HĐ (không xuất hiện lại, tab Đã hủy vẫn 0); ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ; tháng 11 lũy kế 77.428.400đ/783 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 00:07–00:15 ngày 21/11/2026 — ngày vận hành 20/11: 3.705.750đ/54 HĐ/90 món — TĂNG +185.250đ/+4 HĐ/+5 món so với quét 23:51–23:56 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới 2400004018 lúc 00:04 121.250đ, 2400004019 lúc 00:04 10.000đ, 2400004020 lúc 00:04 10.000đ, 2400004021 lúc 00:13 44.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 2 đơn/80.000đ lúc 00:14–00:15 (toàn bộ Tại bàn; lúc 00:08–00:12 là 3 đơn/82.000đ, giảm 1 đơn/2.000đ trong lúc quét, không khớp 1:1 với HĐ 4021 44.000đ nên chưa kết luận được); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: 4 đơn/124.500đ biến mất 23:43→23:54 ngày 20/11 không thành HĐ (không xuất hiện lại, tab Đã hủy vẫn 0); ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ; tháng 11 lũy kế 77.428.400đ/783 HĐ (đến hết 20/11) Quét live 00:25–00:31 ngày 21/11/2026: số live KHÔNG ĐỔI 3.705.750đ/54 HĐ/90 món (Ca 1 đã chốt 2.580.250đ/42/61; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới nhất vẫn 2400004021 lúc 00:13); đơn chưa hoàn tất TĂNG 2 đơn/80.000đ (00:15) lên 3 đơn/138.000đ lúc 00:29 (toàn bộ Tại bàn; không có HĐ mới sau 00:13 nên +58.000đ là bàn đang chơi gọi thêm); chờ xác nhận 0, ghi nợ 0, đã hủy 0.",
  "totals": {
   "invoices": 54,
   "items": 90,
   "revenue": 3705750
  },
  "unpaid": {
-  "checked_at": "00:15 ngày 21/11/2026",
+  "checked_at": "00:29 ngày 21/11/2026",
   "unfinished": {
-   "count": 2,
-   "total": 80000,
+   "count": 3,
+   "total": 138000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 2,
-     "total": 80000
+     "count": 3,
+     "total": 138000
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 00:15 ngày 21/11/2026",
+ "updated_label": "Quét live 00:29 ngày 21/11/2026",
  "views": {
   "ca1": [
    {
