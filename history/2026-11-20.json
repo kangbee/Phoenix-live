@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 12,
-  "items": 29,
-  "revenue": 1125500
+  "invoices": 14,
+  "items": 34,
+  "revenue": 1209500
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-20",
  "day_label": "Thứ sáu, 20/11/2026",
  "drinks": {
-  "qty": 24,
-  "revenue": 330000
+  "qty": 25,
+  "revenue": 346000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 77428400,
-  "invoices": 783,
+  "revenue": 77512400,
+  "invoices": 785,
   "note": "Tính đến hết ngày vận hành 20/11/2026",
   "daily": [
    {
@@ -103,28 +103,28 @@
    },
    {
     "date": "20/11",
-    "revenue": 3705750
+    "revenue": 3789750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 00:07–00:15 ngày 21/11/2026 — ngày vận hành 20/11: 3.705.750đ/54 HĐ/90 món — TĂNG +185.250đ/+4 HĐ/+5 món so với quét 23:51–23:56 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới 2400004018 lúc 00:04 121.250đ, 2400004019 lúc 00:04 10.000đ, 2400004020 lúc 00:04 10.000đ, 2400004021 lúc 00:13 44.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 2 đơn/80.000đ lúc 00:14–00:15 (toàn bộ Tại bàn; lúc 00:08–00:12 là 3 đơn/82.000đ, giảm 1 đơn/2.000đ trong lúc quét, không khớp 1:1 với HĐ 4021 44.000đ nên chưa kết luận được); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: 4 đơn/124.500đ biến mất 23:43→23:54 ngày 20/11 không thành HĐ (không xuất hiện lại, tab Đã hủy vẫn 0); ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ; tháng 11 lũy kế 77.428.400đ/783 HĐ (đến hết 20/11) Quét live 00:25–00:31 ngày 21/11/2026: số live KHÔNG ĐỔI 3.705.750đ/54 HĐ/90 món (Ca 1 đã chốt 2.580.250đ/42/61; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới nhất vẫn 2400004021 lúc 00:13); đơn chưa hoàn tất TĂNG 2 đơn/80.000đ (00:15) lên 3 đơn/138.000đ lúc 00:29 (toàn bộ Tại bàn; không có HĐ mới sau 00:13 nên +58.000đ là bàn đang chơi gọi thêm); chờ xác nhận 0, ghi nợ 0, đã hủy 0.",
+ "source_note": "Quét live 00:07–00:15 ngày 21/11/2026 — ngày vận hành 20/11: 3.705.750đ/54 HĐ/90 món — TĂNG +185.250đ/+4 HĐ/+5 món so với quét 23:51–23:56 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới 2400004018 lúc 00:04 121.250đ, 2400004019 lúc 00:04 10.000đ, 2400004020 lúc 00:04 10.000đ, 2400004021 lúc 00:13 44.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 2 đơn/80.000đ lúc 00:14–00:15 (toàn bộ Tại bàn; lúc 00:08–00:12 là 3 đơn/82.000đ, giảm 1 đơn/2.000đ trong lúc quét, không khớp 1:1 với HĐ 4021 44.000đ nên chưa kết luận được); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: 4 đơn/124.500đ biến mất 23:43→23:54 ngày 20/11 không thành HĐ (không xuất hiện lại, tab Đã hủy vẫn 0); ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ; tháng 11 lũy kế 77.428.400đ/783 HĐ (đến hết 20/11) Quét live 00:25–00:31 ngày 21/11/2026: số live KHÔNG ĐỔI 3.705.750đ/54 HĐ/90 món (Ca 1 đã chốt 2.580.250đ/42/61; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới nhất vẫn 2400004021 lúc 00:13); đơn chưa hoàn tất TĂNG 2 đơn/80.000đ (00:15) lên 3 đơn/138.000đ lúc 00:29 (toàn bộ Tại bàn; không có HĐ mới sau 00:13 nên +58.000đ là bàn đang chơi gọi thêm); chờ xác nhận 0, ghi nợ 0, đã hủy 0. Quét live 00:36–00:44 ngày 21/11/2026: tổng ngày 3.789.750đ/56 HĐ/95 món — TĂNG +84.000đ/+2 HĐ/+5 món so với quét 00:25–00:31 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.209.500đ/14 HĐ/34 món; HĐ mới 2400004022 lúc 00:31 16.000đ, 2400004023 lúc 00:40 68.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 3 đơn/82.000đ lúc 00:44 (toàn bộ Tại bàn; giảm 56.000đ so với 3 đơn/138.000đ lúc 00:29 trong khi HĐ 4023 chỉ 68.000đ — không khớp 1:1, có thể có bàn mới mở hoặc sửa tiền trong lúc quét); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 77.512.400đ/785 HĐ (đến hết 20/11).",
  "totals": {
-  "invoices": 54,
-  "items": 90,
-  "revenue": 3705750
+  "invoices": 56,
+  "items": 95,
+  "revenue": 3789750
  },
  "unpaid": {
-  "checked_at": "00:29 ngày 21/11/2026",
+  "checked_at": "00:44 ngày 21/11/2026",
   "unfinished": {
    "count": 3,
-   "total": 138000,
+   "total": 82000,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 3,
-     "total": 138000
+     "total": 82000
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 00:29 ngày 21/11/2026",
+ "updated_label": "Quét live 00:44 ngày 21/11/2026",
  "views": {
   "ca1": [
    {
@@ -321,8 +321,8 @@
    },
    {
     "name": "Giờ chơi",
-    "qty": 18,
-    "revenue": 966750,
+    "qty": 19,
+    "revenue": 1010750,
     "items": [
      {
       "name": "Giờ Vip",
@@ -332,8 +332,8 @@
      },
      {
       "name": "Giờ Thường",
-      "qty": 9,
-      "revenue": 294000,
+      "qty": 10,
+      "revenue": 338000,
       "unit": "lượt"
      }
     ]
@@ -365,21 +365,33 @@
    },
    {
     "name": "Đồ Ăn",
-    "qty": 1,
-    "revenue": 15000,
+    "qty": 4,
+    "revenue": 39000,
     "items": [
      {
       "name": "VELA ruốc",
       "qty": 1,
       "revenue": 15000,
       "unit": "cái"
+     },
+     {
+      "name": "Bimbim Oishi",
+      "qty": 2,
+      "revenue": 16000,
+      "unit": "cái"
+     },
+     {
+      "name": "VELA SANWICH",
+      "qty": 1,
+      "revenue": 8000,
+      "unit": "cái"
      }
     ]
    },
    {
     "name": "Đồ Uống",
-    "qty": 24,
-    "revenue": 330000,
+    "qty": 25,
+    "revenue": 346000,
     "items": [
      {
       "name": "Warriod Dâu",
@@ -445,6 +457,12 @@
       "name": "Latte Mãng Cầu",
       "qty": 1,
       "revenue": 15000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Boncha Yuzu",
+      "qty": 1,
+      "revenue": 16000,
       "unit": "chai/lon"
      }
     ]
