@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 21,
-  "items": 25,
-  "revenue": 1037000
+  "invoices": 22,
+  "items": 26,
+  "revenue": 1076000
  },
  "ca2": {
   "closed": false,
@@ -21,8 +21,8 @@
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 74759650,
-  "invoices": 750,
+  "revenue": 74798650,
+  "invoices": 751,
   "note": "Tính đến hết ngày vận hành 20/11/2026",
   "daily": [
    {
@@ -103,28 +103,28 @@
    },
    {
     "date": "20/11",
-    "revenue": 1037000
+    "revenue": 1076000
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "QUÉT LIVE 14:15–14:20 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.037.000đ/21 HĐ/25 món — KHÔNG ĐỔI so với quét 14:04–14:08 (HĐ mới nhất 2400003988 lúc 14:06, không có HĐ mới đến 14:19); đơn chưa hoàn tất KHÔNG ĐỔI 10 đơn/439.750đ lúc 14:18 (toàn bộ Tại bàn; tải lại + cuộn + đọc 2 lần đều khớp; lệch 6.000đ lần trước không tái diễn); chờ xác nhận 0, ghi nợ 0, đã hủy 0; tháng 11 lũy kế 74.759.650đ/750 HĐ (khớp getmonthsummary).",
+ "source_note": "QUÉT LIVE 14:26–14:31 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 1.076.000đ/22 HĐ/26 món — TĂNG +39.000đ/+1 HĐ/+1 món so với quét 14:15–14:20 (HĐ mới 2400003989 lúc 14:28, Combo 39 39.000đ, Bàn Chơi - 4, nviên mới); CỜ MỚI: đơn chưa hoàn tất RƠI từ 10 đơn/439.750đ (14:18) về 0 đơn/0đ lúc 14:31 (đọc kiểm chứng 3 lần đều 0) nhưng chỉ 1 đơn thành HĐ mới (3989, 39.000đ) — lệch 9 đơn/400.750đ không khớp HĐ mới, tab Đã hủy 0, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0; tháng 11 lũy kế 74.798.650đ/751 HĐ (khớp getmonthsummary).",
  "totals": {
-  "revenue": 1037000,
-  "invoices": 21,
-  "items": 25
+  "revenue": 1076000,
+  "invoices": 22,
+  "items": 26
  },
  "unpaid": {
-  "checked_at": "14:18 ngày 20/11/2026",
+  "checked_at": "14:31 ngày 20/11/2026",
   "unfinished": {
-   "count": 10,
-   "total": 439750,
+   "count": 0,
+   "total": 0,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 10,
-     "total": 439750
+     "count": 0,
+     "total": 0
     },
     {
      "channel": "Mang đi",
@@ -145,13 +145,13 @@
   },
   "orders": []
  },
- "updated_label": "Cập nhật 14:18 ngày 20/11/2026",
+ "updated_label": "Cập nhật 14:31 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
     "name": "Combo",
-    "qty": 15,
-    "revenue": 802000,
+    "qty": 16,
+    "revenue": 841000,
     "items": [
      {
       "name": "Combo HS",
@@ -161,8 +161,8 @@
      },
      {
       "name": "Combo 39",
-      "qty": 4,
-      "revenue": 222000,
+      "qty": 5,
+      "revenue": 261000,
       "unit": "lượt"
      }
     ]
@@ -235,8 +235,8 @@
   "ca_ngay": [
    {
     "name": "Combo",
-    "qty": 15,
-    "revenue": 802000,
+    "qty": 16,
+    "revenue": 841000,
     "items": [
      {
       "name": "Combo HS",
@@ -246,8 +246,8 @@
      },
      {
       "name": "Combo 39",
-      "qty": 4,
-      "revenue": 222000,
+      "qty": 5,
+      "revenue": 261000,
       "unit": "lượt"
      }
     ]
