@@ -109,14 +109,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 12:42–12:44 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 716.750đ/15 HĐ/17 món — KHÔNG ĐỔI so với quét 12:37–12:38 (716.750đ/15 HĐ/17 món), chưa có HĐ mới sau 2400003982 lúc 11:36; món: Combo HS 7 lượt 374.000đ + Combo 39 3 lượt 173.000đ + Giờ Vip 2 lượt 78.750đ + Giờ Thường 3 lượt 66.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; giảm giá 0đ; toàn bộ tiền mặt; đơn chưa hoàn tất 7 đơn/414.000đ lúc 12:44 (toàn bộ Tại bàn; tải lại + cuộn + đọc 2 lần đều khớp) — KHÔNG ĐỔI so với 12:38, 7 đơn vẫn còn, chưa đơn nào thành HĐ mới; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0 ngày 20/11 và 19/11; cờ 19/11 (2 đơn/210.000đ biến mất 01:23→01:36) vẫn không có dấu vết mới.",
+  "source_note": "QUÉT LIVE 12:48–12:51 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 716.750đ/15 HĐ/17 món — KHÔNG ĐỔI so với quét 12:42–12:44 (716.750đ/15 HĐ/17 món), chưa có HĐ mới sau 2400003982 lúc 11:36; món: Combo HS 7 lượt 374.000đ + Combo 39 3 lượt 173.000đ + Giờ Vip 2 lượt 78.750đ + Giờ Thường 3 lượt 66.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; giảm giá 0đ; toàn bộ tiền mặt; đơn chưa hoàn tất 7 đơn/414.000đ lúc 12:51 (toàn bộ Tại bàn; tải lại + cuộn + đọc 2 lần đều khớp) — KHÔNG ĐỔI so với 12:44, 7 đơn vẫn còn, chưa đơn nào thành HĐ mới; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ 19/11 (2 đơn/210.000đ biến mất 01:23→01:36) vẫn không có dấu vết mới.; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.439.400đ/744 HĐ (đến hết 20/11)",
   "totals": {
     "revenue": 716750,
     "invoices": 15,
     "items": 17
   },
   "unpaid": {
-    "checked_at": "12:44 ngày 20/11/2026",
+    "checked_at": "12:51 ngày 20/11/2026",
     "unfinished": {
       "count": 7,
       "total": 414000,
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "Cập nhật 12:44 ngày 20/11/2026",
+  "updated_label": "Cập nhật 12:51 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
