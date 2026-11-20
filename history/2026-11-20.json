@@ -109,22 +109,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 13:12–13:15 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 816.750đ/17 HĐ/19 món — TĂNG +50.000đ/+1 HĐ/+1 món so với quét 13:04–13:08 (766.750đ/16 HĐ/18 món): HĐ mới 2400003984 lúc 13:11 (Bàn Chơi - 4, Combo HS 50.000đ, tiền mặt, thu ngân nvien mới); món: Combo HS 9 lượt 474.000đ + Combo 39 3 lượt 173.000đ + Giờ Vip 2 lượt 78.750đ + Giờ Thường 3 lượt 66.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; giảm giá 0đ; toàn bộ tiền mặt; đơn chưa hoàn tất 9 đơn/466.250đ lúc 13:15 (toàn bộ Tại bàn) — GIẢM 1 đơn/50.000đ so với 10 đơn/516.250đ lúc 13:08, khớp đúng 1:1 với HĐ mới 3984 nên không bàn nào biến mất; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ 19/11 (2 đơn/210.000đ biến mất 01:23→01:36) vẫn không có dấu vết mới; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.539.400đ/746 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 13:19–13:23 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 816.750đ/17 HĐ/19 món — KHÔNG ĐỔI so với quét 13:12–13:15 (816.750đ/17 HĐ/19 món): không có HĐ mới từ 13:11 (HĐ mới nhất vẫn 2400003984 lúc 13:11); món: Combo HS 9 lượt 474.000đ + Combo 39 3 lượt 173.000đ + Giờ Vip 2 lượt 78.750đ + Giờ Thường 3 lượt 66.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; giảm giá 0đ; toàn bộ tiền mặt; đơn chưa hoàn tất 10 đơn/516.250đ lúc 13:22 (toàn bộ Tại bàn) — TĂNG 1 đơn/50.000đ so với 9 đơn/466.250đ lúc 13:15, trong khi không có HĐ mới nên là bàn mới mở chơi, không phải bàn biến mất (mức này bằng đúng mức lúc 13:08); chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ 19/11 (2 đơn/210.000đ biến mất 01:23→01:36) vẫn không có dấu vết mới; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.539.400đ/746 HĐ (đến hết 20/11)",
   "totals": {
     "revenue": 816750,
     "invoices": 17,
     "items": 19
   },
   "unpaid": {
-    "checked_at": "13:15 ngày 20/11/2026",
+    "checked_at": "13:22 ngày 20/11/2026",
     "unfinished": {
-      "count": 9,
-      "total": 466250,
+      "count": 10,
+      "total": 516250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 9,
-          "total": 466250
+          "count": 10,
+          "total": 516250
         },
         {
           "channel": "Mang đi",
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "Cập nhật 13:15 ngày 20/11/2026",
+  "updated_label": "Cập nhật 13:22 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
