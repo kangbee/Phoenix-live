@@ -109,22 +109,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 22:00–22:13 ngày 20/11/2026 — ngày vận hành 20/11: 3.007.500đ/46 HĐ/73 món — Ca 2 MỚI 427.250đ/4 HĐ/12 món (HĐ 2400004010–2400004013 lúc 22:01–22:09, thu ngân Hoàng Hà); HĐ mới nhất 2400004013 lúc 22:09; giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 3 đơn/236.250đ (Tại bàn) lúc 22:11 — GIẢM 3 đơn/267.000đ so với 6 đơn/503.250đ lúc 21:48 (4 đơn thành 4 HĐ Ca 2, +1 đơn mới); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 76.730.150đ/775 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 22:22–22:26 ngày 20/11/2026 — ngày vận hành 20/11: 3.007.500đ/46 HĐ/73 món — KHÔNG ĐỔI so với quét 22:00–22:13 (Ca 1 đã chốt 2.580.250đ/42/61; Ca 2 427.250đ/4 HĐ/12 món; HĐ mới nhất 2400004013 lúc 22:09); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 4 đơn/420.500đ (Tại bàn) lúc 22:26 — TĂNG 1 đơn/+184.250đ so với 3 đơn/236.250đ lúc 22:11 (đơn mới hoặc gọi thêm, không có đơn nào thành HĐ mới, không đơn nào biến mất); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 76.730.150đ/775 HĐ (đến hết 20/11)",
  "totals": {
   "invoices": 46,
   "items": 73,
   "revenue": 3007500
  },
  "unpaid": {
-  "checked_at": "22:11 ngày 20/11/2026",
+  "checked_at": "22:26 ngày 20/11/2026",
   "unfinished": {
-   "count": 3,
-   "total": 236250,
+   "count": 4,
+   "total": 420500,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 3,
-     "total": 236250
+     "count": 4,
+     "total": 420500
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 22:13 ngày 20/11/2026",
+ "updated_label": "Quét live 22:26 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
