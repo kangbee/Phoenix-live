@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 7,
-  "items": 21,
-  "revenue": 870250
+  "invoices": 8,
+  "items": 24,
+  "revenue": 940250
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-20",
  "day_label": "Thứ sáu, 20/11/2026",
  "drinks": {
-  "qty": 20,
-  "revenue": 276000
+  "qty": 22,
+  "revenue": 310000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 77173150,
-  "invoices": 778,
+  "revenue": 77243150,
+  "invoices": 779,
   "note": "Tính đến hết ngày vận hành 20/11/2026",
   "daily": [
    {
@@ -103,28 +103,28 @@
    },
    {
     "date": "20/11",
-    "revenue": 3450500
+    "revenue": 3520500
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 23:14–23:19 ngày 20/11/2026 — ngày vận hành 20/11: 3.450.500đ/49 HĐ/82 món — TĂNG +105.000đ/+1 HĐ/+3 món so với quét 22:59–23:05 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 870.250đ/7 HĐ/21 món; HĐ mới nhất 2400004016 lúc 23:10, 105.000đ, thu ngân Hoàng Hà, món: Combo HS ×1 60.000đ + Saigon Dưa Lưới ×1 30.000đ + Latte Mãng Cầu ×1 15.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ lúc 23:18 (đã tải lại + cuộn) — GIẢM 4 đơn/175.500đ so với lúc 23:04, trong khi chỉ có 1 HĐ mới 4016 (105.000đ): ~70.500đ (3 đơn) biến mất không thành HĐ, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 77.173.150đ/778 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 23:37–23:43 ngày 20/11/2026 — ngày vận hành 20/11: 3.520.500đ/50 HĐ/85 món — TĂNG +70.000đ/+1 HĐ/+3 món so với quét 23:14–23:19 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 940.250đ/8 HĐ/24 món; HĐ mới nhất 2400004017 lúc 23:40, 70.000đ, Bàn Chơi - 6, thu ngân Hoàng Hà, món: Giờ Thường ×1 36.000đ + Bò Húc ×2 34.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 4 đơn/124.500đ (Tại bàn) lúc 23:43 (đã tải lại + cuộn) — TĂNG từ 0 đơn/0đ lúc 23:18: bàn mới đang chơi; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 77.243.150đ/779 HĐ (đến hết 20/11)",
  "totals": {
-  "invoices": 49,
-  "items": 82,
-  "revenue": 3450500
+  "invoices": 50,
+  "items": 85,
+  "revenue": 3520500
  },
  "unpaid": {
-  "checked_at": "23:19 ngày 20/11/2026",
+  "checked_at": "23:43 ngày 20/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 4,
+   "total": 124500,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 4,
+     "total": 124500
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 23:19 ngày 20/11/2026",
+ "updated_label": "Quét live 23:43 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
@@ -321,8 +321,8 @@
    },
    {
     "name": "Giờ chơi",
-    "qty": 15,
-    "revenue": 785500,
+    "qty": 16,
+    "revenue": 821500,
     "items": [
      {
       "name": "Giờ Vip",
@@ -332,8 +332,8 @@
      },
      {
       "name": "Giờ Thường",
-      "qty": 7,
-      "revenue": 214000,
+      "qty": 8,
+      "revenue": 250000,
       "unit": "lượt"
      }
     ]
@@ -378,8 +378,8 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 20,
-    "revenue": 276000,
+    "qty": 22,
+    "revenue": 310000,
     "items": [
      {
       "name": "Warriod Dâu",
@@ -421,6 +421,12 @@
       "name": "Boncha Ô Long Đào",
       "qty": 1,
       "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Bò Húc",
+      "qty": 2,
+      "revenue": 34000,
       "unit": "chai/lon"
      },
      {
