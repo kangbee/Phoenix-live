@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 3,
-    "items": 4,
-    "revenue": 90000
+    "invoices": 4,
+    "items": 6,
+    "revenue": 170000
   },
   "ca2": {
     "closed": false,
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 73812650,
-    "invoices": 732,
+    "revenue": 73892650,
+    "invoices": 733,
     "note": "Tính đến hết ngày vận hành 20/11/2026",
     "daily": [
       {
@@ -103,28 +103,28 @@
       },
       {
         "date": "20/11",
-        "revenue": 90000
+        "revenue": 170000
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 10:19–10:21 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 90.000đ/3 HĐ/4 món (Combo HS 50.000đ + Giờ Thường 2 lượt 30.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003970 lúc 10:19, 60.000đ, Bàn Chơi - 6) — TĂNG +60.000đ/+1 HĐ/+2 món so với quét 10:10–10:14; đơn chưa hoàn tất 10 đơn/434.250đ lúc 10:20 (Tại bàn; giảm 1 đơn/60.000đ, khớp HĐ 3970 vừa thanh toán); chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 73.812.650đ/732 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 10:25–10:29 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 170.000đ/4 HĐ/6 món (Combo 39 65.000đ + Combo HS 50.000đ + Giờ Thường 2 lượt 30.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003971 lúc 10:27, 80.000đ, Bàn Chơi - 1) — TĂNG +80.000đ/+1 HĐ/+2 món so với quét 10:19–10:21 (90.000đ/3 HĐ/4 món); đơn chưa hoàn tất 9 đơn/380.250đ lúc 10:28 (Tại bàn) — giảm 1 đơn/54.000đ so với 10 đơn/434.250đ lúc 10:20; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 73.892.650đ/733 HĐ (đến hết 20/11)",
   "totals": {
-    "revenue": 90000,
-    "invoices": 3,
-    "items": 4
+    "revenue": 170000,
+    "invoices": 4,
+    "items": 6
   },
   "unpaid": {
-    "checked_at": "10:20 ngày 20/11/2026",
+    "checked_at": "10:29 ngày 20/11/2026",
     "unfinished": {
-      "count": 10,
-      "total": 434250,
+      "count": 9,
+      "total": 380250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 10,
-          "total": 434250
+          "count": 9,
+          "total": 380250
         },
         {
           "channel": "Mang đi",
@@ -145,14 +145,20 @@
     },
     "orders": []
   },
-  "updated_label": "10:20 ngày 20/11/2026",
+  "updated_label": "10:29 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
         "name": "Combo",
-        "qty": 1,
-        "revenue": 50000,
+        "qty": 2,
+        "revenue": 115000,
         "items": [
+          {
+            "name": "Combo 39",
+            "qty": 1,
+            "revenue": 65000,
+            "unit": "lượt"
+          },
           {
             "name": "Combo HS",
             "qty": 1,
@@ -171,6 +177,19 @@
             "qty": 2,
             "revenue": 30000,
             "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Ăn",
+        "qty": 1,
+        "revenue": 15000,
+        "items": [
+          {
+            "name": "VELA ruốc",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "cái"
           }
         ]
       },
@@ -192,9 +211,15 @@
     "ca_ngay": [
       {
         "name": "Combo",
-        "qty": 1,
-        "revenue": 50000,
+        "qty": 2,
+        "revenue": 115000,
         "items": [
+          {
+            "name": "Combo 39",
+            "qty": 1,
+            "revenue": 65000,
+            "unit": "lượt"
+          },
           {
             "name": "Combo HS",
             "qty": 1,
@@ -213,6 +238,19 @@
             "qty": 2,
             "revenue": 30000,
             "unit": "lượt"
+          }
+        ]
+      },
+      {
+        "name": "Đồ Ăn",
+        "qty": 1,
+        "revenue": 15000,
+        "items": [
+          {
+            "name": "VELA ruốc",
+            "qty": 1,
+            "revenue": 15000,
+            "unit": "cái"
           }
         ]
       },
