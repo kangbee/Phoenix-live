@@ -109,22 +109,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 23:37–23:43 ngày 20/11/2026 — ngày vận hành 20/11: 3.520.500đ/50 HĐ/85 món — TĂNG +70.000đ/+1 HĐ/+3 món so với quét 23:14–23:19 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 940.250đ/8 HĐ/24 món; HĐ mới nhất 2400004017 lúc 23:40, 70.000đ, Bàn Chơi - 6, thu ngân Hoàng Hà, món: Giờ Thường ×1 36.000đ + Bò Húc ×2 34.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 4 đơn/124.500đ (Tại bàn) lúc 23:43 (đã tải lại + cuộn) — TĂNG từ 0 đơn/0đ lúc 23:18: bàn mới đang chơi; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 77.243.150đ/779 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 23:51–23:56 ngày 20/11/2026 — ngày vận hành 20/11: 3.520.500đ/50 HĐ/85 món — KHÔNG ĐỔI so với quét 23:37–23:43 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 940.250đ/8 HĐ/24 món; HĐ mới nhất 2400004017 lúc 23:40, 70.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ lúc 23:54–23:55 (đã tải lại + cuộn, kiểm tra cả 2 bộ lọc) — GIẢM 4 đơn/124.500đ so với 4 đơn/124.500đ lúc 23:43 mà không có HĐ mới nào sau 23:40: 4 đơn/124.500đ biến mất không thành HĐ — CỜ MỚI, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ (HĐ 4017 lúc 23:40 chỉ 70.000đ, lệch 500đ, chưa khẳng định được là 3 đơn đó); tháng 11 lũy kế 77.243.150đ/779 HĐ (đến hết 20/11)",
  "totals": {
   "invoices": 50,
   "items": 85,
   "revenue": 3520500
  },
  "unpaid": {
-  "checked_at": "23:43 ngày 20/11/2026",
+  "checked_at": "23:55 ngày 20/11/2026",
   "unfinished": {
-   "count": 4,
-   "total": 124500,
+   "count": 0,
+   "total": 0,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 4,
-     "total": 124500
+     "count": 0,
+     "total": 0
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 23:43 ngày 20/11/2026",
+ "updated_label": "Quét live 23:55 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
