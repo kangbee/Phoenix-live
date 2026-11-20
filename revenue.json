@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 8,
-  "items": 24,
-  "revenue": 940250
+  "invoices": 12,
+  "items": 29,
+  "revenue": 1125500
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-20",
  "day_label": "Thứ sáu, 20/11/2026",
  "drinks": {
-  "qty": 22,
-  "revenue": 310000
+  "qty": 24,
+  "revenue": 330000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 77243150,
-  "invoices": 779,
+  "revenue": 77428400,
+  "invoices": 783,
   "note": "Tính đến hết ngày vận hành 20/11/2026",
   "daily": [
    {
@@ -103,28 +103,28 @@
    },
    {
     "date": "20/11",
-    "revenue": 3520500
+    "revenue": 3705750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 23:51–23:56 ngày 20/11/2026 — ngày vận hành 20/11: 3.520.500đ/50 HĐ/85 món — KHÔNG ĐỔI so với quét 23:37–23:43 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 940.250đ/8 HĐ/24 món; HĐ mới nhất 2400004017 lúc 23:40, 70.000đ); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ lúc 23:54–23:55 (đã tải lại + cuộn, kiểm tra cả 2 bộ lọc) — GIẢM 4 đơn/124.500đ so với 4 đơn/124.500đ lúc 23:43 mà không có HĐ mới nào sau 23:40: 4 đơn/124.500đ biến mất không thành HĐ — CỜ MỚI, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ (HĐ 4017 lúc 23:40 chỉ 70.000đ, lệch 500đ, chưa khẳng định được là 3 đơn đó); tháng 11 lũy kế 77.243.150đ/779 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 00:07–00:15 ngày 21/11/2026 — ngày vận hành 20/11: 3.705.750đ/54 HĐ/90 món — TĂNG +185.250đ/+4 HĐ/+5 món so với quét 23:51–23:56 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 1.125.500đ/12 HĐ/29 món; HĐ mới 2400004018 lúc 00:04 121.250đ, 2400004019 lúc 00:04 10.000đ, 2400004020 lúc 00:04 10.000đ, 2400004021 lúc 00:13 44.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 2 đơn/80.000đ lúc 00:14–00:15 (toàn bộ Tại bàn; lúc 00:08–00:12 là 3 đơn/82.000đ, giảm 1 đơn/2.000đ trong lúc quét, không khớp 1:1 với HĐ 4021 44.000đ nên chưa kết luận được); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ cũ vẫn mở: 4 đơn/124.500đ biến mất 23:43→23:54 ngày 20/11 không thành HĐ (không xuất hiện lại, tab Đã hủy vẫn 0); ~70.500đ (3 đơn chưa hoàn tất) biến mất 23:04→23:18 không thành HĐ; tháng 11 lũy kế 77.428.400đ/783 HĐ (đến hết 20/11)",
  "totals": {
-  "invoices": 50,
-  "items": 85,
-  "revenue": 3520500
+  "invoices": 54,
+  "items": 90,
+  "revenue": 3705750
  },
  "unpaid": {
-  "checked_at": "23:55 ngày 20/11/2026",
+  "checked_at": "00:15 ngày 21/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 2,
+   "total": 80000,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 2,
+     "total": 80000
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 23:55 ngày 20/11/2026",
+ "updated_label": "Quét live 00:15 ngày 21/11/2026",
  "views": {
   "ca1": [
    {
@@ -321,27 +321,27 @@
    },
    {
     "name": "Giờ chơi",
-    "qty": 16,
-    "revenue": 821500,
+    "qty": 18,
+    "revenue": 966750,
     "items": [
      {
       "name": "Giờ Vip",
-      "qty": 8,
-      "revenue": 571500,
+      "qty": 9,
+      "revenue": 672750,
       "unit": "lượt"
      },
      {
       "name": "Giờ Thường",
-      "qty": 8,
-      "revenue": 250000,
+      "qty": 9,
+      "revenue": 294000,
       "unit": "lượt"
      }
     ]
    },
    {
     "name": "Thuốc Lá",
-    "qty": 8,
-    "revenue": 205000,
+    "qty": 9,
+    "revenue": 225000,
     "items": [
      {
       "name": "Saigon Dưa Lưới",
@@ -351,8 +351,8 @@
      },
      {
       "name": "Thăng Long",
-      "qty": 3,
-      "revenue": 60000,
+      "qty": 4,
+      "revenue": 80000,
       "unit": "bao"
      },
      {
@@ -378,8 +378,8 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 22,
-    "revenue": 310000,
+    "qty": 24,
+    "revenue": 330000,
     "items": [
      {
       "name": "Warriod Dâu",
@@ -413,8 +413,8 @@
      },
      {
       "name": "Tiền Hải Ngọt",
-      "qty": 2,
-      "revenue": 20000,
+      "qty": 4,
+      "revenue": 40000,
       "unit": "chai/lon"
      },
      {
