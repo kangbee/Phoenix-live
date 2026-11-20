@@ -109,22 +109,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 13:27–13:30 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 886.750đ/18 HĐ/21 món — TĂNG +70.000đ/+1 HĐ/+2 món so với quét 13:19–13:23 (816.750đ/17 HĐ/19 món); HĐ mới 2400003985 lúc 13:26 (Bàn Chơi-7, Combo HS ×1 + Thăng Long ×1, 70.000đ, thu ngân nviên mới); món: Combo HS 10 lượt 524.000đ + Combo 39 3 lượt 173.000đ + Giờ Vip 2 lượt 78.750đ + Giờ Thường 3 lượt 66.000đ + Thăng Long 1 bao 20.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; giảm giá 0đ; toàn bộ tiền mặt; đơn chưa hoàn tất 9 đơn/446.250đ lúc 13:29 (toàn bộ Tại bàn) — GIẢM 1 đơn/70.000đ so với 10 đơn/516.250đ lúc 13:22, khớp đúng HĐ 2400003985 vừa thanh toán, không có biến mất khó giải thích; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0 ngày 20/11; cờ 19/11 (2 đơn/210.000đ biến mất 01:23→01:36) vẫn không có dấu vết mới; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.609.400đ/747 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 13:34–13:40 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 886.750đ/18 HĐ/21 món — KHÔNG ĐỔI so với quét 13:27–13:30; HĐ mới nhất 2400003985 lúc 13:26; đơn chưa hoàn tất TĂNG +1 đơn/+39.000đ lên 10 đơn/485.250đ lúc 13:40 (toàn bộ Tại bàn, đọc 2 lần 13:35 và 13:39–13:40 đều khớp; không có HĐ mới kèm theo — cần nhân viên kiểm tra ở màn hình POS xem là bàn mới mở hay bàn đang mở gọi thêm món); chờ xác nhận 0, ghi nợ 0, đã hủy 0; tháng 11 lũy kế 74.609.400đ/747 HĐ (khớp getmonthsummary).",
   "totals": {
     "revenue": 886750,
     "invoices": 18,
     "items": 21
   },
   "unpaid": {
-    "checked_at": "13:29 ngày 20/11/2026",
+    "checked_at": "13:40 ngày 20/11/2026",
     "unfinished": {
-      "count": 9,
-      "total": 446250,
+      "count": 10,
+      "total": 485250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 9,
-          "total": 446250
+          "count": 10,
+          "total": 485250
         },
         {
           "channel": "Mang đi",
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "Cập nhật 13:29 ngày 20/11/2026",
+  "updated_label": "Cập nhật 13:40 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
