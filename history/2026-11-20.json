@@ -109,22 +109,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 10:34–10:39 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 220.000đ/5 HĐ/7 món (Combo HS 2 lượt 100.000đ + Combo 39 65.000đ + Giờ Thường 2 lượt 30.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003972 lúc 10:38, 50.000đ, Bàn Chơi - 10, Combo HS) — TĂNG +50.000đ/+1 HĐ/+1 món so với quét 10:25–10:29 (170.000đ/4 HĐ/6 món); đơn chưa hoàn tất 8 đơn/330.250đ lúc 10:39 (Tại bàn) — giảm 1 đơn/50.000đ so với 9 đơn/380.250đ lúc 10:29, khớp đúng HĐ 3972 vừa thanh toán; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 73.942.650đ/734 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 10:41–10:45 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 220.000đ/5 HĐ/7 món (Combo HS 2 lượt 100.000đ + Combo 39 65.000đ + Giờ Thường 2 lượt 30.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003972 lúc 10:38, 50.000đ, Bàn Chơi - 10, Combo HS) — KHÔNG ĐỔI so với quét 10:34–10:39 (220.000đ/5 HĐ/7 món); đơn chưa hoàn tất 10 đơn/334.500đ lúc 10:44 (Tại bàn) — tăng +2 đơn/+4.250đ so với 8 đơn/330.250đ lúc 10:39, không có HĐ mới sau 3972; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 73.942.650đ/734 HĐ (đến hết 20/11)",
   "totals": {
     "revenue": 220000,
     "invoices": 5,
     "items": 7
   },
   "unpaid": {
-    "checked_at": "10:39 ngày 20/11/2026",
+    "checked_at": "10:44 ngày 20/11/2026",
     "unfinished": {
-      "count": 8,
-      "total": 330250,
+      "count": 10,
+      "total": 334500,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 8,
-          "total": 330250
+          "count": 10,
+          "total": 334500
         },
         {
           "channel": "Mang đi",
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "10:39 ngày 20/11/2026",
+  "updated_label": "10:44 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
