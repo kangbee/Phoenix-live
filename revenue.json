@@ -109,14 +109,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "QUÉT LIVE 10:51–11:00 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 324.500đ/7 HĐ/9 món (Combo HS 3 lượt 164.000đ + Combo 39 65.000đ + Giờ Vip 40.500đ + Giờ Thường 2 lượt 30.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003974 lúc 10:57, 40.500đ, Bàn Chơi - 11, Giờ Vip) — TĂNG +104.500đ/+2 HĐ/+2 món so với quét 10:44 (220.000đ/5 HĐ/7 món); HĐ mới 2400003973 lúc 10:49 (64.000đ) và 2400003974 lúc 10:57 (40.500đ); đơn chưa hoàn tất 8 đơn/282.250đ lúc 10:58 (Tại bàn) — giảm từ 9 đơn/284.500đ lúc 10:55 sau khi HĐ 3974 thanh toán (mức giảm 2.250đ nhỏ hơn tiền HĐ 40.500đ, các bàn đang mở vẫn cộng thêm tiền giờ chơi); chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.047.150đ/736 HĐ (đến hết 20/11)",
+  "source_note": "QUÉT LIVE 11:05–11:08 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 324.500đ/7 HĐ/9 món — KHÔNG ĐỔI so với quét 10:51–11:00 (Combo HS 3 lượt 164.000đ + Combo 39 65.000đ + Giờ Vip 40.500đ + Giờ Thường 2 lượt 30.000đ + VELA ruốc 15.000đ + Tiền Hải Ngọt 10.000đ; HĐ mới nhất 2400003974 lúc 10:57, 40.500đ, Bàn Chơi - 11, Giờ Vip; không có HĐ mới); đơn chưa hoàn tất 8 đơn/282.250đ lúc 11:07 (Tại bàn) — không đổi so với 10:58; chờ xác nhận thanh toán 0, ghi nợ 0, đã hủy 0; ngày 19/11 đã CHỐT 5.146.500đ/59 HĐ/149 món; tháng 11 lũy kế 74.047.150đ/736 HĐ (đến hết 20/11)",
   "totals": {
     "revenue": 324500,
     "invoices": 7,
     "items": 9
   },
   "unpaid": {
-    "checked_at": "10:58 ngày 20/11/2026",
+    "checked_at": "11:07 ngày 20/11/2026",
     "unfinished": {
       "count": 8,
       "total": 282250,
@@ -145,7 +145,7 @@
     },
     "orders": []
   },
-  "updated_label": "10:58 ngày 20/11/2026",
+  "updated_label": "11:07 ngày 20/11/2026",
   "views": {
     "ca1": [
       {
