@@ -1,417 +1,417 @@
 {
-  "ca1": {
-    "closed": false,
-    "invoices": 41,
-    "items": 57,
+ "ca1": {
+  "closed": false,
+  "invoices": 41,
+  "items": 57,
+  "revenue": 2458250
+ },
+ "ca2": {
+  "closed": false,
+  "invoices": 0,
+  "items": 0,
+  "revenue": 0
+ },
+ "costs": {},
+ "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
+ "day": "2026-11-20",
+ "day_label": "Thứ sáu, 20/11/2026",
+ "drinks": {
+  "qty": 12,
+  "revenue": 165000
+ },
+ "month": {
+  "label": "Tháng 11/2026 lũy kế",
+  "revenue": 76180900,
+  "invoices": 770,
+  "note": "Tính đến hết ngày vận hành 20/11/2026",
+  "daily": [
+   {
+    "date": "01/11",
+    "revenue": 4289750
+   },
+   {
+    "date": "02/11",
+    "revenue": 1515750
+   },
+   {
+    "date": "03/11",
+    "revenue": 2110250
+   },
+   {
+    "date": "04/11",
+    "revenue": 2961250
+   },
+   {
+    "date": "05/11",
+    "revenue": 3606250
+   },
+   {
+    "date": "06/11",
+    "revenue": 5375000
+   },
+   {
+    "date": "07/11",
+    "revenue": 9631900
+   },
+   {
+    "date": "08/11",
+    "revenue": 5323250
+   },
+   {
+    "date": "09/11",
+    "revenue": 2573000
+   },
+   {
+    "date": "10/11",
+    "revenue": 1958750
+   },
+   {
+    "date": "11/11",
+    "revenue": 2405250
+   },
+   {
+    "date": "12/11",
+    "revenue": 2563000
+   },
+   {
+    "date": "13/11",
+    "revenue": 2391500
+   },
+   {
+    "date": "14/11",
+    "revenue": 6954500
+   },
+   {
+    "date": "15/11",
+    "revenue": 6071250
+   },
+   {
+    "date": "16/11",
+    "revenue": 4339750
+   },
+   {
+    "date": "17/11",
+    "revenue": 2691000
+   },
+   {
+    "date": "18/11",
+    "revenue": 1814750
+   },
+   {
+    "date": "19/11",
+    "revenue": 5146500
+   },
+   {
+    "date": "20/11",
     "revenue": 2458250
+   }
+  ]
+ },
+ "provisional": false,
+ "schema": 1,
+ "source_note": "QUÉT LIVE 17:49–17:52 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 2.458.250đ/41 HĐ/57 món — TĂNG 201.000đ/+3 HĐ/+4 món so với quét 17:42–17:45 (HĐ mới 2400004006 lúc 17:48, 2400004007 lúc 17:48, 2400004008 lúc 17:49); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ lúc 17:52 — GIẢM từ 5 đơn/182.500đ lúc 17:45, chỉ có 3 HĐ mới 201.000đ (tiền giờ bàn tăng thêm từ 17:45 đến lúc chốt 17:48–17:49), 2 đơn chưa có lời giải, tab Đã hủy 0 — cờ mới, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 76.180.900đ/770 HĐ (đến hết 20/11); Quét live 17:56–17:58: số live KHÔNG ĐỔI (2.458.250đ/41 HĐ/57 món, HĐ mới nhất vẫn 2400004008 lúc 17:49); đơn chưa hoàn tất 2 đơn/161.000đ (Tại bàn) lúc 17:58 — TĂNG từ 0đ lúc 17:52, không có HĐ mới, số bàn chưa hoàn tất nhấp nháy lên xuống — theo dõi lần quét sau; chờ xác nhận 0, ghi nợ 0; Quét live 18:10–18:11: số live KHÔNG ĐỔI (2.458.250đ/41 HĐ/57 món, HĐ mới nhất vẫn 2400004008 lúc 17:49); đơn chưa hoàn tất 0 đơn/0đ — GIẢM từ 2 đơn/161.000đ lúc 18:07, KHÔNG thành HĐ mới — cờ mới, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0; Quét live 18:15–18:17: số live KHÔNG ĐỔI (2.458.250đ/41 HĐ/57 món, HĐ mới nhất vẫn 2400004008 lúc 17:49); đơn chưa hoàn tất 2 đơn/161.000đ — TĂNG từ 0đ lúc 18:11, 2 đơn 'biến mất' đã xuất hiện lại đúng tổng cũ, không thành HĐ mới (số 0 lúc 18:11 là lỗi tải widget lần đầu — cờ đã có lời giải); chờ xác nhận 0, ghi nợ 0",
+ "totals": {
+  "invoices": 41,
+  "items": 57,
+  "revenue": 2458250
+ },
+ "unpaid": {
+  "checked_at": "18:17 ngày 20/11/2026",
+  "unfinished": {
+   "count": 2,
+   "total": 161000,
+   "channels": [
+    {
+     "channel": "Tại bàn",
+     "count": 2,
+     "total": 161000
+    },
+    {
+     "channel": "Mang đi",
+     "count": 0,
+     "total": 0
+    },
+    {
+     "channel": "Giao hàng",
+     "count": 0,
+     "total": 0
+    },
+    {
+     "channel": "Đối tác tích hợp",
+     "count": 0,
+     "total": 0
+    }
+   ]
   },
-  "ca2": {
-    "closed": false,
-    "invoices": 0,
-    "items": 0,
-    "revenue": 0
-  },
-  "costs": {},
-  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
-  "day": "2026-11-20",
-  "day_label": "Thứ sáu, 20/11/2026",
-  "drinks": {
+  "orders": []
+ },
+ "updated_label": "Cập nhật 18:17 ngày 20/11/2026",
+ "views": {
+  "ca1": [
+   {
+    "items": [
+     {
+      "name": "Combo HS",
+      "qty": 18,
+      "revenue": 1014000,
+      "unit": "lượt"
+     },
+     {
+      "name": "Combo 39",
+      "qty": 10,
+      "revenue": 484000,
+      "unit": "lượt"
+     },
+     {
+      "name": "Combo 79",
+      "qty": 1,
+      "revenue": 107000,
+      "unit": "lượt"
+     }
+    ],
+    "name": "Combo",
+    "qty": 29,
+    "revenue": 1605000
+   },
+   {
+    "items": [
+     {
+      "name": "Giờ Vip",
+      "qty": 7,
+      "revenue": 461250,
+      "unit": "lượt"
+     },
+     {
+      "name": "Giờ Thường",
+      "qty": 5,
+      "revenue": 142000,
+      "unit": "lượt"
+     }
+    ],
+    "name": "Giờ chơi",
+    "qty": 12,
+    "revenue": 603250
+   },
+   {
+    "items": [
+     {
+      "name": "Thăng Long",
+      "qty": 2,
+      "revenue": 40000,
+      "unit": "bao"
+     },
+     {
+      "name": "Saigon Dưa Lưới",
+      "qty": 1,
+      "revenue": 30000,
+      "unit": "bao"
+     }
+    ],
+    "name": "Thuốc Lá",
+    "qty": 3,
+    "revenue": 70000
+   },
+   {
+    "items": [
+     {
+      "name": "VELA ruốc",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "cái"
+     }
+    ],
+    "name": "Đồ Ăn",
+    "qty": 1,
+    "revenue": 15000
+   },
+   {
+    "items": [
+     {
+      "name": "Latte Socola",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Tiền Hải Ngọt",
+      "qty": 2,
+      "revenue": 20000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Number One",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Trà Vải Joco",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Nước Lọc",
+      "qty": 2,
+      "revenue": 20000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Boncha Ô Long Đào",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Warriod Dâu",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "ICE Trà Đào",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     }
+    ],
+    "name": "Đồ Uống",
     "qty": 12,
     "revenue": 165000
-  },
-  "month": {
-    "label": "Tháng 11/2026 lũy kế",
-    "revenue": 76180900,
-    "invoices": 770,
-    "note": "Tính đến hết ngày vận hành 20/11/2026",
-    "daily": [
-      {
-        "date": "01/11",
-        "revenue": 4289750
-      },
-      {
-        "date": "02/11",
-        "revenue": 1515750
-      },
-      {
-        "date": "03/11",
-        "revenue": 2110250
-      },
-      {
-        "date": "04/11",
-        "revenue": 2961250
-      },
-      {
-        "date": "05/11",
-        "revenue": 3606250
-      },
-      {
-        "date": "06/11",
-        "revenue": 5375000
-      },
-      {
-        "date": "07/11",
-        "revenue": 9631900
-      },
-      {
-        "date": "08/11",
-        "revenue": 5323250
-      },
-      {
-        "date": "09/11",
-        "revenue": 2573000
-      },
-      {
-        "date": "10/11",
-        "revenue": 1958750
-      },
-      {
-        "date": "11/11",
-        "revenue": 2405250
-      },
-      {
-        "date": "12/11",
-        "revenue": 2563000
-      },
-      {
-        "date": "13/11",
-        "revenue": 2391500
-      },
-      {
-        "date": "14/11",
-        "revenue": 6954500
-      },
-      {
-        "date": "15/11",
-        "revenue": 6071250
-      },
-      {
-        "date": "16/11",
-        "revenue": 4339750
-      },
-      {
-        "date": "17/11",
-        "revenue": 2691000
-      },
-      {
-        "date": "18/11",
-        "revenue": 1814750
-      },
-      {
-        "date": "19/11",
-        "revenue": 5146500
-      },
-      {
-        "date": "20/11",
-        "revenue": 2458250
-      }
-    ]
-  },
-  "provisional": false,
-  "schema": 1,
-  "source_note": "QUÉT LIVE 17:49–17:52 ngày 20/11/2026 — ngày vận hành 20/11 (Ca 1): 2.458.250đ/41 HĐ/57 món — TĂNG 201.000đ/+3 HĐ/+4 món so với quét 17:42–17:45 (HĐ mới 2400004006 lúc 17:48, 2400004007 lúc 17:48, 2400004008 lúc 17:49); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 0 đơn/0đ lúc 17:52 — GIẢM từ 5 đơn/182.500đ lúc 17:45, chỉ có 3 HĐ mới 201.000đ (tiền giờ bàn tăng thêm từ 17:45 đến lúc chốt 17:48–17:49), 2 đơn chưa có lời giải, tab Đã hủy 0 — cờ mới, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 76.180.900đ/770 HĐ (đến hết 20/11); Quét live 17:56–17:58: số live KHÔNG ĐỔI (2.458.250đ/41 HĐ/57 món, HĐ mới nhất vẫn 2400004008 lúc 17:49); đơn chưa hoàn tất 2 đơn/161.000đ (Tại bàn) lúc 17:58 — TĂNG từ 0đ lúc 17:52, không có HĐ mới, số bàn chưa hoàn tất nhấp nháy lên xuống — theo dõi lần quét sau; chờ xác nhận 0, ghi nợ 0; Quét live 18:10–18:11: số live KHÔNG ĐỔI (2.458.250đ/41 HĐ/57 món, HĐ mới nhất vẫn 2400004008 lúc 17:49); đơn chưa hoàn tất 0 đơn/0đ — GIẢM từ 2 đơn/161.000đ lúc 18:07, KHÔNG thành HĐ mới — cờ mới, cần nhân viên kiểm tra ở màn hình POS; chờ xác nhận 0, ghi nợ 0",
-  "totals": {
-    "invoices": 41,
-    "items": 57,
-    "revenue": 2458250
-  },
-  "unpaid": {
-    "checked_at": "18:11 ngày 20/11/2026",
-    "unfinished": {
-      "count": 0,
-      "total": 0,
-      "channels": [
-        {
-          "channel": "Tại bàn",
-          "count": 0,
-          "total": 0
-        },
-        {
-          "channel": "Mang đi",
-          "count": 0,
-          "total": 0
-        },
-        {
-          "channel": "Giao hàng",
-          "count": 0,
-          "total": 0
-        },
-        {
-          "channel": "Đối tác tích hợp",
-          "count": 0,
-          "total": 0
-        }
-      ]
-    },
-    "orders": []
-  },
-  "updated_label": "Cập nhật 18:11 ngày 20/11/2026",
-  "views": {
-    "ca1": [
-      {
-        "items": [
-          {
-            "name": "Combo HS",
-            "qty": 18,
-            "revenue": 1014000,
-            "unit": "lượt"
-          },
-          {
-            "name": "Combo 39",
-            "qty": 10,
-            "revenue": 484000,
-            "unit": "lượt"
-          },
-          {
-            "name": "Combo 79",
-            "qty": 1,
-            "revenue": 107000,
-            "unit": "lượt"
-          }
-        ],
-        "name": "Combo",
-        "qty": 29,
-        "revenue": 1605000
-      },
-      {
-        "items": [
-          {
-            "name": "Giờ Vip",
-            "qty": 7,
-            "revenue": 461250,
-            "unit": "lượt"
-          },
-          {
-            "name": "Giờ Thường",
-            "qty": 5,
-            "revenue": 142000,
-            "unit": "lượt"
-          }
-        ],
-        "name": "Giờ chơi",
-        "qty": 12,
-        "revenue": 603250
-      },
-      {
-        "items": [
-          {
-            "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
-            "unit": "bao"
-          },
-          {
-            "name": "Saigon Dưa Lưới",
-            "qty": 1,
-            "revenue": 30000,
-            "unit": "bao"
-          }
-        ],
-        "name": "Thuốc Lá",
-        "qty": 3,
-        "revenue": 70000
-      },
-      {
-        "items": [
-          {
-            "name": "VELA ruốc",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "cái"
-          }
-        ],
-        "name": "Đồ Ăn",
-        "qty": 1,
-        "revenue": 15000
-      },
-      {
-        "items": [
-          {
-            "name": "Latte Socola",
-            "qty": 2,
-            "revenue": 32000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Tiền Hải Ngọt",
-            "qty": 2,
-            "revenue": 20000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Number One",
-            "qty": 2,
-            "revenue": 32000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Trà Vải Joco",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Nước Lọc",
-            "qty": 2,
-            "revenue": 20000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Boncha Ô Long Đào",
-            "qty": 1,
-            "revenue": 16000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Warriod Dâu",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "ICE Trà Đào",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          }
-        ],
-        "name": "Đồ Uống",
-        "qty": 12,
-        "revenue": 165000
-      }
+   }
+  ],
+  "ca_ngay": [
+   {
+    "items": [
+     {
+      "name": "Combo HS",
+      "qty": 18,
+      "revenue": 1014000,
+      "unit": "lượt"
+     },
+     {
+      "name": "Combo 39",
+      "qty": 10,
+      "revenue": 484000,
+      "unit": "lượt"
+     },
+     {
+      "name": "Combo 79",
+      "qty": 1,
+      "revenue": 107000,
+      "unit": "lượt"
+     }
     ],
-    "ca_ngay": [
-      {
-        "items": [
-          {
-            "name": "Combo HS",
-            "qty": 18,
-            "revenue": 1014000,
-            "unit": "lượt"
-          },
-          {
-            "name": "Combo 39",
-            "qty": 10,
-            "revenue": 484000,
-            "unit": "lượt"
-          },
-          {
-            "name": "Combo 79",
-            "qty": 1,
-            "revenue": 107000,
-            "unit": "lượt"
-          }
-        ],
-        "name": "Combo",
-        "qty": 29,
-        "revenue": 1605000
-      },
-      {
-        "items": [
-          {
-            "name": "Giờ Vip",
-            "qty": 7,
-            "revenue": 461250,
-            "unit": "lượt"
-          },
-          {
-            "name": "Giờ Thường",
-            "qty": 5,
-            "revenue": 142000,
-            "unit": "lượt"
-          }
-        ],
-        "name": "Giờ chơi",
-        "qty": 12,
-        "revenue": 603250
-      },
-      {
-        "items": [
-          {
-            "name": "Thăng Long",
-            "qty": 2,
-            "revenue": 40000,
-            "unit": "bao"
-          },
-          {
-            "name": "Saigon Dưa Lưới",
-            "qty": 1,
-            "revenue": 30000,
-            "unit": "bao"
-          }
-        ],
-        "name": "Thuốc Lá",
-        "qty": 3,
-        "revenue": 70000
-      },
-      {
-        "items": [
-          {
-            "name": "VELA ruốc",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "cái"
-          }
-        ],
-        "name": "Đồ Ăn",
-        "qty": 1,
-        "revenue": 15000
-      },
-      {
-        "items": [
-          {
-            "name": "Latte Socola",
-            "qty": 2,
-            "revenue": 32000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Tiền Hải Ngọt",
-            "qty": 2,
-            "revenue": 20000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Number One",
-            "qty": 2,
-            "revenue": 32000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Trà Vải Joco",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Nước Lọc",
-            "qty": 2,
-            "revenue": 20000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Boncha Ô Long Đào",
-            "qty": 1,
-            "revenue": 16000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "Warriod Dâu",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          },
-          {
-            "name": "ICE Trà Đào",
-            "qty": 1,
-            "revenue": 15000,
-            "unit": "chai/lon"
-          }
-        ],
-        "name": "Đồ Uống",
-        "qty": 12,
-        "revenue": 165000
-      }
-    ]
-  }
+    "name": "Combo",
+    "qty": 29,
+    "revenue": 1605000
+   },
+   {
+    "items": [
+     {
+      "name": "Giờ Vip",
+      "qty": 7,
+      "revenue": 461250,
+      "unit": "lượt"
+     },
+     {
+      "name": "Giờ Thường",
+      "qty": 5,
+      "revenue": 142000,
+      "unit": "lượt"
+     }
+    ],
+    "name": "Giờ chơi",
+    "qty": 12,
+    "revenue": 603250
+   },
+   {
+    "items": [
+     {
+      "name": "Thăng Long",
+      "qty": 2,
+      "revenue": 40000,
+      "unit": "bao"
+     },
+     {
+      "name": "Saigon Dưa Lưới",
+      "qty": 1,
+      "revenue": 30000,
+      "unit": "bao"
+     }
+    ],
+    "name": "Thuốc Lá",
+    "qty": 3,
+    "revenue": 70000
+   },
+   {
+    "items": [
+     {
+      "name": "VELA ruốc",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "cái"
+     }
+    ],
+    "name": "Đồ Ăn",
+    "qty": 1,
+    "revenue": 15000
+   },
+   {
+    "items": [
+     {
+      "name": "Latte Socola",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Tiền Hải Ngọt",
+      "qty": 2,
+      "revenue": 20000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Number One",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Trà Vải Joco",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Nước Lọc",
+      "qty": 2,
+      "revenue": 20000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Boncha Ô Long Đào",
+      "qty": 1,
+      "revenue": 16000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Warriod Dâu",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "ICE Trà Đào",
+      "qty": 1,
+      "revenue": 15000,
+      "unit": "chai/lon"
+     }
+    ],
+    "name": "Đồ Uống",
+    "qty": 12,
+    "revenue": 165000
+   }
+  ]
+ }
 }
