@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 4,
-  "items": 12,
-  "revenue": 427250
+  "invoices": 5,
+  "items": 16,
+  "revenue": 712250
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-20",
  "day_label": "Thứ sáu, 20/11/2026",
  "drinks": {
-  "qty": 18,
-  "revenue": 245000
+  "qty": 19,
+  "revenue": 261000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 76730150,
-  "invoices": 775,
+  "revenue": 77015150,
+  "invoices": 776,
   "note": "Tính đến hết ngày vận hành 20/11/2026",
   "daily": [
    {
@@ -103,28 +103,28 @@
    },
    {
     "date": "20/11",
-    "revenue": 3007500
+    "revenue": 3292500
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 22:22–22:26 ngày 20/11/2026 — ngày vận hành 20/11: 3.007.500đ/46 HĐ/73 món — KHÔNG ĐỔI so với quét 22:00–22:13 (Ca 1 đã chốt 2.580.250đ/42/61; Ca 2 427.250đ/4 HĐ/12 món; HĐ mới nhất 2400004013 lúc 22:09); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 4 đơn/420.500đ (Tại bàn) lúc 22:26 — TĂNG 1 đơn/+184.250đ so với 3 đơn/236.250đ lúc 22:11 (đơn mới hoặc gọi thêm, không có đơn nào thành HĐ mới, không đơn nào biến mất); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 76.730.150đ/775 HĐ (đến hết 20/11)",
+ "source_note": "Quét live 22:49–22:53 ngày 20/11/2026 — ngày vận hành 20/11: 3.292.500đ/47 HĐ/77 món — TĂNG +285.000đ/+1 HĐ/+4 món so với quét 22:22–22:26 (Ca 1 đã chốt 2.580.250đ/42/61 không đổi; Ca 2 712.250đ/5 HĐ/16 món; HĐ mới nhất 2400004014 lúc 22:45, 285.000đ, thu ngân Hoàng Hà); giảm giá 0đ, toàn bộ tiền mặt; đơn chưa hoàn tất 4 đơn/204.500đ (Tại bàn) lúc 22:53 — GIẢM 216.000đ so với 4 đơn/420.500đ lúc 22:26 (1 đơn 285.000đ thành HĐ 2400004014, các bàn còn lại gọi thêm 69.000đ); chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 20/11; tháng 11 lũy kế 77.015.150đ/776 HĐ (đến hết 20/11)",
  "totals": {
-  "invoices": 46,
-  "items": 73,
-  "revenue": 3007500
+  "invoices": 47,
+  "items": 77,
+  "revenue": 3292500
  },
  "unpaid": {
-  "checked_at": "22:26 ngày 20/11/2026",
+  "checked_at": "22:53 ngày 20/11/2026",
   "unfinished": {
    "count": 4,
-   "total": 420500,
+   "total": 204500,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 4,
-     "total": 420500
+     "total": 204500
     },
     {
      "channel": "Mang đi",
@@ -145,7 +145,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 22:26 ngày 20/11/2026",
+ "updated_label": "Quét live 22:53 ngày 20/11/2026",
  "views": {
   "ca1": [
    {
@@ -296,8 +296,8 @@
   "ca_ngay": [
    {
     "name": "Combo",
-    "qty": 33,
-    "revenue": 1807000,
+    "qty": 34,
+    "revenue": 2022000,
     "items": [
      {
       "name": "Combo HS",
@@ -313,8 +313,8 @@
      },
      {
       "name": "Combo 79",
-      "qty": 1,
-      "revenue": 107000,
+      "qty": 2,
+      "revenue": 322000,
       "unit": "lượt"
      }
     ]
@@ -340,8 +340,8 @@
    },
    {
     "name": "Thuốc Lá",
-    "qty": 6,
-    "revenue": 150000,
+    "qty": 7,
+    "revenue": 175000,
     "items": [
      {
       "name": "Saigon Dưa Lưới",
@@ -353,6 +353,12 @@
       "name": "Thăng Long",
       "qty": 3,
       "revenue": 60000,
+      "unit": "bao"
+     },
+     {
+      "name": "Saigon Bạc",
+      "qty": 1,
+      "revenue": 25000,
       "unit": "bao"
      }
     ]
@@ -372,8 +378,8 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 18,
-    "revenue": 245000,
+    "qty": 19,
+    "revenue": 261000,
     "items": [
      {
       "name": "Warriod Dâu",
@@ -395,8 +401,8 @@
      },
      {
       "name": "Number One",
-      "qty": 2,
-      "revenue": 32000,
+      "qty": 3,
+      "revenue": 48000,
       "unit": "chai/lon"
      },
      {
@@ -433,13 +439,13 @@
    },
    {
     "name": "Khác",
-    "qty": 1,
-    "revenue": 29000,
+    "qty": 2,
+    "revenue": 58000,
     "items": [
      {
       "name": "Cơ Thuê",
-      "qty": 1,
-      "revenue": 29000,
+      "qty": 2,
+      "revenue": 58000,
       "unit": "lượt"
      }
     ]
