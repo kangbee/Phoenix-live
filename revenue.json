@@ -113,14 +113,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 15:51–15:54 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +123.000đ/+2 HĐ/+2 món so với quét 15:45–15:47 (958.000đ/17 HĐ/31 món → 1.081.000đ/19 HĐ/33 món, Ca 1; HĐ mới 2400004046 lúc 15:51, 63.000đ; lần đọc đầu 15:51 còn 18 HĐ/1.018.000đ, tải lại 15:53 mới lên 19 HĐ/1.081.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ: Giờ Thường ×9 500.000đ, Giờ Vip ×6 333.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Nước Lọc ×3 30.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, Latte Socola ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ, Trà Vải Joco ×1 15.000đ); đơn chưa hoàn tất GIẢM 9 đơn/316.250đ (15:47) xuống 0 đơn/0đ lúc 15:53 (đã tải lại + cuộn trang, 2 tab chờ xác nhận/ghi nợ đều 0) — trong khi HĐ mới chỉ +123.000đ nên 193.250đ bàn đang chơi biến mất chưa khớp HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive).",
+ "source_note": "Quét live 15:51–15:54 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +123.000đ/+2 HĐ/+2 món so với quét 15:45–15:47 (958.000đ/17 HĐ/31 món → 1.081.000đ/19 HĐ/33 món, Ca 1; HĐ mới 2400004046 lúc 15:51, 63.000đ; lần đọc đầu 15:51 còn 18 HĐ/1.018.000đ, tải lại 15:53 mới lên 19 HĐ/1.081.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ: Giờ Thường ×9 500.000đ, Giờ Vip ×6 333.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Nước Lọc ×3 30.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, Latte Socola ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ, Trà Vải Joco ×1 15.000đ); đơn chưa hoàn tất GIẢM 9 đơn/316.250đ (15:47) xuống 0 đơn/0đ lúc 15:53 (đã tải lại + cuộn trang, 2 tab chờ xác nhận/ghi nợ đều 0) — trong khi HĐ mới chỉ +123.000đ nên 193.250đ bàn đang chơi biến mất chưa khớp HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:01–16:03 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 15:51–15:54 (1.081.000đ/19 HĐ/33 món, Ca 1; không có HĐ mới sau 2400004046 lúc 15:51; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 0 đơn/0đ lúc 16:03 (đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive).",
  "totals": {
   "invoices": 19,
   "items": 33,
   "revenue": 1081000
  },
  "unpaid": {
-  "checked_at": "15:54 ngày 21/11/2026",
+  "checked_at": "16:03 ngày 21/11/2026",
   "unfinished": {
    "count": 0,
    "total": 0,
@@ -149,7 +149,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 15:54 ngày 21/11/2026",
+ "updated_label": "Quét live 16:03 ngày 21/11/2026",
  "views": {
   "ca1": [
    {
