@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 26,
-    "items": 51,
-    "revenue": 1788750
+    "invoices": 27,
+    "items": 54,
+    "revenue": 1845250
   },
   "ca2": {
     "closed": false,
@@ -16,13 +16,13 @@
   "day": "2026-11-21",
   "day_label": "Thứ bảy, 21/11/2026",
   "drinks": {
-    "qty": 25,
-    "revenue": 359000
+    "qty": 27,
+    "revenue": 393000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 79696150,
-    "invoices": 815,
+    "revenue": 79752650,
+    "invoices": 816,
     "note": "Tính đến hết ngày vận hành 21/11/2026",
     "daily": [
       {
@@ -107,20 +107,20 @@
       },
       {
         "date": "21/11",
-        "revenue": 1788750
+        "revenue": 1845250
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 15:51–15:54 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +123.000đ/+2 HĐ/+2 món so với quét 15:45–15:47 (958.000đ/17 HĐ/31 món → 1.081.000đ/19 HĐ/33 món, Ca 1; HĐ mới 2400004046 lúc 15:51, 63.000đ; lần đọc đầu 15:51 còn 18 HĐ/1.018.000đ, tải lại 15:53 mới lên 19 HĐ/1.081.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ: Giờ Thường ×9 500.000đ, Giờ Vip ×6 333.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Nước Lọc ×3 30.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, Latte Socola ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ, Trà Vải Joco ×1 15.000đ); đơn chưa hoàn tất GIẢM 9 đơn/316.250đ (15:47) xuống 0 đơn/0đ lúc 15:53 (đã tải lại + cuộn trang, 2 tab chờ xác nhận/ghi nợ đều 0) — trong khi HĐ mới chỉ +123.000đ nên 193.250đ bàn đang chơi biến mất chưa khớp HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:01–16:03 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 15:51–15:54 (1.081.000đ/19 HĐ/33 món, Ca 1; không có HĐ mới sau 2400004046 lúc 15:51; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 0 đơn/0đ lúc 16:03 (đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:10–16:14 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +193.000đ/+2 HĐ/+5 món so với quét 16:01–16:03 (1.081.000đ/19 HĐ/33 món → 1.274.000đ/21 HĐ/38 món, Ca 1; HĐ mới 2400004047 lúc 16:11, 178.000đ, Bàn Chơi - 5 và 2400004048 lúc 16:12, 15.000đ; lần đọc đầu 16:11 còn 20 HĐ/1.259.000đ, tải lại 16:14 mới lên 21 HĐ/1.274.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.274.000đ: Giờ Thường ×10 636.000đ, Giờ Vip ×6 333.000đ, Latte Socola ×3 48.000đ, Nước Lọc ×4 40.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, ICE Trà Đào ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (16:03) lên 6 đơn/202.000đ lúc 16:14 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 79.181.400đ/810 HĐ/2.678 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:20–16:23 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +230.250đ/+3 HĐ/+6 món so với quét 16:10–16:14 (1.274.000đ/21 HĐ/38 món → 1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất GIẢM 6 đơn/202.000đ (16:14) xuống 3 đơn/103.750đ lúc 16:23 (toàn bộ Tại bàn; đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0); 3 bàn/98.250đ rời khỏi danh sách chưa hoàn tất trong khi HĐ mới +230.250đ — khớp một phần, theo dõi ở lần quét sau; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:31–16:32 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:20–16:23 (1.504.250đ/24 HĐ/44 món, Ca 1; không có HĐ mới sau 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:32 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:37–16:38 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI (1.504.250đ/24 HĐ/44 món, Ca 1; HĐ mới nhất 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất GIẢM 3 đơn/103.750đ lúc 16:32 → 0 đơn/0đ lúc 16:38 (đã tải lại 2 lần, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0; đã hủy 0) — 3 đơn biến mất không thành HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:43–16:46 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:37–16:38 (1.504.250đ/24 HĐ/44 món, Ca 1; không có HĐ mới sau 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (16:38) lên 3 đơn/103.750đ lúc 16:46 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0; đã hủy 0) — 3 đơn biến mất lúc 16:38 đã xuất hiện trở lại, không thành HĐ mới, vẫn là bàn đang mở ở màn hình POS, cờ vẫn mở cần nhân viên kiểm tra; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:49–16:51 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:46 (1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; không có HĐ mới sau SPO2400004051 lúc 16:20; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:51 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 3 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — 3 đơn này đã hiện lại lúc 16:46 và xác nhận lại lúc 16:51, vẫn là bàn đang chơi chưa tính tiền, chưa thành HĐ mới: số 0 lúc 16:38 là nhấp nháy widget (tải đầu hiện 0 sai), cờ 16:38 ĐÓNG; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:54–16:55 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:49–16:51 (1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; không có HĐ mới sau SPO2400004051 lúc 16:20; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:55 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 2 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0); tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:00–17:03 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +88.000đ/+1 HĐ/+2 món so với quét 16:54–16:55 (1.504.250đ/24 HĐ/44 món → 1.592.250đ/25 HĐ/46 món, Ca 1; HĐ mới SPO2400004052 lúc 17:01, 88.000đ, Giờ Vip +72.000đ và Latte Trà Sữa mới ×1 16.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất 3 đơn, GIẢM 103.750đ → 81.000đ (−22.750đ) lúc 17:03 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 2 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 21/11) — giảm 22.750đ không khớp HĐ mới 88.000đ, chưa giải thích được, theo dõi ở lần quét sau; tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:06–17:07 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 17:00–17:03 (1.592.250đ/25 HĐ/46 món, Ca 1; không có HĐ mới sau SPO2400004052 lúc 17:01; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất GIẢM 3 đơn/81.000đ (17:03) xuống 0 đơn/0đ lúc 17:07 (đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — 3 đơn biến mất không thành HĐ mới, cần nhân viên kiểm tra ở màn hình POS (cờ mới; lần 16:38 cũng đọc 0 rồi hiện lại lúc 16:46 nên có thể là nhấp nháy widget, theo dõi ở lần quét sau); tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:11–17:13 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 17:06–17:07 (1.592.250đ/25 HĐ/46 món, Ca 1; không có HĐ mới sau SPO2400004052 lúc 17:01; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (17:07) lên 3 đơn/189.750đ lúc 17:12 (toàn bộ Tại bàn; đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — tăng 189.750đ mà không có HĐ mới, khác mức 3 đơn/81.000đ lúc 17:03 nên không phải 3 đơn cũ quay lại, cần nhân viên kiểm tra các bàn đang mở trên POS trước khi chốt Ca 1; tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 17:16–17:20 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +196.500đ/+1 HĐ/+5 món so với quét 17:11–17:13 (1.592.250đ/25 HĐ/46 món → 1.788.750đ/26 HĐ/51 món, Ca 1; HĐ mới SPO2400004053 lúc 17:18, 196.500đ, Bàn Chơi - 11; giảm giá 0đ; bảng món Sapo cộng đủ 1.788.750đ); đơn chưa hoàn tất GIẢM 3 đơn/189.750đ (17:12) xuống 0 đơn/0đ lúc 17:20 (đã tải lại + cuộn trang, đọc 4 lần đều 0; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — HĐ mới 196.500đ không khớp 1:1 với 189.750đ biến mất nên có thể là nhấp nháy widget, cần nhân viên kiểm tra các bàn đang mở trên POS trước khi chốt Ca 1; tháng 11 lũy kế 79.696.150đ/815 HĐ/2.691 món (đến hết 21/11, khớp getmonthsummary và getlive).",
+  "source_note": "Quét live 15:51–15:54 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +123.000đ/+2 HĐ/+2 món so với quét 15:45–15:47 (958.000đ/17 HĐ/31 món → 1.081.000đ/19 HĐ/33 món, Ca 1; HĐ mới 2400004046 lúc 15:51, 63.000đ; lần đọc đầu 15:51 còn 18 HĐ/1.018.000đ, tải lại 15:53 mới lên 19 HĐ/1.081.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ: Giờ Thường ×9 500.000đ, Giờ Vip ×6 333.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Nước Lọc ×3 30.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, Latte Socola ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ, Trà Vải Joco ×1 15.000đ); đơn chưa hoàn tất GIẢM 9 đơn/316.250đ (15:47) xuống 0 đơn/0đ lúc 15:53 (đã tải lại + cuộn trang, 2 tab chờ xác nhận/ghi nợ đều 0) — trong khi HĐ mới chỉ +123.000đ nên 193.250đ bàn đang chơi biến mất chưa khớp HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:01–16:03 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 15:51–15:54 (1.081.000đ/19 HĐ/33 món, Ca 1; không có HĐ mới sau 2400004046 lúc 15:51; giảm giá 0đ; bảng món Sapo cộng đủ 1.081.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 0 đơn/0đ lúc 16:03 (đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 78.988.400đ/808 HĐ/2.673 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:10–16:14 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +193.000đ/+2 HĐ/+5 món so với quét 16:01–16:03 (1.081.000đ/19 HĐ/33 món → 1.274.000đ/21 HĐ/38 món, Ca 1; HĐ mới 2400004047 lúc 16:11, 178.000đ, Bàn Chơi - 5 và 2400004048 lúc 16:12, 15.000đ; lần đọc đầu 16:11 còn 20 HĐ/1.259.000đ, tải lại 16:14 mới lên 21 HĐ/1.274.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.274.000đ: Giờ Thường ×10 636.000đ, Giờ Vip ×6 333.000đ, Latte Socola ×3 48.000đ, Nước Lọc ×4 40.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, ICE Trà Đào ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (16:03) lên 6 đơn/202.000đ lúc 16:14 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 79.181.400đ/810 HĐ/2.678 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:20–16:23 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +230.250đ/+3 HĐ/+6 món so với quét 16:10–16:14 (1.274.000đ/21 HĐ/38 món → 1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất GIẢM 6 đơn/202.000đ (16:14) xuống 3 đơn/103.750đ lúc 16:23 (toàn bộ Tại bàn; đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0); 3 bàn/98.250đ rời khỏi danh sách chưa hoàn tất trong khi HĐ mới +230.250đ — khớp một phần, theo dõi ở lần quét sau; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:31–16:32 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:20–16:23 (1.504.250đ/24 HĐ/44 món, Ca 1; không có HĐ mới sau 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:32 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0); tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:37–16:38 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI (1.504.250đ/24 HĐ/44 món, Ca 1; HĐ mới nhất 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất GIẢM 3 đơn/103.750đ lúc 16:32 → 0 đơn/0đ lúc 16:38 (đã tải lại 2 lần, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0; đã hủy 0) — 3 đơn biến mất không thành HĐ mới, cần nhân viên kiểm tra ở màn hình POS; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:43–16:46 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:37–16:38 (1.504.250đ/24 HĐ/44 món, Ca 1; không có HĐ mới sau 2400004051 lúc 16:20; giảm giá 0đ; bảng món Sapo cộng đủ 1.504.250đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (16:38) lên 3 đơn/103.750đ lúc 16:46 (toàn bộ Tại bàn; đã tải lại + cuộn trang, xác nhận 2 lần; chờ xác nhận 0, ghi nợ 0; đã hủy 0) — 3 đơn biến mất lúc 16:38 đã xuất hiện trở lại, không thành HĐ mới, vẫn là bàn đang mở ở màn hình POS, cờ vẫn mở cần nhân viên kiểm tra; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:49–16:51 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:46 (1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; không có HĐ mới sau SPO2400004051 lúc 16:20; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:51 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 3 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — 3 đơn này đã hiện lại lúc 16:46 và xác nhận lại lúc 16:51, vẫn là bàn đang chơi chưa tính tiền, chưa thành HĐ mới: số 0 lúc 16:38 là nhấp nháy widget (tải đầu hiện 0 sai), cờ 16:38 ĐÓNG; tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 16:54–16:55 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 16:49–16:51 (1.504.250đ/24 HĐ/44 món, Ca 1; giảm giá 0đ; không có HĐ mới sau SPO2400004051 lúc 16:20; bảng món Sapo cộng đủ 1.504.250đ: Giờ Thường ×12 792.000đ, Giờ Vip ×7 371.250đ, Nước Lọc ×6 60.000đ, Latte Socola ×3 48.000đ, Thăng Long ×2 40.000đ, Number One ×2 32.000đ, ICE Trà Đào ×2 30.000đ, Trà Boncha Vị Tắc ×2 30.000đ, Trà Vải Joco ×2 30.000đ, Bimbim Oishi ×3 24.000đ, Latte Caramen ×1 16.000đ, Boncha Ô Long Đào ×1 16.000đ, JOCO ĐẬU XANH ×1 15.000đ); đơn chưa hoàn tất KHÔNG ĐỔI 3 đơn/103.750đ lúc 16:55 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 2 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0); tháng 11 lũy kế 79.411.650đ/813 HĐ/2.684 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:00–17:03 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +88.000đ/+1 HĐ/+2 món so với quét 16:54–16:55 (1.504.250đ/24 HĐ/44 món → 1.592.250đ/25 HĐ/46 món, Ca 1; HĐ mới SPO2400004052 lúc 17:01, 88.000đ, Giờ Vip +72.000đ và Latte Trà Sữa mới ×1 16.000đ; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất 3 đơn, GIẢM 103.750đ → 81.000đ (−22.750đ) lúc 17:03 (toàn bộ Tại bàn; đã tải lại + cuộn trang, đọc 2 lần đều khớp; chờ xác nhận 0, ghi nợ 0, đã hủy 0 ngày 21/11) — giảm 22.750đ không khớp HĐ mới 88.000đ, chưa giải thích được, theo dõi ở lần quét sau; tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:06–17:07 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 17:00–17:03 (1.592.250đ/25 HĐ/46 món, Ca 1; không có HĐ mới sau SPO2400004052 lúc 17:01; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất GIẢM 3 đơn/81.000đ (17:03) xuống 0 đơn/0đ lúc 17:07 (đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — 3 đơn biến mất không thành HĐ mới, cần nhân viên kiểm tra ở màn hình POS (cờ mới; lần 16:38 cũng đọc 0 rồi hiện lại lúc 16:46 nên có thể là nhấp nháy widget, theo dõi ở lần quét sau); tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive).; Quét live 17:11–17:13 ngày 21/11/2026 — ngày vận hành 21/11 KHÔNG ĐỔI so với quét 17:06–17:07 (1.592.250đ/25 HĐ/46 món, Ca 1; không có HĐ mới sau SPO2400004052 lúc 17:01; giảm giá 0đ; bảng món Sapo cộng đủ 1.592.250đ); đơn chưa hoàn tất TĂNG 0 đơn/0đ (17:07) lên 3 đơn/189.750đ lúc 17:12 (toàn bộ Tại bàn; đã tải lại + cuộn trang; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — tăng 189.750đ mà không có HĐ mới, khác mức 3 đơn/81.000đ lúc 17:03 nên không phải 3 đơn cũ quay lại, cần nhân viên kiểm tra các bàn đang mở trên POS trước khi chốt Ca 1; tháng 11 lũy kế 79.499.650đ/814 HĐ/2.686 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 17:16–17:20 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +196.500đ/+1 HĐ/+5 món so với quét 17:11–17:13 (1.592.250đ/25 HĐ/46 món → 1.788.750đ/26 HĐ/51 món, Ca 1; HĐ mới SPO2400004053 lúc 17:18, 196.500đ, Bàn Chơi - 11; giảm giá 0đ; bảng món Sapo cộng đủ 1.788.750đ); đơn chưa hoàn tất GIẢM 3 đơn/189.750đ (17:12) xuống 0 đơn/0đ lúc 17:20 (đã tải lại + cuộn trang, đọc 4 lần đều 0; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — HĐ mới 196.500đ không khớp 1:1 với 189.750đ biến mất nên có thể là nhấp nháy widget, cần nhân viên kiểm tra các bàn đang mở trên POS trước khi chốt Ca 1; tháng 11 lũy kế 79.696.150đ/815 HĐ/2.691 món (đến hết 21/11, khớp getmonthsummary và getlive). Quét live 17:22–17:30 ngày 21/11/2026 — ngày vận hành 21/11 TĂNG +56.500đ/+1 HĐ/+3 món so với quét 17:16–17:20 (1.788.750đ/26 HĐ/51 món → 1.845.250đ/27 HĐ/54 món, Ca 1; HĐ mới 2400004054 lúc 17:23, 56.500đ, Bàn Chơi - 7, Bò Húc ×2 mới + Giờ Vip; giảm giá 0đ; bảng món Sapo cộng đủ 1.845.250đ); đơn chưa hoàn tất KHÔNG ĐỔI 0 đơn/0đ lúc 17:30 (đã tải lại + cuộn trang, đọc 4 lần đều 0; chờ xác nhận 0, ghi nợ 0, đã hủy 0) — 3 đơn/189.750đ biến mất lúc 17:20 vẫn không hiện lại, cần nhân viên kiểm tra các bàn đang mở trên POS trước khi chốt Ca 1; tháng 11 lũy kế 79.752.650đ/816 HĐ/2.694 món (đến hết 21/11, khớp getmonthsummary và getlive).",
   "totals": {
-    "invoices": 26,
-    "items": 51,
-    "revenue": 1788750
+    "invoices": 27,
+    "items": 54,
+    "revenue": 1845250
   },
   "unpaid": {
-    "checked_at": "17:20 ngày 21/11/2026",
+    "checked_at": "17:30 ngày 21/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -149,13 +149,13 @@
     },
     "orders": []
   },
-  "updated_label": "Quét live 17:20 ngày 21/11/2026",
+  "updated_label": "Quét live 17:30 ngày 21/11/2026",
   "views": {
     "ca1": [
       {
         "name": "Giờ chơi",
-        "qty": 21,
-        "revenue": 1365750,
+        "qty": 22,
+        "revenue": 1388250,
         "items": [
           {
             "name": "Giờ Thường",
@@ -165,8 +165,8 @@
           },
           {
             "name": "Giờ Vip",
-            "qty": 9,
-            "revenue": 573750,
+            "qty": 10,
+            "revenue": 596250,
             "unit": "lượt"
           }
         ]
@@ -199,8 +199,8 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 25,
-        "revenue": 359000,
+        "qty": 27,
+        "revenue": 393000,
         "items": [
           {
             "name": "Nước Lọc",
@@ -221,9 +221,9 @@
             "unit": "chai/lon"
           },
           {
-            "name": "ICE Trà Đào",
+            "name": "Bò Húc",
             "qty": 2,
-            "revenue": 30000,
+            "revenue": 34000,
             "unit": "chai/lon"
           },
           {
@@ -239,19 +239,25 @@
             "unit": "chai/lon"
           },
           {
+            "name": "ICE Trà Đào",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "Saigon Dưa Lưới",
             "qty": 1,
             "revenue": 30000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Caramen",
+            "name": "Latte Trà Sữa",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Trà Sữa",
+            "name": "Latte Caramen",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
@@ -274,8 +280,8 @@
     "ca_ngay": [
       {
         "name": "Giờ chơi",
-        "qty": 21,
-        "revenue": 1365750,
+        "qty": 22,
+        "revenue": 1388250,
         "items": [
           {
             "name": "Giờ Thường",
@@ -285,8 +291,8 @@
           },
           {
             "name": "Giờ Vip",
-            "qty": 9,
-            "revenue": 573750,
+            "qty": 10,
+            "revenue": 596250,
             "unit": "lượt"
           }
         ]
@@ -319,8 +325,8 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 25,
-        "revenue": 359000,
+        "qty": 27,
+        "revenue": 393000,
         "items": [
           {
             "name": "Nước Lọc",
@@ -341,9 +347,9 @@
             "unit": "chai/lon"
           },
           {
-            "name": "ICE Trà Đào",
+            "name": "Bò Húc",
             "qty": 2,
-            "revenue": 30000,
+            "revenue": 34000,
             "unit": "chai/lon"
           },
           {
@@ -359,19 +365,25 @@
             "unit": "chai/lon"
           },
           {
+            "name": "ICE Trà Đào",
+            "qty": 2,
+            "revenue": 30000,
+            "unit": "chai/lon"
+          },
+          {
             "name": "Saigon Dưa Lưới",
             "qty": 1,
             "revenue": 30000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Caramen",
+            "name": "Latte Trà Sữa",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
           },
           {
-            "name": "Latte Trà Sữa",
+            "name": "Latte Caramen",
             "qty": 1,
             "revenue": 16000,
             "unit": "chai/lon"
