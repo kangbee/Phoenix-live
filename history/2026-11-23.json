@@ -124,7 +124,7 @@
     "revenue": 0
   },
   "unpaid": {
-    "checked_at": "08:09 ngày 23/11/2026",
+    "checked_at": "08:17 ngày 23/11/2026",
     "orders": [],
     "unfinished": {
       "count": 0,
@@ -153,7 +153,7 @@
       ]
     }
   },
-  "updated_label": "Quét live 08:09 ngày 23/11/2026",
+  "updated_label": "Quét live 08:17 ngày 23/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
