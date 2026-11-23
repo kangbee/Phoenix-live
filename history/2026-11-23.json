@@ -121,22 +121,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Chốt Ca 1 19:12–19:15 ngày 23/11/2026 — ngày vận hành 23/11: 210.000đ/2 HĐ/10 món (HĐ mới #2100004136 lúc 18:40, 111.000đ; không có HĐ nào sau 18:40; đối chiếu 3 nguồn Sapo khớp 0đ lệch); Ca 1 đã chốt; BẤT THƯỜNG: Ca 1 chỉ 210.000đ, thấp xa mức ngày thường ~2–5 triệu, cả ngày chỉ 2 HĐ đều buổi chiều, không có doanh thu buổi sáng — cần hỏi nhân viên. Quét live 20:06–20:09 ngày 23/11/2026 — ngày vận hành 23/11 KHÔNG ĐỔI (210.000đ/2 HĐ/10 món; Ca 1 đã chốt 210.000đ/2 HĐ/10 món, Ca 2 0đ/0 HĐ; giảm giá 0đ; HĐ mới nhất #2100004136 lúc 18:40; không có HĐ nào sau 18:40) — số live không đổi nên KHÔNG gọi lại importsapodata (đúng bước 5); getlive xác nhận ngày 23/11 210.000đ/2/10, Ca1 210.000 + Ca2 0 = tổng ngày, tháng 11 87.163.900đ/898 HĐ/2.909 món. Đơn chưa hoàn tất TĂNG 10 đơn/582.250đ (lúc 19:59) lên 11 đơn/747.500đ lúc 20:09 (toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — 6 đơn/383.000đ biến mất lúc 19:40→19:46 vẫn không thành HĐ nào, CẦN HỎI NHÂN VIÊN; ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T20:09:00+07:00, OK; app lưu 13:09Z); getunpaidorders xác nhận scannedAt 20:09, 11 đơn/747.500đ. Tháng 11 lũy kế 87.163.900đ/898 HĐ/2.909 món (đến hết 23/11, khớp getmonthsummary và getlive).",
+ "source_note": "Chốt Ca 1 19:12–19:15 ngày 23/11/2026 — ngày vận hành 23/11: 210.000đ/2 HĐ/10 món (HĐ mới #2100004136 lúc 18:40, 111.000đ; không có HĐ nào sau 18:40; đối chiếu 3 nguồn Sapo khớp 0đ lệch); Ca 1 đã chốt; BẤT THƯỜNG: Ca 1 chỉ 210.000đ, thấp xa mức ngày thường ~2–5 triệu, cả ngày chỉ 2 HĐ đều buổi chiều, không có doanh thu buổi sáng — cần hỏi nhân viên. Quét live 20:06–20:09 ngày 23/11/2026 — ngày vận hành 23/11 KHÔNG ĐỔI (210.000đ/2 HĐ/10 món; Ca 1 đã chốt 210.000đ/2 HĐ/10 món, Ca 2 0đ/0 HĐ; giảm giá 0đ; HĐ mới nhất #2100004136 lúc 18:40; không có HĐ nào sau 18:40) — số live không đổi nên KHÔNG gọi lại importsapodata (đúng bước 5); getlive xác nhận ngày 23/11 210.000đ/2/10, Ca1 210.000 + Ca2 0 = tổng ngày, tháng 11 87.163.900đ/898 HĐ/2.909 món. Đơn chưa hoàn tất TĂNG 10 đơn/582.250đ (lúc 19:59) lên 11 đơn/747.500đ lúc 20:09 (toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — 6 đơn/383.000đ biến mất lúc 19:40→19:46 vẫn không thành HĐ nào, CẦN HỎI NHÂN VIÊN; ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T20:09:00+07:00, OK; app lưu 13:09Z); getunpaidorders xác nhận scannedAt 20:09, 11 đơn/747.500đ. Tháng 11 lũy kế 87.163.900đ/898 HĐ/2.909 món (đến hết 23/11, khớp getmonthsummary và getlive). Quét live 20:18–20:20 ngày 23/11/2026 — ngày vận hành 23/11 KHÔNG ĐỔI (210.000đ/2 HĐ/10 món; Ca 1 đã chốt 210.000đ/2 HĐ/10 món, Ca 2 0đ/0 HĐ; giảm giá 0đ; HĐ mới nhất #2100004136 lúc 18:40; không có HĐ nào sau 18:40) — số live không đổi nên KHÔNG gọi lại importsapodata; đơn chưa hoàn tất TĂNG 747.500đ (11 đơn lúc 20:09) lên 797.500đ lúc 20:19 (toàn bộ Tại bàn; chờ xác nhận thanh toán 0, ghi nợ 0) — 6 đơn/383.000đ biến mất 19:40→19:46 vẫn không thành HĐ nào, CẦN HỎI NHÂN VIÊN; ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T20:19:00+07:00, OK; app lưu 13:19Z); tháng 11 87.163.900đ/898 HĐ/2.909 món.",
  "totals": {
   "revenue": 210000,
   "invoices": 2,
   "items": 10
  },
  "unpaid": {
-  "checked_at": "20:09 ngày 23/11/2026",
+  "checked_at": "20:19 ngày 23/11/2026",
   "unfinished": {
    "count": 11,
-   "total": 747500,
+   "total": 797500,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 11,
-     "total": 747500
+     "total": 797500
     },
     {
      "channel": "Mang đi",
@@ -157,7 +157,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 20:09 ngày 23/11/2026",
+ "updated_label": "Quét live 20:19 ngày 23/11/2026",
  "views": {
   "ca1": [
    {
