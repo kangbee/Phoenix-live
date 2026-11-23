@@ -7,22 +7,22 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 7,
-  "items": 11,
-  "revenue": 318250
+  "invoices": 9,
+  "items": 20,
+  "revenue": 637250
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-23",
  "day_label": "Thứ hai, 23/11/2026",
  "drinks": {
-  "qty": 12,
-  "revenue": 182000
+  "qty": 17,
+  "revenue": 261000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 87482150,
-  "invoices": 905,
+  "revenue": 87801150,
+  "invoices": 907,
   "note": "Tính đến hết ngày vận hành 23/11/2026",
   "daily": [
    {
@@ -115,28 +115,28 @@
    },
    {
     "date": "23/11",
-    "revenue": 528250
+    "revenue": 847250
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 21:12–21:15 ngày 23/11/2026 — ngày vận hành 23/11 KHÔNG ĐỔI so với quét 21:04 (324.000đ/5 HĐ/13 món; Ca 1 đã chốt 210.000đ/2 HĐ/10 món, Ca 2 114.000đ/3 HĐ/3 món; giảm giá 0đ; HĐ mới nhất #2300004139 lúc 20:59, 10.000đ; không có HĐ nào sau 20:59) — số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận ngày 23/11 324.000đ/5/13, Ca1 210.000 + Ca2 114.000 = tổng ngày, tháng 11 87.277.900đ/901 HĐ/2.912 món. Đơn chưa hoàn tất TĂNG 11 đơn/819.500đ lúc 21:04 lên 11 đơn/972.500đ lúc 21:15 (+153.000đ, số đơn không đổi, toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — bàn đang chơi tích thêm giờ, không có HĐ mới. BẤT THƯỜNG: Ca 1 chỉ 210.000đ, thấp xa mức ngày thường — cần hỏi nhân viên. Quét live 21:21–21:26 ngày 23/11/2026 — ngày vận hành 23/11 TĂNG +50.000đ (324.000 → 374.000), +1 HĐ (5 → 6), +1 món (13 → 14) so với quét 21:15; toàn bộ tăng thuộc Ca 2 (HĐ mới #2300004140 lúc 21:21, Combo HS ×1 50.000đ, thu ngân Hoàng Hà, Bàn Chơi - 7; Ca 1 đã chốt 210.000đ/2 HĐ/10 món; Ca 2 164.000đ/4 HĐ/4 món: Giờ Vip 54.000đ, Combo HS ×2 100.000đ, Nước Lọc 10.000đ; giảm giá 0đ; HĐ mới nhất #2300004140 lúc 21:21) — ĐÃ gọi importsapodata Ca 2 (Combo HS ×2 100.000đ, Giờ Vip ×1 54.000đ, Nước Lọc ×1 10.000đ, shiftId 23, OK); getlive xác nhận ngày 23/11 374.000đ/6/14, Ca1 210.000 + Ca2 164.000 = tổng ngày, tháng 11 87.327.900đ/902 HĐ/2.913 món. Đơn chưa hoàn tất GIẢM 11 đơn/972.500đ → 10 đơn/922.500đ lúc 21:26 (toàn bộ Tại bàn; giảm đúng bằng HĐ #2300004140 vừa thanh toán; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T21:26:00+07:00, OK). Quét live 21:41–21:43 ngày 23/11/2026 — ngày vận hành 23/11 TĂNG +154.250đ (374.000 → 528.250), +3 HĐ (6 → 9), +7 món (14 → 21) so với quét 21:26; toàn bộ tăng thuộc Ca 2 (3 HĐ mới #2300004141 lúc 21:35 34.000đ Bò Húc ×2, #2300004142 lúc 21:38 52.250đ Combo HS + Giờ Vip 2.250đ, #2300004143 lúc 21:38 68.000đ Nutri Dâu + Giờ Thường 2.000đ + Combo HS; thu ngân Hoàng Hà; Ca 1 đã chốt 210.000đ/2 HĐ/10 món không đổi; Ca 2 318.250đ/7 HĐ/11 món: Combo HS ×4 200.000đ, Giờ Vip ×2 56.250đ, Bò Húc ×2 34.000đ, Nutri Dâu ×1 16.000đ, Nước Lọc ×1 10.000đ, Giờ Thường ×1 2.000đ; giảm giá 0đ; món mới Nutri Dâu) — ĐÃ gọi importsapodata Ca 2 (shiftId 23, OK); getlive xác nhận ngày 23/11 528.250đ/9/21, Ca1 210.000 + Ca2 318.250 = tổng ngày, tháng 11 87.482.150đ/905 HĐ/2.920 món. Đơn chưa hoàn tất TĂNG 10 đơn/922.500đ → 11 đơn/976.500đ lúc 21:43 (+1 đơn, +54.000đ, toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T21:43:00+07:00, OK).",
+ "source_note": "Quét live 21:12–21:15 ngày 23/11/2026 — ngày vận hành 23/11 KHÔNG ĐỔI so với quét 21:04 (324.000đ/5 HĐ/13 món; Ca 1 đã chốt 210.000đ/2 HĐ/10 món, Ca 2 114.000đ/3 HĐ/3 món; giảm giá 0đ; HĐ mới nhất #2300004139 lúc 20:59, 10.000đ; không có HĐ nào sau 20:59) — số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận ngày 23/11 324.000đ/5/13, Ca1 210.000 + Ca2 114.000 = tổng ngày, tháng 11 87.277.900đ/901 HĐ/2.912 món. Đơn chưa hoàn tất TĂNG 11 đơn/819.500đ lúc 21:04 lên 11 đơn/972.500đ lúc 21:15 (+153.000đ, số đơn không đổi, toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — bàn đang chơi tích thêm giờ, không có HĐ mới. BẤT THƯỜNG: Ca 1 chỉ 210.000đ, thấp xa mức ngày thường — cần hỏi nhân viên. Quét live 21:21–21:26 ngày 23/11/2026 — ngày vận hành 23/11 TĂNG +50.000đ (324.000 → 374.000), +1 HĐ (5 → 6), +1 món (13 → 14) so với quét 21:15; toàn bộ tăng thuộc Ca 2 (HĐ mới #2300004140 lúc 21:21, Combo HS ×1 50.000đ, thu ngân Hoàng Hà, Bàn Chơi - 7; Ca 1 đã chốt 210.000đ/2 HĐ/10 món; Ca 2 164.000đ/4 HĐ/4 món: Giờ Vip 54.000đ, Combo HS ×2 100.000đ, Nước Lọc 10.000đ; giảm giá 0đ; HĐ mới nhất #2300004140 lúc 21:21) — ĐÃ gọi importsapodata Ca 2 (Combo HS ×2 100.000đ, Giờ Vip ×1 54.000đ, Nước Lọc ×1 10.000đ, shiftId 23, OK); getlive xác nhận ngày 23/11 374.000đ/6/14, Ca1 210.000 + Ca2 164.000 = tổng ngày, tháng 11 87.327.900đ/902 HĐ/2.913 món. Đơn chưa hoàn tất GIẢM 11 đơn/972.500đ → 10 đơn/922.500đ lúc 21:26 (toàn bộ Tại bàn; giảm đúng bằng HĐ #2300004140 vừa thanh toán; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T21:26:00+07:00, OK). Quét live 21:41–21:43 ngày 23/11/2026 — ngày vận hành 23/11 TĂNG +154.250đ (374.000 → 528.250), +3 HĐ (6 → 9), +7 món (14 → 21) so với quét 21:26; toàn bộ tăng thuộc Ca 2 (3 HĐ mới #2300004141 lúc 21:35 34.000đ Bò Húc ×2, #2300004142 lúc 21:38 52.250đ Combo HS + Giờ Vip 2.250đ, #2300004143 lúc 21:38 68.000đ Nutri Dâu + Giờ Thường 2.000đ + Combo HS; thu ngân Hoàng Hà; Ca 1 đã chốt 210.000đ/2 HĐ/10 món không đổi; Ca 2 318.250đ/7 HĐ/11 món: Combo HS ×4 200.000đ, Giờ Vip ×2 56.250đ, Bò Húc ×2 34.000đ, Nutri Dâu ×1 16.000đ, Nước Lọc ×1 10.000đ, Giờ Thường ×1 2.000đ; giảm giá 0đ; món mới Nutri Dâu) — ĐÃ gọi importsapodata Ca 2 (shiftId 23, OK); getlive xác nhận ngày 23/11 528.250đ/9/21, Ca1 210.000 + Ca2 318.250 = tổng ngày, tháng 11 87.482.150đ/905 HĐ/2.920 món. Đơn chưa hoàn tất TĂNG 10 đơn/922.500đ → 11 đơn/976.500đ lúc 21:43 (+1 đơn, +54.000đ, toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T21:43:00+07:00, OK). Quét live 21:52–21:56 ngày 23/11/2026 — ngày vận hành 23/11 TĂNG +319.000đ (528.250 → 847.250), +2 HĐ (9 → 11), +9 món (21 → 30) so với quét 21:43; toàn bộ tăng thuộc Ca 2 (2 HĐ mới #2300004144 lúc 21:43 202.000đ, #2300004145 lúc 21:47 117.000đ, thu ngân Hoàng Hà; Ca 1 đã chốt 210.000đ/2 HĐ/10 món không đổi; Ca 2 637.250đ/9 HĐ/20 món: Combo HS ×5 262.000đ, Giờ Thường ×2 126.000đ, Bò Húc ×3 51.000đ, Giờ Vip ×2 56.250đ, Number One ×2 32.000đ, O độ ×1 15.000đ, Cơ Thuê ×1 29.000đ, Saigon Bạc ×1 25.000đ, Nước Lọc ×1 10.000đ, Nutri Dâu ×1 16.000đ, Sting Đỏ ×1 15.000đ; giảm giá 0đ; món mới Cơ Thuê, Saigon Bạc, Sting Đỏ) — ĐÃ gọi importsapodata Ca 2 (chỉ món Ca 2 = cả ngày trừ Ca 1, shiftId 23, OK); getlive xác nhận ngày 23/11 847.250đ/11/30, Ca1 210.000 + Ca2 637.250 = tổng ngày, tháng 11 87.801.150đ/907 HĐ/2.929 món. Đơn chưa hoàn tất GIẢM 11 đơn/976.500đ → 9 đơn/804.500đ lúc 21:52 (−2 đơn, −172.000đ, toàn bộ Tại bàn; lần tải đầu widget hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0 lúc 21:56) — 2 HĐ thanh toán 21:43–21:47 (319.000đ) nhưng đơn chưa hoàn tất chỉ giảm ròng 172.000đ, nghĩa là đã có thêm đơn mới tạo trong lúc đó — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-23T21:52:00+07:00, OK).",
  "totals": {
-  "revenue": 528250,
-  "invoices": 9,
-  "items": 21
+  "revenue": 847250,
+  "invoices": 11,
+  "items": 30
  },
  "unpaid": {
-  "checked_at": "21:43 ngày 23/11/2026",
+  "checked_at": "21:52 ngày 23/11/2026",
   "unfinished": {
-   "count": 11,
-   "total": 976500,
+   "count": 9,
+   "total": 804500,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 11,
-     "total": 976500
+     "count": 9,
+     "total": 804500
     },
     {
      "channel": "Mang đi",
@@ -157,7 +157,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 21:43 ngày 23/11/2026",
+ "updated_label": "Quét live 21:52 ngày 23/11/2026",
  "views": {
   "ca1": [
    {
@@ -227,13 +227,13 @@
   "ca_ngay": [
    {
     "name": "Giờ chơi",
-    "qty": 4,
-    "revenue": 136250,
+    "qty": 5,
+    "revenue": 260250,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 2,
-      "revenue": 80000,
+      "qty": 3,
+      "revenue": 204000,
       "unit": "lượt"
      },
      {
@@ -246,19 +246,25 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 12,
-    "revenue": 182000,
+    "qty": 17,
+    "revenue": 261000,
     "items": [
      {
       "name": "Bò Húc",
-      "qty": 5,
-      "revenue": 85000,
+      "qty": 6,
+      "revenue": 102000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Number One",
+      "qty": 3,
+      "revenue": 48000,
       "unit": "chai/lon"
      },
      {
       "name": "O độ",
-      "qty": 2,
-      "revenue": 30000,
+      "qty": 3,
+      "revenue": 45000,
       "unit": "chai/lon"
      },
      {
@@ -268,15 +274,15 @@
       "unit": "chai/lon"
      },
      {
-      "name": "Number One",
+      "name": "Nutri Dâu",
       "qty": 1,
       "revenue": 16000,
       "unit": "chai/lon"
      },
      {
-      "name": "Nutri Dâu",
+      "name": "Sting Đỏ",
       "qty": 1,
-      "revenue": 16000,
+      "revenue": 15000,
       "unit": "chai/lon"
      },
      {
@@ -289,27 +295,46 @@
    },
    {
     "name": "Combo",
-    "qty": 4,
-    "revenue": 200000,
+    "qty": 5,
+    "revenue": 262000,
     "items": [
      {
       "name": "Combo HS",
-      "qty": 4,
-      "revenue": 200000,
+      "qty": 5,
+      "revenue": 262000,
       "unit": "lượt"
      }
     ]
    },
    {
     "name": "Thuốc Lá",
-    "qty": 1,
-    "revenue": 10000,
+    "qty": 2,
+    "revenue": 35000,
     "items": [
+     {
+      "name": "Saigon Bạc",
+      "qty": 1,
+      "revenue": 25000,
+      "unit": "gói"
+     },
      {
       "name": "Tiền Hải Ngọt",
       "qty": 1,
       "revenue": 10000,
       "unit": "bao"
+     }
+    ]
+   },
+   {
+    "name": "Khác",
+    "qty": 1,
+    "revenue": 29000,
+    "items": [
+     {
+      "name": "Cơ Thuê",
+      "qty": 1,
+      "revenue": 29000,
+      "unit": "lượt"
      }
     ]
    }
