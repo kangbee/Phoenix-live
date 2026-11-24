@@ -324,13 +324,13 @@
   "ca_ngay": [
    {
     "name": "Giờ chơi",
-    "qty": 23,
-    "revenue": 1674750,
+    "qty": 25,
+    "revenue": 1678750,
     "items": [
      {
       "name": "Giờ Thường",
-      "qty": 13,
-      "revenue": 966000,
+      "qty": 15,
+      "revenue": 970000,
       "unit": "lượt"
      },
      {
