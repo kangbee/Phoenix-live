@@ -125,22 +125,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 16:50–16:51 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +408.000đ/+1 HĐ/+13 món so với quét 16:46 (2.044.750đ/26 HĐ/50 món → 2.452.750đ/27 HĐ/63 món, toàn bộ Ca 1; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới lúc 16:49; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; chi tiết món: Giờ Thường ×13 966.000đ + Giờ Vip ×10 708.750đ + Cơ Thuê ×7 203.000đ + Combo HS ×2 100.000đ + Saigon Dưa Lưới ×3 90.000đ + VELA to ×4 60.000đ + Bò Húc ×3 51.000đ + Sting Đỏ ×3 45.000đ + Latte Socola ×2 32.000đ + Nước Lọc ×3 30.000đ + Saigon Bạc ×1 25.000đ + VELA SANWICH ×3 24.000đ + Thăng Long ×1 20.000đ + Tiền Hải Ngọt ×2 20.000đ + Bimbim Oishi ×2 16.000đ + Number One ×1 16.000đ + Nutri Dâu ×1 16.000đ + Warriod Nho ×1 15.000đ + Trà Vải Joco ×1 15.000đ) — ĐÃ gọi importsapodata Ca 1 (shiftId 24, tổng 2.452.750đ); getlive xác nhận ngày 24/11 2.452.750đ/27/63, Ca1 2.452.750 + Ca2 0 = tổng ngày, tháng 11 92.958.650đ/957 HĐ/3.054 món (getmonthsummary, đến hết 24/11). Đơn chưa hoàn tất GIẢM 2 đơn/348.000đ lúc 16:46 → 2 đơn/4.000đ lúc 16:52 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng, kiểm chứng lại lúc ~16:51 không đổi; chờ xác nhận thanh toán 0, ghi nợ 0; 1 HĐ mới +408.000đ — lớn hơn mức giảm 344.000đ của đơn chưa hoàn tất, khớp với 1 bàn chốt tích lũy thêm ~64.000đ giờ chơi trước khi thanh toán + bàn mới mở, số học khép ở mức theo dõi) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T16:52:00+07:00, OK, 2 đơn/4.000đ).",
+ "source_note": "Quét live 16:57–17:00 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 16:52 (2.452.750đ/27 HĐ/63 món, toàn bộ Ca 1; Ca 2 chưa bắt đầu; giảm giá 0đ; không có HĐ mới; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau) — số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận ngày 24/11 2.452.750đ/27/63, Ca1 2.452.750 + Ca2 0 = tổng ngày, tháng 11 92.958.650đ/957 HĐ/3.054 món (getmonthsummary, đến hết 24/11). Đơn chưa hoàn tất TĂNG 2 đơn/4.000đ lúc 16:52 → 2 đơn/54.000đ lúc 17:00 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang + tải lại lần 2 mới hiện đúng, kết quả ổn định; chờ xác nhận thanh toán 0, ghi nợ 0; số đơn không đổi, tiền tăng +50.000đ — phù hợp giờ chơi tích lũy trên bàn đang mở, chưa có HĐ mới nào thanh toán) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T17:00:00+07:00, OK, 2 đơn/54.000đ).",
  "totals": {
   "revenue": 2452750,
   "invoices": 27,
   "items": 63
  },
  "unpaid": {
-  "checked_at": "16:52 ngày 24/11/2026",
+  "checked_at": "17:00 ngày 24/11/2026",
   "unfinished": {
    "count": 2,
-   "total": 4000,
+   "total": 54000,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 2,
-     "total": 4000
+     "total": 54000
     },
     {
      "channel": "Mang đi",
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 16:52 ngày 24/11/2026",
+ "updated_label": "Quét live 17:00 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
