@@ -125,22 +125,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 13:11–13:13 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 12:46 (401.250đ/7 HĐ/11 món; Ca 1: Giờ Vip ×3 = 209.250đ + Combo HS ×2 = 100.000đ + Giờ Thường ×1 = 32.000đ + Latte Socola ×2 = 32.000đ + Tiền Hải Ngọt ×2 = 20.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004175 lúc 12:45). Đơn chưa hoàn tất GIẢM 7 đơn/508.750đ lúc 13:05 → 0 đơn/0đ lúc 13:13 (đã tải lại + cuộn dashboard, cả 4 kênh đều 0; chờ xác nhận thanh toán 0, ghi nợ 0) trong khi KHÔNG có hóa đơn mới nào sau 12:45 — số chưa hoàn tất đã nhấp nháy 0 → 508.750đ → 0 trong vòng ~15 phút mà không có HĐ mới, CẦN HỎI NHÂN VIÊN xem 7 bàn đó đã hủy hay vẫn đang chơi. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:13:00+07:00, OK, snapshot rỗng); không gọi lại importsapodata vì số live không đổi; getlive xác nhận 24/11 401.250đ/7/11, Ca1 401.250 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 90.907.150đ/937 HĐ/3.002 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 13:17–13:20 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 13:05 (401.250đ/7 HĐ/11 món; Ca 1: Giờ Vip ×3 = 209.250đ + Combo HS ×2 = 100.000đ + Giờ Thường ×1 = 32.000đ + Latte Socola ×2 = 32.000đ + Tiền Hải Ngọt ×2 = 20.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004175 lúc 12:45). Đơn chưa hoàn tất TĂNG 0 đơn/0đ lúc 13:13 → 7 đơn/534.750đ lúc 13:19 (đọc 2 lần ổn định sau tải lại + cuộn dashboard; toàn bộ Tại bàn; chờ xác nhận thanh toán 0, ghi nợ 0) trong khi KHÔNG có hóa đơn mới nào sau 12:45 — số chưa hoàn tất đã nhấp nháy 0 → 508.750đ → 0 → 534.750đ trong ~20 phút; tiền tăng +26.000đ so với 13:05 cùng 7 đơn, phù hợp giờ chơi tích lũy trên bàn đang mở, nhưng vẫn CẦN HỎI NHÂN VIÊN xem 7 bàn đó còn chơi hay đã hủy. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:19:00+07:00, OK, 7 đơn/534.750đ); không gọi lại importsapodata vì số live không đổi; getlive xác nhận 24/11 401.250đ/7/11, Ca1 401.250 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 90.907.150đ/937 HĐ/3.002 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
   "revenue": 401250,
   "invoices": 7,
   "items": 11
  },
  "unpaid": {
-  "checked_at": "13:13 ngày 24/11/2026",
+  "checked_at": "13:19 ngày 24/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 7,
+   "total": 534750,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 7,
+     "total": 534750
     },
     {
      "channel": "Mang đi",
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 13:13 ngày 24/11/2026",
+ "updated_label": "Quét live 13:19 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
