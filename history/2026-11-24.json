@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 14,
-  "items": 22,
-  "revenue": 867750
+  "invoices": 16,
+  "items": 27,
+  "revenue": 1040750
  },
  "ca2": {
   "closed": false,
@@ -16,13 +16,13 @@
  "day": "2026-11-24",
  "day_label": "Thứ ba, 24/11/2026",
  "drinks": {
-  "qty": 6,
-  "revenue": 78000
+  "qty": 7,
+  "revenue": 108000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 91373650,
-  "invoices": 944,
+  "revenue": 91546650,
+  "invoices": 946,
   "note": "Tính đến hết ngày vận hành 24/11/2026",
   "daily": [
    {
@@ -119,28 +119,28 @@
    },
    {
     "date": "24/11",
-    "revenue": 867750
+    "revenue": 1040750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 14:52–14:58 ngày 24/11/2026 — số live KHÔNG ĐỔI so với quét 14:44: ngày vận hành 24/11 867.750đ/14 HĐ/22 món, toàn bộ Ca 1 (Giờ Vip ×5 = 339.750đ + Giờ Thường ×6 = 298.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; không có HĐ mới, mới nhất vẫn #2400004182 lúc 14:43, 54.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất vẫn 0 đơn/0đ lúc 14:55 (đã tải lại trang + cuộn trang; lần tải đầu hiện 0 rồi tải đủ sau cuộn; chờ xác nhận thanh toán 0, ghi nợ 0) — 11 đơn/635.250đ KHÔNG hiện lại, nên số 0 không phải lỗi widget; CỜ từ quét trước vẫn mở: ~545.250đ đơn chưa hoàn tất biến mất 14:29→14:38 mà không thành HĐ nào, CẦN HỎI NHÂN VIÊN (bàn hủy hay đã hủy). Ghi chú kỹ thuật: các widget 'DOANH THU NHÂN VIÊN', 'PHƯƠNG THỨC THANH TOÁN', 'HÌNH THỨC PHỤC VỤ', 'MẶT HÀNG THEO DANH MỤC' và 'MẶT HÀNG BÁN CHẠY' hiện 'Chưa có doanh thu ngày hôm nay' dù có 867.750đ — widget không tải dữ liệu, số tổng hợp chính và các báo cáo vẫn đúng. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T14:56:00+07:00, OK, snapshot rỗng 0 đơn/0đ); số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận 867.750đ/14/22, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.373.650đ/944 HĐ/3.013 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 15:03–15:12 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +173.000đ/+2 HĐ/+5 món so với quét 14:56 (867.750đ/14 HĐ/22 món → 1.040.750đ/16 HĐ/27 món), toàn bộ Ca 1 (Giờ Thường ×7 = 396.000đ + Giờ Vip ×5 = 339.750đ + Combo HS ×2 = 100.000đ + VELA to ×4 = 60.000đ + Latte Socola ×2 = 32.000đ + Saigon Dưa Lưới ×1 = 30.000đ (món mới) + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004183 lúc 15:01, 143.000đ và #2400004184 lúc 15:08, 30.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất ĐÃ HIỆN LẠI 10 đơn/637.250đ lúc 15:06, 15:09 và 15:10 (ổn định 3 lần đọc sau tải lại + cuộn trang; toàn bộ Tại bàn; lần tải đầu hiện 0 sai; chờ xác nhận thanh toán 0, ghi nợ 0) — gần bằng 11 đơn/635.250đ biến mất lúc 14:38, nên số 0 lúc 14:38–14:56 nhiều khả năng là widget lỗi tải chứ không phải bàn hủy; chưa xác nhận được có đúng cùng tập đơn cũ không vì widget chỉ cho số tổng hợp. ĐÃ gọi importsapodata Ca 1 (shiftId 24, tổng 1.040.750đ) và importUnpaidOrders (scannedAt 2026-11-24T15:10:00+07:00, OK, 10 đơn/637.250đ); getlive xác nhận 1.040.750đ/16/27, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.546.650đ/946 HĐ/3.018 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
-  "revenue": 867750,
-  "invoices": 14,
-  "items": 22
+  "revenue": 1040750,
+  "invoices": 16,
+  "items": 27
  },
  "unpaid": {
-  "checked_at": "14:56 ngày 24/11/2026",
+  "checked_at": "15:10 ngày 24/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 10,
+   "total": 637250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 10,
+     "total": 637250
     },
     {
      "channel": "Mang đi",
@@ -161,24 +161,24 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 14:56 ngày 24/11/2026",
+ "updated_label": "Quét live 15:10 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
     "name": "Giờ chơi",
-    "qty": 11,
-    "revenue": 637750,
+    "qty": 12,
+    "revenue": 735750,
     "items": [
+     {
+      "name": "Giờ Thường",
+      "qty": 7,
+      "revenue": 396000,
+      "unit": "lượt"
+     },
      {
       "name": "Giờ Vip",
       "qty": 5,
       "revenue": 339750,
-      "unit": "lượt"
-     },
-     {
-      "name": "Giờ Thường",
-      "qty": 6,
-      "revenue": 298000,
       "unit": "lượt"
      }
     ]
@@ -198,13 +198,19 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 6,
-    "revenue": 78000,
+    "qty": 7,
+    "revenue": 108000,
     "items": [
      {
       "name": "Latte Socola",
       "qty": 2,
       "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Saigon Dưa Lưới",
+      "qty": 1,
+      "revenue": 30000,
       "unit": "chai/lon"
      },
      {
@@ -229,13 +235,13 @@
    },
    {
     "name": "Đồ Ăn",
-    "qty": 2,
-    "revenue": 23000,
+    "qty": 5,
+    "revenue": 68000,
     "items": [
      {
       "name": "VELA to",
-      "qty": 1,
-      "revenue": 15000,
+      "qty": 4,
+      "revenue": 60000,
       "unit": "cái"
      },
      {
@@ -263,19 +269,19 @@
   "ca_ngay": [
    {
     "name": "Giờ chơi",
-    "qty": 11,
-    "revenue": 637750,
+    "qty": 12,
+    "revenue": 735750,
     "items": [
+     {
+      "name": "Giờ Thường",
+      "qty": 7,
+      "revenue": 396000,
+      "unit": "lượt"
+     },
      {
       "name": "Giờ Vip",
       "qty": 5,
       "revenue": 339750,
-      "unit": "lượt"
-     },
-     {
-      "name": "Giờ Thường",
-      "qty": 6,
-      "revenue": 298000,
       "unit": "lượt"
      }
     ]
@@ -295,13 +301,19 @@
    },
    {
     "name": "Đồ Uống",
-    "qty": 6,
-    "revenue": 78000,
+    "qty": 7,
+    "revenue": 108000,
     "items": [
      {
       "name": "Latte Socola",
       "qty": 2,
       "revenue": 32000,
+      "unit": "chai/lon"
+     },
+     {
+      "name": "Saigon Dưa Lưới",
+      "qty": 1,
+      "revenue": 30000,
       "unit": "chai/lon"
      },
      {
@@ -326,13 +338,13 @@
    },
    {
     "name": "Đồ Ăn",
-    "qty": 2,
-    "revenue": 23000,
+    "qty": 5,
+    "revenue": 68000,
     "items": [
      {
       "name": "VELA to",
-      "qty": 1,
-      "revenue": 15000,
+      "qty": 4,
+      "revenue": 60000,
       "unit": "cái"
      },
      {
