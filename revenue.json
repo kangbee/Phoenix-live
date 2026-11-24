@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 17,
-  "items": 28,
-  "revenue": 1092500
+  "invoices": 18,
+  "items": 29,
+  "revenue": 1148750
  },
  "ca2": {
   "closed": false,
@@ -21,8 +21,8 @@
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 91598400,
-  "invoices": 947,
+  "revenue": 91654650,
+  "invoices": 948,
   "note": "Tính đến hết ngày vận hành 24/11/2026",
   "daily": [
    {
@@ -119,28 +119,28 @@
    },
    {
     "date": "24/11",
-    "revenue": 1092500
+    "revenue": 1148750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 15:24–15:28 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +51.750đ/+1 HĐ/+1 món so với quét 15:19 (1.040.750đ/16 HĐ/27 món → 1.092.500đ/17 HĐ/28 món, toàn bộ Ca 1; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004185 15:22 51.750đ Giờ Vip). ĐÃ gọi importsapodata Ca 1 (shiftId 24, tổng 1.092.500đ); getlive xác nhận ngày 24/11 1.092.500đ/17/28, Ca1 1.092.500 + Ca2 0 = tổng ngày. Đơn chưa hoàn tất GIẢM 11 đơn/704.250đ lúc 15:19 → 10 đơn/736.000đ lúc 15:27 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, đã tải lại + cuộn trang, kiểm chứng 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0; 1 đơn thành HĐ #2400004185 51.750đ, các bàn còn lại tăng thêm 83.500đ do giờ chơi tích lũy). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T15:27:00+07:00, OK, 10 đơn/736.000đ). Tháng 11 lũy kế 91.598.400đ/947 HĐ/3.019 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 15:32–15:35 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +56.250đ/+1 HĐ/+1 món so với quét 15:27 (1.092.500đ/17 HĐ/28 món → 1.148.750đ/18 HĐ/29 món, toàn bộ Ca 1; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004186 15:30 56.250đ Giờ Vip). ĐÃ gọi importsapodata Ca 1 (shiftId 24, tổng 1.148.750đ); getlive xác nhận ngày 24/11 1.148.750đ/18/29, Ca1 1.148.750 + Ca2 0 = tổng ngày. Đơn chưa hoàn tất GIẢM 10 đơn/736.000đ lúc 15:27 → 9 đơn/733.750đ lúc 15:34 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, đã tải lại + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0; 1 đơn thành HĐ #2400004186 56.250đ, các bàn còn lại tăng thêm 54.000đ do giờ chơi tích lũy). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T15:34:00+07:00, OK, 9 đơn/733.750đ). Tháng 11 lũy kế 91.654.650đ/948 HĐ/3.020 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
-  "revenue": 1092500,
-  "invoices": 17,
-  "items": 28
+  "revenue": 1148750,
+  "invoices": 18,
+  "items": 29
  },
  "unpaid": {
-  "checked_at": "15:27 ngày 24/11/2026",
+  "checked_at": "15:34 ngày 24/11/2026",
   "unfinished": {
-   "count": 10,
-   "total": 736000,
+   "count": 9,
+   "total": 733750,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 10,
-     "total": 736000
+     "count": 9,
+     "total": 733750
     },
     {
      "channel": "Mang đi",
@@ -161,13 +161,13 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 15:27 ngày 24/11/2026",
+ "updated_label": "Quét live 15:34 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
     "name": "Giờ chơi",
-    "qty": 13,
-    "revenue": 787500,
+    "qty": 14,
+    "revenue": 843750,
     "items": [
      {
       "name": "Giờ Thường",
@@ -177,8 +177,8 @@
      },
      {
       "name": "Giờ Vip",
-      "qty": 6,
-      "revenue": 391500,
+      "qty": 7,
+      "revenue": 447750,
       "unit": "lượt"
      }
     ]
@@ -269,8 +269,8 @@
   "ca_ngay": [
    {
     "name": "Giờ chơi",
-    "qty": 13,
-    "revenue": 787500,
+    "qty": 14,
+    "revenue": 843750,
     "items": [
      {
       "name": "Giờ Thường",
@@ -280,8 +280,8 @@
      },
      {
       "name": "Giờ Vip",
-      "qty": 6,
-      "revenue": 391500,
+      "qty": 7,
+      "revenue": 447750,
       "unit": "lượt"
      }
     ]
