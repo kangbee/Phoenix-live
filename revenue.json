@@ -125,14 +125,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 14:37–14:45 ngày 24/11/2026 — số live TĂNG +90.000đ/+2 HĐ/+2 món so với quét 14:29: ngày vận hành 24/11 867.750đ/14 HĐ/22 món, toàn bộ Ca 1 (Giờ Vip ×5 = 339.750đ + Giờ Thường ×6 = 298.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004181 lúc 14:40, 36.000đ và #2400004182 lúc 14:43, 54.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất GIẢM 11 đơn/635.250đ lúc 14:29 xuống 0 đơn/0đ lúc 14:38, kiểm tra lại 14:42 và 14:44 vẫn 0 (đã tải lại trang + cuộn trang cả 3 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — CỜ MỚI: chỉ +90.000đ HĐ mới trong khi ~545.250đ đơn chưa hoàn tất biến mất mà không thành HĐ nào, CẦN HỎI NHÂN VIÊN (bàn hủy hay widget lỗi). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T14:44:00+07:00, OK, snapshot rỗng 0 đơn/0đ); getlive xác nhận 867.750đ/14/22, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.373.650đ/944 HĐ/3.013 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 14:52–14:58 ngày 24/11/2026 — số live KHÔNG ĐỔI so với quét 14:44: ngày vận hành 24/11 867.750đ/14 HĐ/22 món, toàn bộ Ca 1 (Giờ Vip ×5 = 339.750đ + Giờ Thường ×6 = 298.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; không có HĐ mới, mới nhất vẫn #2400004182 lúc 14:43, 54.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất vẫn 0 đơn/0đ lúc 14:55 (đã tải lại trang + cuộn trang; lần tải đầu hiện 0 rồi tải đủ sau cuộn; chờ xác nhận thanh toán 0, ghi nợ 0) — 11 đơn/635.250đ KHÔNG hiện lại, nên số 0 không phải lỗi widget; CỜ từ quét trước vẫn mở: ~545.250đ đơn chưa hoàn tất biến mất 14:29→14:38 mà không thành HĐ nào, CẦN HỎI NHÂN VIÊN (bàn hủy hay đã hủy). Ghi chú kỹ thuật: các widget 'DOANH THU NHÂN VIÊN', 'PHƯƠNG THỨC THANH TOÁN', 'HÌNH THỨC PHỤC VỤ', 'MẶT HÀNG THEO DANH MỤC' và 'MẶT HÀNG BÁN CHẠY' hiện 'Chưa có doanh thu ngày hôm nay' dù có 867.750đ — widget không tải dữ liệu, số tổng hợp chính và các báo cáo vẫn đúng. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T14:56:00+07:00, OK, snapshot rỗng 0 đơn/0đ); số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận 867.750đ/14/22, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.373.650đ/944 HĐ/3.013 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
   "revenue": 867750,
   "invoices": 14,
   "items": 22
  },
  "unpaid": {
-  "checked_at": "14:44 ngày 24/11/2026",
+  "checked_at": "14:56 ngày 24/11/2026",
   "unfinished": {
    "count": 0,
    "total": 0,
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 14:44 ngày 24/11/2026",
+ "updated_label": "Quét live 14:56 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
