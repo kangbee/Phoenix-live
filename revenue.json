@@ -125,22 +125,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 15:03–15:12 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +173.000đ/+2 HĐ/+5 món so với quét 14:56 (867.750đ/14 HĐ/22 món → 1.040.750đ/16 HĐ/27 món), toàn bộ Ca 1 (Giờ Thường ×7 = 396.000đ + Giờ Vip ×5 = 339.750đ + Combo HS ×2 = 100.000đ + VELA to ×4 = 60.000đ + Latte Socola ×2 = 32.000đ + Saigon Dưa Lưới ×1 = 30.000đ (món mới) + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004183 lúc 15:01, 143.000đ và #2400004184 lúc 15:08, 30.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất ĐÃ HIỆN LẠI 10 đơn/637.250đ lúc 15:06, 15:09 và 15:10 (ổn định 3 lần đọc sau tải lại + cuộn trang; toàn bộ Tại bàn; lần tải đầu hiện 0 sai; chờ xác nhận thanh toán 0, ghi nợ 0) — gần bằng 11 đơn/635.250đ biến mất lúc 14:38, nên số 0 lúc 14:38–14:56 nhiều khả năng là widget lỗi tải chứ không phải bàn hủy; chưa xác nhận được có đúng cùng tập đơn cũ không vì widget chỉ cho số tổng hợp. ĐÃ gọi importsapodata Ca 1 (shiftId 24, tổng 1.040.750đ) và importUnpaidOrders (scannedAt 2026-11-24T15:10:00+07:00, OK, 10 đơn/637.250đ); getlive xác nhận 1.040.750đ/16/27, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.546.650đ/946 HĐ/3.018 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 15:16–15:20 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 15:10 (1.040.750đ/16 HĐ/27 món, toàn bộ Ca 1; Ca 2 chưa bắt đầu; giảm giá 0đ; chi tiết món khớp y hệt quét trước nên không gọi lại importsapodata). Đơn chưa hoàn tất TĂNG +1 đơn/+67.000đ: 11 đơn/704.250đ lúc 15:19 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, đã tải lại + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T15:19:00+07:00, OK, 11 đơn/704.250đ). Tháng 11 lũy kế 91.546.650đ/946 HĐ/3.018 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
   "revenue": 1040750,
   "invoices": 16,
   "items": 27
  },
  "unpaid": {
-  "checked_at": "15:10 ngày 24/11/2026",
+  "checked_at": "15:19 ngày 24/11/2026",
   "unfinished": {
-   "count": 10,
-   "total": 637250,
+   "count": 11,
+   "total": 704250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 10,
-     "total": 637250
+     "count": 11,
+     "total": 704250
     },
     {
      "channel": "Mang đi",
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 15:10 ngày 24/11/2026",
+ "updated_label": "Quét live 15:19 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
