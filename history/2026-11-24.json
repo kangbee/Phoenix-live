@@ -125,14 +125,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 09:36–09:42 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +36.000đ/+1 HĐ/+1 món so với quét 09:30 (32.000đ/1 HĐ/2 món → 68.000đ/2 HĐ/3 món; Ca 1: Giờ Vip ×1 = 36.000đ + Latte Socola ×2 = 32.000đ, HĐ mới nhất #2400004170 lúc 09:37, 36.000đ, thu ngân nvien mới, Tiền mặt; Ca 2 chưa bắt đầu; giảm giá 0đ; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 68.000đ/2/3). Đơn chưa hoàn tất 1 đơn/0đ lúc 09:41 (Tại bàn 1 đơn/0đ; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng, kiểm tra lại lúc 09:41 vẫn 1 đơn/0đ; chờ xác nhận thanh toán 0, ghi nợ 0) — giảm từ 2 đơn/2.250đ lúc 09:30, 1 đơn 2.250đ biến mất mà không thành HĐ nào (HĐ mới #2400004170 chỉ có Giờ Vip 36.000đ, không chứa món 2.250đ), CẦN HỎI NHÂN VIÊN. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T09:41:00+07:00, OK, 1 đơn/0đ); getunpaidorders xác nhận scannedAt 09:41, 1 đơn/0đ. ĐÃ gọi importsapodata Ca 1 (Giờ Vip ×1 36.000đ + Latte Socola ×2 32.000đ, shiftId 24); getlive xác nhận ngày 24/11 68.000đ/2/3, Ca1 68.000 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 90.573.900đ/932 HĐ/2.994 món (đến hết 24/11, khớp getmonthsummary và getlive).",
+ "source_note": "Quét live 09:48–09:50 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 09:41: 68.000đ/2 HĐ/3 món (Ca 1: Giờ Vip ×1 = 36.000đ + Latte Socola ×2 = 32.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 68.000đ/2/3). Đơn chưa hoàn tất vẫn 1 đơn/0đ lúc 09:50 (Tại bàn 1 đơn/0đ; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T09:50:00+07:00, OK, 1 đơn/0đ); getunpaidorders xác nhận scannedAt 09:50, 1 đơn/0đ. KHÔNG gọi importsapodata (số live không đổi; getlive 24/11 xác nhận 68.000đ/2/3, Ca1 68.000 + Ca2 0 = tổng ngày). Tháng 11 lũy kế 90.573.900đ/932 HĐ/2.994 món (đến hết 24/11, khớp getmonthsummary và getlive).",
  "totals": {
   "revenue": 68000,
   "invoices": 2,
   "items": 3
  },
  "unpaid": {
-  "checked_at": "09:41 ngày 24/11/2026",
+  "checked_at": "09:50 ngày 24/11/2026",
   "unfinished": {
    "count": 1,
    "total": 0,
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 09:41 ngày 24/11/2026",
+ "updated_label": "Quét live 09:50 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
