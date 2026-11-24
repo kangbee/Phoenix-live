@@ -125,22 +125,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 13:25–13:28 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +213.500đ/+2 HĐ/+6 món so với quét 13:19 (401.250đ/7 HĐ/11 món → 614.750đ/9 HĐ/17 món); Ca 1: Giờ Vip ×4 = 276.750đ + Giờ Thường ×2 = 108.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới #2400004176 lúc 13:19 (131.000đ) và #2400004177 lúc 13:26 (82.500đ). Đơn chưa hoàn tất 7 đơn/534.750đ lúc 13:19 → 0 đơn/0đ lúc 13:28 (đọc 3 lần sau tải lại, luôn 0; chờ xác nhận thanh toán 0, ghi nợ 0) — MÂU THUẪN: 2 HĐ mới chỉ giải thích 213.500đ, còn ~321.250đ/~5 đơn chưa rõ; các widget khác trên Dashboard cũng hiện 'Chưa có doanh thu ngày hôm nay' dù đã có doanh thu nên số 0 này chưa đáng tin hoàn toàn, CẦN HỎI NHÂN VIÊN / đối chiếu lại ở lần quét sau. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:28:00+07:00, OK, 0 đơn/0đ); ĐÃ gọi importsapodata Ca 1 (614.750đ/9/17); getlive xác nhận 24/11 614.750đ/9/17, Ca1 614.750 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 91.120.650đ/939 HĐ/3.008 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 13:34–13:39 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 13:28 (614.750đ/9 HĐ/17 món, Ca 1; không có HĐ mới sau #2400004177 lúc 13:26; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau); KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận 24/11 614.750đ/9/17, Ca1 614.750 + Ca2 0 = tổng ngày. Đơn chưa hoàn tất HIỆN LẠI 7 đơn/448.250đ lúc 13:37–13:39 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; kiểm chứng lại lần 2 vẫn 7/448.250; chờ xác nhận thanh toán 0, ghi nợ 0) — 7 đơn chưa hề biến mất, số 0 lúc 13:28 là lỗi hiển thị widget tải lần đầu; so với 534.750đ lúc 13:19, tổng tiền chỉ giảm 86.500đ trong khi 2 HĐ mới đã thanh toán 213.500đ — chênh này chưa phân rã được từ số tổng hợp (giờ chơi tích lũy/bàn mới mở), CẦN HỎI NHÂN VIÊN khi đối chiếu; lưu ý mức giảm đúng 86.500đ cũng xuất hiện ở cờ chênh lúc 12:33. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:39:00+07:00, OK, 7 đơn/448.250đ); getunpaidorders xác nhận 7 đơn/448.250đ. Tháng 11 lũy kế 91.120.650đ/939 HĐ/3.008 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
   "revenue": 614750,
   "invoices": 9,
   "items": 17
  },
  "unpaid": {
-  "checked_at": "13:28 ngày 24/11/2026",
+  "checked_at": "13:39 ngày 24/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 7,
+   "total": 448250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 7,
+     "total": 448250
     },
     {
      "channel": "Mang đi",
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 13:28 ngày 24/11/2026",
+ "updated_label": "Quét live 13:39 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
