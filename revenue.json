@@ -125,14 +125,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 10:44–10:52 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 10:37: 126.500đ/3 HĐ/4 món (Ca 1: Giờ Vip ×2 = 94.500đ + Latte Socola ×2 = 32.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 126.500đ/3/4; HĐ mới nhất #2400004171 lúc 09:52, 58.500đ). Đơn chưa hoàn tất TĂNG từ 1 đơn/2.250đ (10:37–10:49) lên 2 đơn/52.250đ lúc 10:51 (Tại bàn 2 đơn/52.250đ; lần tải đầu lúc 10:50 hiện 0 sai, cuộn trang mới hiện đúng, kiểm tra lại 10:51 vẫn ổn định; chờ xác nhận thanh toán 0, ghi nợ 0) — thêm 1 đơn/50.000đ mà không có HĐ mới nào, phù hợp với 1 bàn mới bắt đầu chơi. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T10:51:00+07:00, OK, 2 đơn/52.250đ). KHÔNG gọi importsapodata (số live không đổi; getlive 24/11 xác nhận 126.500đ/3/4, Ca1 126.500 + Ca2 0 = tổng ngày). Tháng 11 lũy kế 90.632.400đ/933 HĐ/2.995 món (đến hết 24/11, khớp getmonthsummary và getlive).",
+ "source_note": "Quét live 10:58–11:01 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 10:51: 126.500đ/3 HĐ/4 món (Ca 1: Giờ Vip ×2 = 94.500đ + Latte Socola ×2 = 32.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 126.500đ/3/4; HĐ mới nhất #2400004171 lúc 09:52, 58.500đ). Đơn chưa hoàn tất KHÔNG ĐỔI 2 đơn/52.250đ lúc 11:00 (Tại bàn 2 đơn/52.250đ; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng, kiểm tra lại vẫn ổn định; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T11:00:00+07:00, OK, 2 đơn/52.250đ). KHÔNG gọi importsapodata (số live không đổi; getlive 24/11 xác nhận 126.500đ/3/4, Ca1 126.500 + Ca2 0 = tổng ngày). Tháng 11 lũy kế 90.632.400đ/933 HĐ/2.995 món (đến hết 24/11, khớp getmonthsummary và getlive).",
  "totals": {
   "revenue": 126500,
   "invoices": 3,
   "items": 4
  },
  "unpaid": {
-  "checked_at": "10:51 ngày 24/11/2026",
+  "checked_at": "11:00 ngày 24/11/2026",
   "unfinished": {
    "count": 2,
    "total": 52250,
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 10:51 ngày 24/11/2026",
+ "updated_label": "Quét live 11:00 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
