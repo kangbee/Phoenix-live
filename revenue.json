@@ -125,22 +125,22 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 13:45–13:48 ngày 24/11/2026 — ngày vận hành 24/11 tăng +56.000đ/+1 HĐ/+1 món so với quét 13:39 (614.750đ/9 HĐ/17 món → 670.750đ/10 HĐ/18 món, Ca 1); HĐ mới #2400004178 lúc 13:43 (56.000đ, Giờ Thường); Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng khớp nhau. ĐÃ gọi importsapodata (Ca 1, 10 HĐ, 18 món); getlive xác nhận 24/11 670.750đ/10/18, Ca1 670.750 + Ca2 0 = tổng ngày. Đơn chưa hoàn tất 8 đơn/482.500đ lúc 13:48 (toàn bộ Tại bàn; lúc 13:45 là 7 đơn/448.500đ, tăng +1 đơn/+34.000đ ngay trong lúc quét — có bàn mới mở/gọi thêm, kiểm chứng 3 lần sau tải lại + cuộn trang); chờ xác nhận thanh toán 0, ghi nợ 0. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:48:00+07:00, OK, 8 đơn/482.500đ); getunpaidorders xác nhận 8 đơn/482.500đ. Tháng 11 lũy kế 91.176.650đ/940 HĐ/3.009 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 13:52–13:55 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 13:48 (670.750đ/10 HĐ/18 món, Ca 1; Ca 2 = 0; giảm giá 0đ; HĐ mới nhất #2400004178 lúc 13:43); số live không đổi nên KHÔNG gọi lại importsapodata; getlive xác nhận 24/11 670.750đ/10/18, Ca1 670.750 + Ca2 0 = tổng ngày. Đơn chưa hoàn tất TĂNG 8 đơn/482.500đ lúc 13:48 → 8 đơn/538.500đ lúc 13:55 (kiểm chứng 2 lần sau tải lại + cuộn trang: 13:53 là 526.500đ, 13:55 là 538.500đ; số đơn không đổi, tiền tăng +56.000đ — phù hợp bàn đang mở gọi thêm món; toàn bộ Tại bàn); chờ xác nhận thanh toán 0, ghi nợ 0. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T13:55:00+07:00, OK, 8 đơn/538.500đ). Tháng 11 lũy kế 91.176.650đ/940 HĐ/3.009 món (đến hết 24/11, khớp getmonthsummary; khối month giữ nguyên).",
  "totals": {
   "revenue": 670750,
   "invoices": 10,
   "items": 18
  },
  "unpaid": {
-  "checked_at": "13:48 ngày 24/11/2026",
+  "checked_at": "13:55 ngày 24/11/2026",
   "unfinished": {
    "count": 8,
-   "total": 482500,
+   "total": 538500,
    "channels": [
     {
      "channel": "Tại bàn",
      "count": 8,
-     "total": 482500
+     "total": 538500
     },
     {
      "channel": "Mang đi",
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 13:48 ngày 24/11/2026",
+ "updated_label": "Quét live 13:55 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
