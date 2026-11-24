@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 0,
-  "items": 0,
-  "revenue": 0
+  "invoices": 1,
+  "items": 2,
+  "revenue": 32000
  },
  "ca2": {
   "closed": false,
@@ -16,14 +16,14 @@
  "day": "2026-11-24",
  "day_label": "Thứ ba, 24/11/2026",
  "drinks": {
-  "qty": 0,
-  "revenue": 0
+  "qty": 2,
+  "revenue": 32000
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 90505900,
-  "invoices": 930,
-  "note": "Tính đến hết ngày vận hành 23/11/2026",
+  "revenue": 90537900,
+  "invoices": 931,
+  "note": "Tính đến hết ngày vận hành 24/11/2026",
   "daily": [
    {
     "date": "01/11",
@@ -116,27 +116,31 @@
    {
     "date": "23/11",
     "revenue": 3552000
+   },
+   {
+    "date": "24/11",
+    "revenue": 32000
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 08:39–08:41 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 08:32: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu 07:00, Ca 2 chưa bắt đầu; quán chưa phát sinh bán hàng nào sau 07:00; giảm giá 0đ; HĐ mới nhất toàn hệ thống #2300004168 lúc 03:02, 401.750đ, thuộc ngày vận hành 23/11 đã chốt; Báo cáo doanh thu + Báo cáo mặt hàng + Dashboard + danh sách Hóa đơn khớp nhau ở 0). Ngày 23/11 đã chốt 07:20: 3.552.000đ/34 HĐ/92 món (Ca 1 210.000đ/2/10, Ca 2 3.342.000đ/32/82). Đơn chưa hoàn tất 0 đơn/0đ lúc 08:41 (đã tải lại dashboard; cả 4 kênh 0; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T08:41:00+07:00, OK, snapshot rỗng); getunpaidorders xác nhận scannedAt 08:41, 0 đơn/0đ. KHÔNG gọi importsapodata (Ca 1 chưa có món nào — action yêu cầu ít nhất 1 món; getlive 24/11 xác nhận 0đ/0/0 khớp Sapo). Tháng 11 lũy kế 90.505.900đ/930 HĐ/2.991 món (đến hết 23/11, khớp getmonthsummary và getlive).",
+ "source_note": "Quét live 08:45–08:50 ngày 24/11/2026 — ngày vận hành 24/11 TĂNG +32.000đ/+1 HĐ/+2 món so với quét 08:41 (0đ/0 HĐ/0 món → 32.000đ/1 HĐ/2 món, Ca 1; HĐ mới #2400004169 lúc 08:43, Latte Socola ×2, 32.000đ, thu ngân nvien mới; giảm giá 0đ; Báo cáo doanh thu + Báo cáo mặt hàng + Dashboard + danh sách Hóa đơn khớp nhau). ĐÃ gọi importsapodata Ca 1 (Latte Socola ×2, 32.000đ, Đồ Uống); getlive xác nhận ngày 24/11 32.000đ/1/2, Ca1 32.000 + Ca2 0 = tổng ngày, tháng 11 90.537.900đ/931 HĐ/2.993 món (đến hết 24/11, khớp getmonthsummary). Đơn chưa hoàn tất 2 đơn/2.250đ lúc 08:50 (Tại bàn 2 đơn/2.250đ; lần tải đầu hiện 0 sai, tải lại mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T08:50:00+07:00, OK, unfinishedCount 2, unfinishedTotal 2.250đ).",
  "totals": {
-  "revenue": 0,
-  "invoices": 0,
-  "items": 0
+  "revenue": 32000,
+  "invoices": 1,
+  "items": 2
  },
  "unpaid": {
-  "checked_at": "08:41 ngày 24/11/2026",
+  "checked_at": "08:50 ngày 24/11/2026",
   "unfinished": {
-   "count": 0,
-   "total": 0,
+   "count": 2,
+   "total": 2250,
    "channels": [
     {
      "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
+     "count": 2,
+     "total": 2250
     },
     {
      "channel": "Mang đi",
@@ -157,9 +161,37 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 08:41 ngày 24/11/2026",
+ "updated_label": "Quét live 08:50 ngày 24/11/2026",
  "views": {
-  "ca1": [],
-  "ca_ngay": []
+  "ca1": [
+   {
+    "name": "Đồ Uống",
+    "qty": 2,
+    "revenue": 32000,
+    "items": [
+     {
+      "name": "Latte Socola",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     }
+    ]
+   }
+  ],
+  "ca_ngay": [
+   {
+    "name": "Đồ Uống",
+    "qty": 2,
+    "revenue": 32000,
+    "items": [
+     {
+      "name": "Latte Socola",
+      "qty": 2,
+      "revenue": 32000,
+      "unit": "chai/lon"
+     }
+    ]
+   }
+  ]
  }
 }
