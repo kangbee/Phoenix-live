@@ -1,9 +1,9 @@
 {
  "ca1": {
   "closed": false,
-  "invoices": 11,
-  "items": 19,
-  "revenue": 733750
+  "invoices": 12,
+  "items": 20,
+  "revenue": 777750
  },
  "ca2": {
   "closed": false,
@@ -21,8 +21,8 @@
  },
  "month": {
   "label": "Tháng 11/2026 lũy kế",
-  "revenue": 91239650,
-  "invoices": 941,
+  "revenue": 91283650,
+  "invoices": 942,
   "note": "Tính đến hết ngày vận hành 24/11/2026",
   "daily": [
    {
@@ -119,20 +119,20 @@
    },
    {
     "date": "24/11",
-    "revenue": 733750
+    "revenue": 777750
    }
   ]
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 14:20–14:22 ngày 24/11/2026 — số live KHÔNG ĐỔI so với quét 14:14: ngày vận hành 24/11 733.750đ/11 HĐ/19 món, toàn bộ Ca 1 (Giờ Vip ×5 = 339.750đ + Giờ Thường ×3 = 164.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004179 lúc 14:07, 63.000đ; Tổng quan + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile) nên không gọi lại importsapodata. Đơn chưa hoàn tất TĂNG 9 đơn/630.750đ lúc 14:14 → 11 đơn/635.250đ lúc 14:20, kiểm tra lại 14:22 không đổi (số đơn +2, tổng tiền +4.500đ; toàn bộ Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — doanh thu đã thanh toán không đổi, HĐ mới nhất vẫn 14:07, nên 2 đơn tăng là 2 bàn mới mở; phù hợp, không cần hỏi nhân viên. ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T14:22:00+07:00, OK, 11 đơn/635.250đ); getunpaidorders xác nhận. Tháng 11 lũy kế 91.239.650đ/941 HĐ/3.010 món (đến hết 24/11, khớp getmonthsummary).",
+ "source_note": "Quét live 14:28–14:30 ngày 24/11/2026 — số live TĂNG +44.000đ/+1 HĐ/+1 món so với quét 14:22: ngày vận hành 24/11 777.750đ/12 HĐ/20 món, toàn bộ Ca 1 (Giờ Vip ×5 = 339.750đ + Giờ Thường ×4 = 208.000đ + Combo HS ×2 = 100.000đ + Latte Socola ×2 = 32.000đ + Cơ Thuê ×1 = 29.000đ + Tiền Hải Ngọt ×2 = 20.000đ + Nutri Dâu ×1 = 16.000đ + VELA to ×1 = 15.000đ + Nước Lọc ×1 = 10.000đ + VELA SANWICH ×1 = 8.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004180 lúc 14:27, 44.000đ; Tổng quan + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau; phiên Sapo còn hạn, không gặp Turnstile). Đơn chưa hoàn tất KHÔNG ĐỔI 11 đơn/635.250đ lúc 14:29 (toàn bộ Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T14:29:00+07:00, OK, 11 đơn/635.250đ); getlive xác nhận 777.750đ/12/20, Ca1 + Ca2 = tổng ngày. Tháng 11 lũy kế 91.283.650đ/942 HĐ/3.011 món (đến hết 24/11, khớp getmonthsummary).",
  "totals": {
-  "revenue": 733750,
-  "invoices": 11,
-  "items": 19
+  "revenue": 777750,
+  "invoices": 12,
+  "items": 20
  },
  "unpaid": {
-  "checked_at": "14:22 ngày 24/11/2026",
+  "checked_at": "14:29 ngày 24/11/2026",
   "unfinished": {
    "count": 11,
    "total": 635250,
@@ -161,13 +161,13 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 14:22 ngày 24/11/2026",
+ "updated_label": "Quét live 14:29 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
     "name": "Giờ chơi",
-    "qty": 8,
-    "revenue": 503750,
+    "qty": 9,
+    "revenue": 547750,
     "items": [
      {
       "name": "Giờ Vip",
@@ -177,8 +177,8 @@
      },
      {
       "name": "Giờ Thường",
-      "qty": 3,
-      "revenue": 164000,
+      "qty": 4,
+      "revenue": 208000,
       "unit": "lượt"
      }
     ]
@@ -263,8 +263,8 @@
   "ca_ngay": [
    {
     "name": "Giờ chơi",
-    "qty": 8,
-    "revenue": 503750,
+    "qty": 9,
+    "revenue": 547750,
     "items": [
      {
       "name": "Giờ Vip",
@@ -274,8 +274,8 @@
      },
      {
       "name": "Giờ Thường",
-      "qty": 3,
-      "revenue": 164000,
+      "qty": 4,
+      "revenue": 208000,
       "unit": "lượt"
      }
     ]
