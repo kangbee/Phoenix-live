@@ -125,14 +125,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 10:10–10:15 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 09:59 (126.500đ/3 HĐ/4 món; Ca 1: Giờ Vip ×2 = 94.500đ + Latte Socola ×2 = 32.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004171 lúc 09:52; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 126.500đ/3/4). Đơn chưa hoàn tất 1 đơn/2.250đ lúc 10:15 (Tại bàn 1 đơn/2.250đ; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T10:15:00+07:00, OK, 1 đơn/2.250đ). Số live không đổi nên KHÔNG gọi lại importsapodata; getlive 24/11 xác nhận 126.500đ/3/4, Ca1 126.500 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 90.632.400đ/933 HĐ/2.995 món (đến hết 24/11, khớp getmonthsummary và getlive).",
+ "source_note": "Quét live 10:21–10:25 ngày 24/11/2026 — ngày vận hành 24/11 KHÔNG ĐỔI so với quét 10:15 (126.500đ/3 HĐ/4 món; Ca 1: Giờ Vip ×2 = 94.500đ + Latte Socola ×2 = 32.000đ; Ca 2 chưa bắt đầu; giảm giá 0đ; HĐ mới nhất #2400004171 lúc 09:52; Dashboard + Báo cáo doanh thu + Báo cáo mặt hàng + danh sách Hóa đơn khớp nhau ở 126.500đ/3/4). Đơn chưa hoàn tất 1 đơn/2.250đ lúc 10:25 (Tại bàn 1 đơn/2.250đ; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0). ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-24T10:25:00+07:00, OK, 1 đơn/2.250đ). Số live không đổi nên KHÔNG gọi lại importsapodata; getlive 24/11 xác nhận 126.500đ/3/4, Ca1 126.500 + Ca2 0 = tổng ngày. Tháng 11 lũy kế 90.632.400đ/933 HĐ/2.995 món (đến hết 24/11, khớp getmonthsummary và getlive).",
  "totals": {
   "revenue": 126500,
   "invoices": 3,
   "items": 4
  },
  "unpaid": {
-  "checked_at": "10:15 ngày 24/11/2026",
+  "checked_at": "10:25 ngày 24/11/2026",
   "unfinished": {
    "count": 1,
    "total": 2250,
@@ -161,7 +161,7 @@
   },
   "orders": []
  },
- "updated_label": "Quét live 10:15 ngày 24/11/2026",
+ "updated_label": "Quét live 10:25 ngày 24/11/2026",
  "views": {
   "ca1": [
    {
