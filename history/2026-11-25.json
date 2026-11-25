@@ -125,14 +125,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 08:03–08:08 ngày 25/11/2026 — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 07:55: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu 07:00, Ca 2 chưa bắt đầu; quán chưa phát sinh bán hàng nào sau 07:00; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau, đều 0; khung Sapo 07:15–07:15 và khung vận hành 07:00–07:00 đều 0; HĐ mới nhất toàn hệ thống #2400004224 lúc 03:18 thuộc ngày 24/11, cùng 3 HĐ rạng sáng #4223 02:42 30.000đ, #4222 01:11 169.000đ, #4221 01:04 92.000đ) — số live không đổi nên không gọi lại importsapodata; getlive xác nhận 25/11 0đ/0/0. Đơn chưa hoàn tất 0 đơn/0đ lúc 08:08 (đã tải lại + cuộn trang, kiểm chứng 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T08:08:00+07:00, OK, 0 đơn/0đ); tháng 11 95.533.400đ/986 HĐ/3.138 món (getmonthsummary, đến hết 24/11). Không có cờ biến mất mới.",
+  "source_note": "Quét live 08:14–08:17 ngày 25/11/2026 — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 08:08: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu 07:00, Ca 2 chưa bắt đầu; quán chưa phát sinh bán hàng nào sau 07:00; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau, đều 0; khung Sapo 07:15–07:15 và khung vận hành 07:00–07:00 đều 0; HĐ mới nhất toàn hệ thống #2400004224 lúc 03:18 thuộc ngày 24/11, cùng 3 HĐ rạng sáng #4223 02:42 30.000đ, #4222 01:11 169.000đ, #4221 01:04 92.000đ) — số live không đổi nên không gọi lại importsapodata; getlive xác nhận 25/11 0đ/0/0. Đơn chưa hoàn tất 0 đơn/0đ lúc 08:16 (đã tải lại + cuộn trang, kiểm chứng 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T08:16:00+07:00, OK, 0 đơn/0đ); tháng 11 95.533.400đ/986 HĐ/3.138 món (getmonthsummary, đến hết 24/11). Lưu ý: trình duyệt lần này đọc HĐ mới nhất toàn hệ thống là #4001 145.000đ lúc 03:18 (cùng #4000 02:42 185.000đ, #3999 01:11 145.000đ), khác số đã chốt ngày 24/11 (#2400004224 132.000đ lúc 03:18; #4223 02:42 30.000đ; #4222 01:11 169.000đ) — có thể trình duyệt đọc nhầm cột/mã khác; ngày 24/11 đã chốt 5.027.500đ/56 HĐ và đã kiểm chứng nhiều lần nên không đổi số chốt, chỉ ghi chú để đối chiếu.",
   "totals": {
     "revenue": 0,
     "invoices": 0,
     "items": 0
   },
   "unpaid": {
-    "checked_at": "08:08 ngày 25/11/2026",
+    "checked_at": "08:16 ngày 25/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -161,7 +161,7 @@
     },
     "orders": []
   },
-  "updated_label": "Quét live 08:08 ngày 25/11/2026",
+  "updated_label": "Quét live 08:16 ngày 25/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
