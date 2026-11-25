@@ -125,14 +125,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 07:31–07:34 ngày 25/11/2026 — ngày vận hành MỚI 25/11: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu 07:00, Ca 2 chưa bắt đầu; quán chưa phát sinh bán hàng nào sau 07:00; giảm giá 0đ; Sapo đã lật sang ngày vận hành mới — bộ lọc 'Hôm qua' 5.027.500đ/56 HĐ, 'Hôm nay' 0; Báo cáo mặt hàng 'Chưa ghi nhận báo cáo'; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng khớp nhau) — số live không đổi (app đã 0đ/0 HĐ) nên không gọi lại importsapodata. Đơn chưa hoàn tất 0 đơn/0đ lúc 07:33 (đã tải lại + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T07:33:00+07:00, OK, 0 đơn/0đ); getunpaidorders xác nhận scannedAt 00:33Z, 0 đơn/0đ; tháng 11 95.533.400đ/986 HĐ/3.138 món (getmonthsummary, đến hết 24/11). Không có cờ biến mất mới.",
+  "source_note": "Quét live 07:52–07:55 ngày 25/11/2026 — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 07:45: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu 07:00, Ca 2 chưa bắt đầu; quán chưa phát sinh bán hàng nào sau 07:00; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau, đều 0; bộ chọn Giờ trên Báo cáo hiển thị '07:15 - 07:15 (+1)' — khung Sapo 07:15–07:15 khác khung vận hành 07:00–07:00, nhưng lọc Ca 1 07:00–19:00 cũng 0 nên theo cả hai khung đều 0; HĐ mới nhất toàn hệ thống #2400004224 lúc 03:18 thuộc ngày 24/11) — số live không đổi nên không gọi lại importsapodata; getlive xác nhận 25/11 0đ/0/0. Đơn chưa hoàn tất 0 đơn/0đ lúc 07:55 (đã tải lại + cuộn trang, kiểm chứng 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T07:55:00+07:00, OK, 0 đơn/0đ); tháng 11 95.533.400đ/986 HĐ/3.138 món (getmonthsummary, đến hết 24/11). Không có cờ biến mất mới.",
   "totals": {
     "revenue": 0,
     "invoices": 0,
     "items": 0
   },
   "unpaid": {
-    "checked_at": "07:45 ngày 25/11/2026",
+    "checked_at": "07:55 ngày 25/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -161,7 +161,7 @@
     },
     "orders": []
   },
-  "updated_label": "Quét live 07:45 ngày 25/11/2026",
+  "updated_label": "Quét live 07:55 ngày 25/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
