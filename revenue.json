@@ -7,22 +7,22 @@
   },
   "ca2": {
     "closed": false,
-    "invoices": 2,
-    "items": 2,
-    "revenue": 100000
+    "invoices": 3,
+    "items": 5,
+    "revenue": 201000
   },
   "costs": {},
   "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
   "day": "2026-11-25",
   "day_label": "Thứ tư, 25/11/2026",
   "drinks": {
-    "qty": 2,
-    "revenue": 25000
+    "qty": 4,
+    "revenue": 58000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 95882400,
-    "invoices": 993,
+    "revenue": 95983400,
+    "invoices": 994,
     "note": "Tính đến hết ngày vận hành 25/11/2026",
     "daily": [
       {
@@ -123,28 +123,28 @@
       },
       {
         "date": "25/11",
-        "revenue": 349000
+        "revenue": 450000
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 20:06–20:11 ngày 25/11/2026 — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 19:54: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12); đơn chưa hoàn tất 8 đơn/356.000đ (tăng 1 đơn/50.000đ so với 306.000đ lúc 19:54, bàn mới vào chơi; Tại bàn); chờ xác nhận thanh toán 0, ghi nợ 0; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau.. Quét live 20:19–20:21 ngày 25/11/2026 (browser-task 2c6b1958-7bcb-5dc1-bcd6-afe1b59df277; runtime đo 20:18–20:21) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:11: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12; Combo HS ×5 274.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 299.000đ/6/7, tháng 11 95.832.400đ/992 HĐ/3.145 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất TĂNG 1 đơn/75.500đ (Tại bàn) lúc 20:11 → 9 đơn/431.500đ lúc 20:21 (bàn mới vào chơi, không có HĐ mới; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:21:00+07:00, OK, 9 đơn/431.500đ; trả về scannedAt 13:21Z). Không có cờ bàn biến mất (số đơn chưa hoàn tất tăng, không giảm).. Quét live 20:26–20:30 ngày 25/11/2026 (browser-task 32b6cbd6-0c50-528c-9024-76778c2166df; runtime đo 20:26–20:30) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:21: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12; Combo HS ×5 274.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 299.000đ/6/7, tháng 11 95.832.400đ/992 HĐ/3.145 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất GIẢM MẠNH 9 đơn/431.500đ lúc 20:21 → 0 đơn/0đ lúc 20:28–20:29 (đã tải lại trang + đọc ổn định 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:29:00+07:00, OK, 0 đơn/0đ; trả về scannedAt 13:29Z). CỜ MỚI: 9 bàn 431.500đ biến mất 20:21→20:29 mà KHÔNG có hóa đơn mới nào (HĐ mới nhất vẫn #2400004230 lúc 19:12) — có thể là widget dashboard hiển thị 0 sai hoặc 9 bàn đã hủy/không thành HĐ; lần quét sau xác nhận lại, nếu đến lúc chốt ca vẫn 0 và không có HĐ mới thì cần nhân viên kiểm tra.. Quét live 20:35–20:38 ngày 25/11/2026 (browser-task 863419b4-2dca-53c8-8880-4573cf9ff0ce; runtime đo 20:35–20:38) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:29: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12); đơn chưa hoàn tất HIỆN LẠI 11 đơn/549.250đ (Tại bàn; tăng +2 đơn/+117.750đ so với 9 đơn/431.500đ lúc 20:21) — số 0 lúc 20:29 là widget chưa tải xong khi chưa cuộn trang, không phải bàn biến mất, cờ đã khép; chờ xác nhận thanh toán 0, ghi nợ 0; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau. Quét live 20:42–20:45 ngày 25/11/2026 (browser-task 3dd098a0-9343-5158-be40-cf5435377db4; runtime đo 20:42–20:45) — ngày vận hành 25/11 ĐỔI so với quét 20:38 (299.000đ/6 HĐ/7 món → 349.000đ/7 HĐ/8 món; Ca 1 249.000đ/5/6 không đổi, Ca 2 100.000đ/2/2; giảm giá 0đ; món cả ngày: Combo HS ×6 324.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; HĐ mới nhất #2400004231 50.000đ lúc 20:39, bàn E42716 Bàn Chơi - 6, thu ngân Hoàng Hà; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — ĐÃ gọi importsapodata (Ca 2, Combo HS ×2 100.000đ, 2 HĐ); getlive xác nhận 25/11 349.000đ/7/8 (Ca 1 249.000đ/5/6 + Ca 2 100.000đ/2/2), tháng 11 95.882.400đ/993 HĐ/3.146 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất GIẢM 11 đơn/549.250đ lúc 20:38 → 10 đơn/499.250đ lúc 20:44 (Tại bàn; giảm đúng 50.000đ = HĐ #2400004231 vừa thanh toán; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:44:00+07:00, OK, 10 đơn/499.250đ; trả về scannedAt 13:44Z; getunpaidorders xác nhận 13:44Z, 10 đơn/499.250đ). Không có cờ biến mất mới. Banner gói Pro sắp hết hạn 27/11/2026 — cần gia hạn trước 27/11. Quét live 21:03–21:05 ngày 25/11/2026 (browser-task 3c41c1ec-07f6-5e94-a8e0-8159ab4523ff; runtime đo 21:03–21:05) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:55: 349.000đ/7 HĐ/8 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 100.000đ/2/2, HĐ mới nhất #2400004231 lúc 20:39; Combo HS ×6 324.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 349.000đ/7/8, tháng 11 95.882.400đ/993 HĐ/3.146 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất KHÔNG ĐỔI 10 đơn/499.250đ (Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T21:05:00+07:00, OK, 10 đơn/499.250đ; trả về scannedAt 14:05Z). Không có cờ bàn biến mất.",
+  "source_note": "Quét live 20:06–20:11 ngày 25/11/2026 — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 19:54: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12); đơn chưa hoàn tất 8 đơn/356.000đ (tăng 1 đơn/50.000đ so với 306.000đ lúc 19:54, bàn mới vào chơi; Tại bàn); chờ xác nhận thanh toán 0, ghi nợ 0; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau.. Quét live 20:19–20:21 ngày 25/11/2026 (browser-task 2c6b1958-7bcb-5dc1-bcd6-afe1b59df277; runtime đo 20:18–20:21) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:11: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12; Combo HS ×5 274.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 299.000đ/6/7, tháng 11 95.832.400đ/992 HĐ/3.145 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất TĂNG 1 đơn/75.500đ (Tại bàn) lúc 20:11 → 9 đơn/431.500đ lúc 20:21 (bàn mới vào chơi, không có HĐ mới; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:21:00+07:00, OK, 9 đơn/431.500đ; trả về scannedAt 13:21Z). Không có cờ bàn biến mất (số đơn chưa hoàn tất tăng, không giảm).. Quét live 20:26–20:30 ngày 25/11/2026 (browser-task 32b6cbd6-0c50-528c-9024-76778c2166df; runtime đo 20:26–20:30) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:21: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12; Combo HS ×5 274.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 299.000đ/6/7, tháng 11 95.832.400đ/992 HĐ/3.145 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất GIẢM MẠNH 9 đơn/431.500đ lúc 20:21 → 0 đơn/0đ lúc 20:28–20:29 (đã tải lại trang + đọc ổn định 2 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:29:00+07:00, OK, 0 đơn/0đ; trả về scannedAt 13:29Z). CỜ MỚI: 9 bàn 431.500đ biến mất 20:21→20:29 mà KHÔNG có hóa đơn mới nào (HĐ mới nhất vẫn #2400004230 lúc 19:12) — có thể là widget dashboard hiển thị 0 sai hoặc 9 bàn đã hủy/không thành HĐ; lần quét sau xác nhận lại, nếu đến lúc chốt ca vẫn 0 và không có HĐ mới thì cần nhân viên kiểm tra.. Quét live 20:35–20:38 ngày 25/11/2026 (browser-task 863419b4-2dca-53c8-8880-4573cf9ff0ce; runtime đo 20:35–20:38) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:29: 299.000đ/6 HĐ/7 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 50.000đ/1/1, HĐ mới nhất #2400004230 lúc 19:12); đơn chưa hoàn tất HIỆN LẠI 11 đơn/549.250đ (Tại bàn; tăng +2 đơn/+117.750đ so với 9 đơn/431.500đ lúc 20:21) — số 0 lúc 20:29 là widget chưa tải xong khi chưa cuộn trang, không phải bàn biến mất, cờ đã khép; chờ xác nhận thanh toán 0, ghi nợ 0; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau. Quét live 20:42–20:45 ngày 25/11/2026 (browser-task 3dd098a0-9343-5158-be40-cf5435377db4; runtime đo 20:42–20:45) — ngày vận hành 25/11 ĐỔI so với quét 20:38 (299.000đ/6 HĐ/7 món → 349.000đ/7 HĐ/8 món; Ca 1 249.000đ/5/6 không đổi, Ca 2 100.000đ/2/2; giảm giá 0đ; món cả ngày: Combo HS ×6 324.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; HĐ mới nhất #2400004231 50.000đ lúc 20:39, bàn E42716 Bàn Chơi - 6, thu ngân Hoàng Hà; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — ĐÃ gọi importsapodata (Ca 2, Combo HS ×2 100.000đ, 2 HĐ); getlive xác nhận 25/11 349.000đ/7/8 (Ca 1 249.000đ/5/6 + Ca 2 100.000đ/2/2), tháng 11 95.882.400đ/993 HĐ/3.146 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất GIẢM 11 đơn/549.250đ lúc 20:38 → 10 đơn/499.250đ lúc 20:44 (Tại bàn; giảm đúng 50.000đ = HĐ #2400004231 vừa thanh toán; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T20:44:00+07:00, OK, 10 đơn/499.250đ; trả về scannedAt 13:44Z; getunpaidorders xác nhận 13:44Z, 10 đơn/499.250đ). Không có cờ biến mất mới. Banner gói Pro sắp hết hạn 27/11/2026 — cần gia hạn trước 27/11. Quét live 21:03–21:05 ngày 25/11/2026 (browser-task 3c41c1ec-07f6-5e94-a8e0-8159ab4523ff; runtime đo 21:03–21:05) — ngày vận hành 25/11 KHÔNG ĐỔI so với quét 20:55: 349.000đ/7 HĐ/8 món (Ca 1 249.000đ/5/6 đã chốt, Ca 2 100.000đ/2/2, HĐ mới nhất #2400004231 lúc 20:39; Combo HS ×6 324.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 25/11 349.000đ/7/8, tháng 11 95.882.400đ/993 HĐ/3.146 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất KHÔNG ĐỔI 10 đơn/499.250đ (Tại bàn; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T21:05:00+07:00, OK, 10 đơn/499.250đ; trả về scannedAt 14:05Z). Không có cờ bàn biến mất.. Quét live 21:11–21:15 ngày 25/11/2026 (browser-task 9a4e8a6b-499e-54f9-baad-b1d4102da18b; runtime đo 21:11–21:15) — ngày vận hành 25/11 ĐỔI so với quét 21:05 (349.000đ/7 HĐ/8 món → 450.000đ/8 HĐ/11 món; Ca 1 249.000đ/5/6 không đổi, Ca 2 201.000đ/3/5; giảm giá 0đ; món cả ngày: Combo HS ×6 324.000đ, Giờ Thường ×1 68.000đ, Bò Húc ×1 17.000đ, Boncha Yuzu ×1 16.000đ, O độ ×1 15.000đ, Tiền Hải Ngọt ×1 10.000đ; HĐ mới nhất #2400004232 101.000đ lúc 21:09, bàn E59363 Bàn Chơi-7, thu ngân Hoàng Hà; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — ĐÃ gọi importsapodata (Ca 2, Combo HS ×2 100.000đ + Giờ Thường ×1 68.000đ + Bò Húc ×1 17.000đ + Boncha Yuzu ×1 16.000đ, 3 HĐ); getlive xác nhận 25/11 450.000đ/8/11 (Ca 1 249.000đ/5/6 + Ca 2 201.000đ/3/5), tháng 11 95.983.400đ/994 HĐ/3.149 món (getmonthsummary, đến hết 25/11). Đơn chưa hoàn tất GIẢM 10 đơn/499.250đ lúc 21:05 → 9 đơn/456.250đ lúc 21:15 (Tại bàn; giảm ròng 43.000đ — HĐ #2400004232 101.000đ vừa thanh toán từ đơn chưa hoàn tất, có bàn mới vào chơi bù lại; lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện số thật; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-25T21:15:00+07:00, OK, 9 đơn/456.250đ; trả về scannedAt 14:15Z). Không có bằng chứng bàn biến mất mà không thành hóa đơn. Lưu ý: widget Doanh thu nhân viên chỉ hiện nvien mới 450.000đ trong khi danh sách HĐ cho Hoàng Hà 151.000đ/2 HĐ Ca 2 — lệch cách quy nhân viên trên dashboard, tổng ngày khớp.",
   "totals": {
-    "revenue": 349000,
-    "invoices": 7,
-    "items": 8
+    "revenue": 450000,
+    "invoices": 8,
+    "items": 11
   },
   "unpaid": {
-    "checked_at": "21:05 ngày 25/11/2026",
+    "checked_at": "21:15 ngày 25/11/2026",
     "unfinished": {
-      "count": 10,
-      "total": 499250,
+      "count": 9,
+      "total": 456250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 10,
-          "total": 499250
+          "count": 9,
+          "total": 456250
         },
         {
           "channel": "Mang đi",
@@ -165,7 +165,7 @@
     },
     "orders": []
   },
-  "updated_label": "Quét live 21:05 ngày 25/11/2026",
+  "updated_label": "Quét live 21:15 ngày 25/11/2026",
   "views": {
     "ca1": [
       {
@@ -210,6 +210,19 @@
     ],
     "ca_ngay": [
       {
+        "name": "Giờ chơi",
+        "qty": 1,
+        "revenue": 68000,
+        "items": [
+          {
+            "name": "Giờ Thường",
+            "qty": 1,
+            "revenue": 68000,
+            "unit": "lượt"
+          }
+        ]
+      },
+      {
         "name": "Combo",
         "qty": 6,
         "revenue": 324000,
@@ -224,13 +237,25 @@
       },
       {
         "name": "Đồ Uống",
-        "qty": 1,
-        "revenue": 15000,
+        "qty": 3,
+        "revenue": 48000,
         "items": [
           {
             "name": "O độ",
             "qty": 1,
             "revenue": 15000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Bò Húc",
+            "qty": 1,
+            "revenue": 17000,
+            "unit": "chai/lon"
+          },
+          {
+            "name": "Boncha Yuzu",
+            "qty": 1,
+            "revenue": 16000,
             "unit": "chai/lon"
           }
         ]
