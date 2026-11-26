@@ -140,15 +140,15 @@
     "items": 66
   },
   "unpaid": {
-    "checked_at": "00:47 ngày 27/11/2026",
+    "checked_at": "01:07 ngày 27/11/2026",
     "unfinished": {
-      "count": 0,
-      "total": 0,
+      "count": 2,
+      "total": 196000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 0,
-          "total": 0
+          "count": 2,
+          "total": 196000
         },
         {
           "channel": "Mang đi",
@@ -169,7 +169,7 @@
     },
     "orders": []
   },
-  "updated_label": "00:47 ngày 27/11/2026",
+  "updated_label": "01:07 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
