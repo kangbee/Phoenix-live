@@ -137,14 +137,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 13:21–13:24 ngày 27/11/2026 (browser-task 18580eb7-eff8-508a-921e-b85e926ab227; runtime đo 13:21–13:24) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 13:13: 74.000đ/2 HĐ/2 món (Ca 1 74.000đ/2/2: Combo HS 50.000đ/1, Giờ Thường 24.000đ/1; Ca 2 0đ; HĐ mới nhất #2400004274 50.000đ lúc 12:38, Bàn Chơi - 3; không có HĐ sau 12:38; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 74.000đ/2/2; tháng 11 99.124.650đ/1.036 HĐ/3.246 món (getmonthsummary, đến hết 27/11; còn thiếu 875.350đ tới 100 triệu). Đơn chưa hoàn tất THAY ĐỔI: 5 đơn/296.250đ lúc 13:13 → 6 đơn/346.250đ tại bàn lúc 13:23–13:24, tăng 1 đơn/50.000đ (đúng 1 Combo HS — có bàn mới mở trong lúc quét; lần tải đầu lúc 13:21 hiện 5 đơn/296.250đ, lần tải lại hiện 0 trong lúc widget đang tải, lần tải lại tiếp theo hiện 6 đơn/346.250đ và giữ nguyên qua 2 lần xem liên tiếp; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T13:24:00+07:00, OK, 6 đơn/346.250đ; trả về scannedAt 06:24Z; getunpaidorders xác nhận). CỜ: đơn chưa hoàn tất tăng thêm mà không có HĐ mới nào sau 12:38 — các bàn mở vẫn đang phát sinh thêm, cần hỏi nhân viên. Cờ cũ vẫn mở: đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải.",
+  "source_note": "Quét live 13:29–13:32 ngày 27/11/2026 (browser-task f4b2e1ca-aac9-517a-ac12-0a062a48577f; runtime đo 13:29–13:32) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 13:24: 74.000đ/2 HĐ/2 món (Ca 1 74.000đ/2/2: Combo HS 50.000đ/1, Giờ Thường 24.000đ/1; Ca 2 0đ; HĐ mới nhất #2400004274 50.000đ lúc 12:38, Bàn Chơi - 3; không có HĐ sau 12:38; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 74.000đ/2/2; tháng 11 99.124.650đ/1.036 HĐ/3.246 món (getmonthsummary, đến hết 27/11; còn thiếu 875.350đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI: 6 đơn/346.250đ tại bàn lúc 13:31–13:32 (lần tải đầu 13:29 hiện 0 sai, tải lại 13:31 vẫn 0, cuộn trang mới hiện đúng 6 đơn/346.250đ; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T13:32:00+07:00, OK, 6 đơn/346.250đ; trả về scannedAt 06:32Z; getunpaidorders xác nhận). CỜ: 6 đơn/346.250đ tại bàn vẫn mở, không có HĐ mới sau 12:38 — cần hỏi nhân viên. Cờ cũ vẫn mở: đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải.",
   "totals": {
     "revenue": 74000,
     "invoices": 2,
     "items": 2
   },
   "unpaid": {
-    "checked_at": "13:24 ngày 27/11/2026",
+    "checked_at": "13:32 ngày 27/11/2026",
     "unfinished": {
       "count": 6,
       "total": 346250,
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "13:24 ngày 27/11/2026",
+  "updated_label": "13:32 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
