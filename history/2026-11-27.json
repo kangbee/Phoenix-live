@@ -137,22 +137,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 12:00–12:06 ngày 27/11/2026 (browser-task b5b58f2b-e426-5242-a136-b3bd9d18706a; runtime đo 12:00–12:06) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 11:53: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 24.000đ/1/1, tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI: 2 đơn/116.000đ tại bàn lúc 12:03 (đã tải lại trang — lần tải đầu hiện 0 sai; chờ xác nhận thanh toán 0, ghi nợ 0; 2 đơn là đơn mở tại bàn chưa tạo HĐ nên không có mã tham chiếu/chi tiết từng đơn) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T12:03:00+07:00, OK, 2 đơn/116.000đ; trả về scannedAt 05:03Z). Tab Đã hủy: chỉ có HĐ cũ #1100000172 ngày 18/08/2026, không có HĐ hủy mới ngày 27/11 — đơn 50.000đ biến mất 11:34→11:41 và đơn 116.000đ biến mất đêm 26/11 không nằm trong Đã hủy. Gói Pro: không thấy banner hết hạn 27/11. Cờ: 2 đơn/116.000đ vẫn mở từ 11:52, chưa thành HĐ — trùng tổng 116.000đ với đơn biến mất đêm 26/11 nhưng chưa có bằng chứng là cùng đơn; đơn 50.000đ biến mất 11:34→11:41 vẫn chưa rõ — cần hỏi nhân viên; đơn 116.000đ biến mất 02:07→02:18 vẫn không hiện lại; đơn 2.000đ biến mất 09:17→09:35 vẫn không hiện lại; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại.",
+  "source_note": "Quét live 12:12–12:18 ngày 27/11/2026 (browser-task 1322460c-982b-52b0-89fc-c6fb820e50d8; runtime đo 12:12–12:18) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 12:03: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất THAY ĐỔI: 2 đơn/116.000đ tại bàn lúc 12:03 → 0 đơn/0đ lúc 12:14 (đã tải lại trang + cuộn xuống; chờ xác nhận thanh toán 0, ghi nợ 0) — 2 đơn biến mất mà không thành HĐ đã thanh toán (tiền đã thanh toán trong ngày vẫn 24.000đ/1 HĐ) và không nằm trong Đã hủy (chỉ có HĐ cũ #1100000172 ngày 18/08/2026) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T12:14:00+07:00, OK, snapshot trống 0 đơn/0đ; trả về scannedAt 05:14Z). Cờ: 2 đơn/116.000đ mở từ 11:52 đã biến mất 12:03→12:14 không thành HĐ, không hủy — cần hỏi nhân viên; trùng tổng 116.000đ với đơn biến mất đêm 26/11 (02:07–02:18) nhưng chưa có bằng chứng là cùng đơn; đơn 50.000đ biến mất 11:34→11:41 vẫn chưa rõ; đơn 2.000đ biến mất 09:17→09:35 vẫn không hiện lại; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại.",
   "totals": {
     "revenue": 24000,
     "invoices": 1,
     "items": 1
   },
   "unpaid": {
-    "checked_at": "12:03 ngày 27/11/2026",
+    "checked_at": "12:14 ngày 27/11/2026",
     "unfinished": {
-      "count": 2,
-      "total": 116000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 2,
-          "total": 116000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "12:03 ngày 27/11/2026",
+  "updated_label": "12:14 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
