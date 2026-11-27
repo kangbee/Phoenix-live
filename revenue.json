@@ -137,14 +137,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 05:29–05:34 ngày 28/11/2026 (browser-task dd63e703-53b0-5b5c-ac28-313c13a9252d; runtime đo 05:29–05:34) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 05:24: ngày 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; không có HĐ mới sau #2400004326 lúc 03:46 10.000đ; giảm giá 0đ; toàn bộ tiền mặt 4.530.000đ, chuyển khoản/thẻ/ví/ghi nợ 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; không có HĐ mới 03:46–05:33) — KHÔNG gọi importsapodata (số không đổi); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 05:24 → 0 đơn/0đ lúc 05:33 (đã tải lại trang + cuộn; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T05:33:00+07:00, OK, snapshot rỗng; trả về scannedAt 22:33Z). Tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu).",
+ "source_note": "Quét live 05:40–05:46 ngày 28/11/2026 (browser-task 3530b3bc-6c7f-5180-b4b1-b718a781407f; runtime đo 05:40–05:46) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 05:30–05:31: ngày 27/11 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; HĐ mới nhất #2400004326 lúc 03:46 10.000đ; không có HĐ mới sau 03:46; giảm giá 0đ; toàn bộ tiền mặt 4.530.000đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên không gọi lại importsapodata; getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 05:33 → 0 đơn/0đ lúc 05:45 (đã tải lại trang Tổng quan; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T05:45:00+07:00, OK, snapshot rỗng; getunpaidorders xác nhận 0/0đ lúc 22:45Z). Tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11)..",
  "totals": {
   "invoices": 54,
   "items": 128,
   "revenue": 4530000
  },
  "unpaid": {
-  "checked_at": "05:33 ngày 28/11/2026",
+  "checked_at": "05:45 ngày 28/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
@@ -173,7 +173,7 @@
    "total": 0
   }
  },
- "updated_label": "05:36 ngày 28/11/2026",
+ "updated_label": "05:47 ngày 28/11/2026",
  "views": {
   "ca1": [],
   "ca_ngay": []
