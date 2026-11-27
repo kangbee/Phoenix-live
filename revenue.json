@@ -137,14 +137,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 10:09–10:12 ngày 27/11/2026 — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 10:02: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 24.000đ/1/1, tháng 11 99.074.650đ/1.035 HĐ/3.245 món (đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất 0 đơn/0đ lúc 10:10–10:11 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T10:11:00+07:00, OK, 0 đơn/0đ). Lưu ý: đơn 2.000đ xuất hiện lúc 09:17 vẫn không hiện lại, cũng không thành hóa đơn — cần nhân viên kiểm tra. Gói Pro: không thấy banner/thông báo hết hạn (đã kiểm tra chuông thông báo, 5 thông báo mới nhất toàn quảng cáo/sự kiện).",
+  "source_note": "Quét live 10:18–10:21 ngày 27/11/2026 — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 10:11: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 24.000đ/1/1, tháng 11 99.074.650đ/1.035 HĐ/3.245 món (đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất 0 đơn/0đ lúc 10:20 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T10:20:00+07:00, OK, 0 đơn/0đ). Lưu ý: 2 HĐ lúc 01:38 (110.000đ) và 02:45 (206.000đ) ngày 27/11 thuộc Ca 2 ngày vận hành 26/11, không tính vào ngày 27/11; đơn 2.000đ xuất hiện lúc 09:17 vẫn không hiện lại, cũng không thành hóa đơn — cần nhân viên kiểm tra.",
   "totals": {
     "revenue": 24000,
     "invoices": 1,
     "items": 1
   },
   "unpaid": {
-    "checked_at": "10:11 ngày 27/11/2026",
+    "checked_at": "10:20 ngày 27/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "10:11 ngày 27/11/2026",
+  "updated_label": "10:20 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
