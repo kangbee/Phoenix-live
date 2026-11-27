@@ -137,14 +137,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:01–14:04 ngày 27/11/2026 (browser-task 44720dbb-f582-51c8-b51f-5ac3d936ad24; runtime đo 14:01–14:04) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 13:54 (335.500đ/5 HĐ/13 món, Ca 1; không có HĐ mới; HĐ mới nhất #2400004277 100.500đ 13:38; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 335.500đ/5/13 (Ca 1 335.500đ + Ca 2 0đ); tháng 11 99.386.150đ/1.039 HĐ/3.257 món (getmonthsummary, đến hết 27/11; còn thiếu 613.850đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI 5 đơn/202.000đ tại bàn lúc 14:03 (đã tải lại trang + cuộn xuống; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T14:03:00+07:00, OK, 5 đơn/202.000đ; trả về scannedAt 07:03Z; getunpaidorders xác nhận).",
+  "source_note": "Quét live 14:10–14:12 ngày 27/11/2026 (browser-task 4d19ad6c-bfb0-550a-8714-6806ee1ae95f; runtime đo 14:10–14:12) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 14:03 (335.500đ/5 HĐ/13 món, Ca 1; không có HĐ mới; HĐ mới nhất #2400004277 100.500đ 13:38 Bàn 5; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 335.500đ/5/13 (Ca 1 335.500đ + Ca 2 0đ); tháng 11 99.386.150đ/1.039 HĐ/3.257 món (getmonthsummary, đến hết 27/11; còn thiếu 613.850đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI 5 đơn/202.000đ tại bàn lúc 14:12 (đã tải lại trang + cuộn xuống; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T14:12:00+07:00, OK, 5 đơn/202.000đ; trả về scannedAt 07:12Z; getunpaidorders xác nhận).",
   "totals": {
     "revenue": 335500,
     "invoices": 5,
     "items": 13
   },
   "unpaid": {
-    "checked_at": "14:03 ngày 27/11/2026",
+    "checked_at": "14:12 ngày 27/11/2026",
     "unfinished": {
       "count": 5,
       "total": 202000,
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "14:03 ngày 27/11/2026",
+  "updated_label": "14:12 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
