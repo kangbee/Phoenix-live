@@ -137,22 +137,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 11:30–11:34 ngày 27/11/2026 (browser-task 991ae31d-6812-5038-ad16-c40571da7ab0; runtime đo 11:30–11:34) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 11:24: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 24.000đ/1/1, tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI 1 đơn/50.000đ tại bàn lúc 11:31–11:34 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0 — đơn 50.000đ chưa có hóa đơn nên không liệt kê được món) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T11:34:00+07:00, OK, 1 đơn/50.000đ; trả về scannedAt 04:34Z). Gói Pro: trong Sapo FnB không thấy banner/thông báo hết hạn 27/11 (tài khoản vẫn 'Gói Pro'). Cờ: đơn 116.000đ biến mất 02:07→02:18 vẫn không hiện lại, không thành HĐ — giả thuyết mới chưa xác minh: có thể là tổng tạm tính lúc đó của đơn Bàn Chơi - 3 (mở 00:13, chốt 02:45 thành HĐ #2400004272 206.000đ sau khi gọi thêm món/giờ chơi tăng thêm); đơn 2.000đ biến mất 09:17→09:35 vẫn không hiện lại — cần nhân viên kiểm tra; đơn 50.000đ tại bàn lúc 10:39 vẫn còn đến 11:34, chưa thành HĐ.",
+  "source_note": "Quét live 11:40–11:44 ngày 27/11/2026 (browser-task e8848f9a-eb00-5b30-950d-b56efbe1fccd; runtime đo 11:40–11:44) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 11:34: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 24.000đ/1/1, tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất ĐỔI 1 đơn/50.000đ tại bàn (11:34) → 0 đơn/0đ lúc 11:41–11:43 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0; đã kiểm tra tab Đã hủy: không có HĐ hủy nào ngày 27/11; doanh thu đã thanh toán vẫn 24.000đ/1 HĐ nên đơn 50.000đ không thành HĐ — biến mất không rõ lý do, cần hỏi nhân viên) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T11:44:00+07:00, OK, 0 đơn/0đ; trả về scannedAt 04:44Z). Gói Pro: lần quét này không kiểm tra lại banner/thông báo hết hạn 27/11 (lần quét 11:34 đã kiểm tra, không có banner). Cờ: đơn 116.000đ biến mất 02:07→02:18 vẫn không hiện lại, không thành HĐ — giả thuyết mới chưa xác minh: có thể là tổng tạm tính lúc đó của đơn Bàn Chơi - 3 (mở 00:13, chốt 02:45 thành HĐ #2400004272 206.000đ sau khi gọi thêm món/giờ chơi tăng thêm); đơn 2.000đ biến mất 09:17→09:35 vẫn không hiện lại — cần nhân viên kiểm tra; đơn 50.000đ tại bàn biến mất 11:34→11:41, không thành HĐ, không có trong Đã hủy — cần hỏi nhân viên.",
   "totals": {
     "revenue": 24000,
     "invoices": 1,
     "items": 1
   },
   "unpaid": {
-    "checked_at": "11:34 ngày 27/11/2026",
+    "checked_at": "11:44 ngày 27/11/2026",
     "unfinished": {
-      "count": 1,
-      "total": 50000,
+      "count": 0,
+      "total": 0,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 1,
-          "total": 50000
+          "count": 0,
+          "total": 0
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "11:34 ngày 27/11/2026",
+  "updated_label": "11:44 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
