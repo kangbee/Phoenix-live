@@ -137,22 +137,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 12:24–12:28 ngày 27/11/2026 (browser-task 079200e7-f9e2-56a9-8293-45e4f92d4c5f; runtime đo 12:24–12:28) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 12:14: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất THAY ĐỔI: 0 đơn/0đ lúc 12:14 → 3 đơn/118.000đ tại bàn lúc 12:26–12:27 (đã tải lại trang + cuộn xuống + tải lại lần nữa xác nhận; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T12:27:00+07:00, OK, 3 đơn/118.000đ; trả về scannedAt 05:27Z; getunpaidorders xác nhận). Cờ ĐÃ RÕ: 2 đơn/116.000đ 'biến mất' lúc 12:14 đã hiện lại trong số tổng hợp (3 đơn/118.000đ, tăng 1 đơn +2.000đ so với 12:03), không thành HĐ, không hủy — số 0 lúc 12:14 là widget tải chậm hiện 0 sai, không phải tiền mất; đơn tăng thêm 2.000đ có thể là đơn 2.000đ biến mất 09:17→09:35 đã hiện lại nhưng dashboard chỉ cho số tổng hợp nên chưa khẳng định được. Cờ cũ vẫn mở: đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải.",
+  "source_note": "Quét live 12:35–12:37 ngày 27/11/2026 (browser-task 3a78cd58-bec5-5062-b1a2-4f9c8405c7c8; runtime đo 12:35–12:37) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 12:27: 24.000đ/1 HĐ/1 món (Ca 1 24.000đ/1, Ca 2 0đ; HĐ mới nhất #2400004273 lúc 09:46; không có HĐ mới; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); tháng 11 99.074.650đ/1.035 HĐ/3.245 món (getmonthsummary, đến hết 27/11; còn thiếu 925.350đ tới 100 triệu). Đơn chưa hoàn tất THAY ĐỔI: 3 đơn/118.000đ lúc 12:27 → 4 đơn/194.500đ tại bàn lúc 12:37 (đã tải lại trang + cuộn xuống; tiền tăng liên tục trong vài phút 126.250đ lúc 12:36 → 187.250đ → 194.500đ lúc 12:37 trong khi số đơn giữ 4 — phù hợp bàn đang chơi tính theo giờ; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T12:37:00+07:00, OK, 4 đơn/194.500đ; trả về scannedAt 05:37Z; getunpaidorders xác nhận). Cờ cũ vẫn mở: đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải. Gói Pro: không có banner/thông báo hết hạn, tài khoản vẫn 'Gói Pro'.",
   "totals": {
     "revenue": 24000,
     "invoices": 1,
     "items": 1
   },
   "unpaid": {
-    "checked_at": "12:27 ngày 27/11/2026",
+    "checked_at": "12:37 ngày 27/11/2026",
     "unfinished": {
-      "count": 3,
-      "total": 118000,
+      "count": 4,
+      "total": 194500,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 3,
-          "total": 118000
+          "count": 4,
+          "total": 194500
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "12:27 ngày 27/11/2026",
+  "updated_label": "12:37 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
