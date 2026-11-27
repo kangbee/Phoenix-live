@@ -137,14 +137,14 @@
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 03:59–04:04 ngày 28/11/2026 (browser-task 156d4d5e-3076-5228-9488-bc5232fb4587; runtime đo 03:59–04:04) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 03:52: ngày 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; HĐ mới nhất #2400004326 10.000đ lúc 03:46, không có HĐ mới từ 03:52 đến 04:03; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; ranh giới ca sạch: HĐ cuối Ca 1 18:45, HĐ đầu Ca 2 20:03; 2 HĐ lúc 01:38 và 02:45 ngày 27/11 thuộc ngày vận hành 26/11 nên không tính vào ngày 27/11) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 03:52 → 0 đơn/0đ lúc 04:02–04:03 (đã tải lại trang + cuộn trang, xác nhận 3 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T04:03:00+07:00, OK, snapshot rỗng; trả về scannedAt 21:03Z). Cờ vẫn mở: 3 đơn/534.000đ biến mất 01:54→02:09 KHÔNG thành HĐ (chỉ 2/5 đơn thành HĐ #4320 52.000đ + #4321 76.000đ = 128.000đ; phần còn lại ~406.000đ vẫn chưa giải thích được, không có HĐ mới nào sau #4323; chờ xác nhận/ghi nợ 0, không có HĐ hủy) — cần hỏi quầy xác nhận; 6 đơn/514.000đ biến mất 01:19→01:32 không thành HĐ; 3 đơn/447.250đ biến mất 00:32→00:50 không thành HĐ (chỉ thêm 1 HĐ #2400004317 23.000đ; số HĐ hủy 0); đơn 50.000đ biến mất 18:27→18:32 có thể đã thành HĐ #4294 — chưa khẳng định, cần kiểm tra bill #4294; 8 đơn/622.000đ biến mất 15:58→16:06 (lời giải một phần); 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39; 3 đơn/263.250đ biến mất 22:47→23:00; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18); 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
+ "source_note": "Quét live 04:55–04:58 ngày 28/11/2026 (browser-task 97bd32f0-deab-53c8-a281-49cccca01911; runtime đo 04:55–04:58) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 04:50: ngày 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 04:50 → 0 đơn/0đ lúc 04:57–04:58 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T04:58:00+07:00, OK, snapshot rỗng; trả về scannedAt 21:58Z). Cờ vẫn mở: 3 đơn/534.000đ biến mất 01:54→02:09 không thành HĐ (~406.000đ chưa giải thích được); 6 đơn/514.000đ biến mất 01:19→01:32; 3 đơn/447.250đ biến mất 00:32→00:50; đơn 50.000đ biến mất 18:27→18:32 có thể đã thành HĐ #4294 — chưa khẳng định, cần kiểm tra bill #4294; 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
  "totals": {
   "invoices": 54,
   "items": 128,
   "revenue": 4530000
  },
  "unpaid": {
-  "checked_at": "04:50 ngày 28/11/2026",
+  "checked_at": "04:58 ngày 28/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
@@ -173,7 +173,7 @@
    "total": 0
   }
  },
- "updated_label": "04:06 ngày 28/11/2026",
+ "updated_label": "04:58 ngày 28/11/2026",
  "views": {
   "ca1": [],
   "ca_ngay": []
