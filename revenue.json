@@ -133,14 +133,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 09:32–09:35 ngày 27/11/2026 — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 09:26: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu lúc 07:00, chưa phát sinh giao dịch; Ca 2 chưa bắt đầu; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; HĐ mới nhất #2400004272 206.000đ lúc 02:45 thuộc ngày 26/11) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 0đ/0/0, tháng 11 99.050.650đ/1.034 HĐ/3.244 món (đến hết 26/11; còn thiếu 949.350đ tới 100 triệu). Đơn chưa hoàn tất GIẢM 1 đơn/2.000đ tại bàn → 0 đơn/0đ lúc 09:35 (đã tải lại trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T09:35:00+07:00, OK, 0 đơn/0đ). Lưu ý: đơn 2.000đ xuất hiện lúc 09:17 đã biến mất lúc 09:35 mà không thành hóa đơn — cần nhân viên kiểm tra.",
+  "source_note": "Quét live 09:41–09:44 ngày 27/11/2026 — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 09:35: 0đ/0 HĐ/0 món (Ca 1 mới bắt đầu lúc 07:00, chưa phát sinh giao dịch; Ca 2 chưa bắt đầu; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; HĐ mới nhất #2400004272 206.000đ lúc 02:45 thuộc ngày 26/11) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 0đ/0/0, tháng 11 99.050.650đ/1.034 HĐ/3.244 món (đến hết 26/11; còn thiếu 949.350đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI 0 đơn/0đ lúc 09:44 (đã tải lại trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T09:44:00+07:00, OK, 0 đơn/0đ). Lưu ý: đơn 2.000đ xuất hiện lúc 09:17 vẫn không hiện lại, cũng không thành hóa đơn — cần nhân viên kiểm tra.",
   "totals": {
     "revenue": 0,
     "invoices": 0,
     "items": 0
   },
   "unpaid": {
-    "checked_at": "09:35 ngày 27/11/2026",
+    "checked_at": "09:44 ngày 27/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -169,7 +169,7 @@
     },
     "orders": []
   },
-  "updated_label": "09:35 ngày 27/11/2026",
+  "updated_label": "09:44 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
