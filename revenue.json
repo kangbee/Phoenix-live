@@ -1,9 +1,9 @@
 {
   "ca1": {
-    "closed": false,
-    "invoices": 21,
-    "items": 46,
-    "revenue": 1619500
+    "closed": true,
+    "invoices": 22,
+    "items": 47,
+    "revenue": 1669500
   },
   "ca2": {
     "closed": false,
@@ -16,13 +16,13 @@
   "day": "2026-11-27",
   "day_label": "Thứ sáu, 27/11/2026",
   "drinks": {
-    "qty": 16,
-    "revenue": 251000
+    "qty": 14,
+    "revenue": 196000
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 100670150,
-    "invoices": 1055,
+    "revenue": 100720150,
+    "invoices": 1056,
     "note": "Tính đến hết ngày vận hành 27/11/2026",
     "daily": [
       {
@@ -131,28 +131,28 @@
       },
       {
         "date": "27/11",
-        "revenue": 1619500
+        "revenue": 1669500
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 18:35–18:36 ngày 27/11/2026 (browser-task 0e9748bb-f015-5b05-a2c6-b0ea723e5896; runtime đo 18:35–18:36) — số live KHÔNG ĐỔI so với quét 18:32: ngày 27/11 1.619.500đ/21 HĐ/46 món (Ca 1 1.619.500đ/21/46, Ca 2 0đ; HĐ mới nhất #2400004293 124.000đ lúc 18:19; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 1.619.500đ/21/46 (Ca 1 1.619.500đ + Ca 2 0đ; đầu mục: Combo 814.000đ, Giờ chơi 377.500đ, Đồ Uống 251.000đ, Thuốc Lá 40.000đ, Khác 121.000đ, Đồ Ăn 16.000đ). Đơn chưa hoàn tất KHÔNG ĐỔI: 0 đơn/0đ lúc 18:32 → 0 đơn/0đ lúc 18:36 (đã tải lại trang dashboard, vẫn 0; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T18:36:00+07:00, OK, snapshot rỗng; trả về scannedAt 11:36Z) để làm mới nhãn giờ quét. Tháng 11 100.670.150đ/1.055 HĐ/3.290 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). Đây là số live cuối trước khung nghỉ chốt Ca 1 (19:15); các lần chạy lịch tiếp theo trong khung nghỉ thì bỏ qua, để lần quét chốt Ca 1 lúc 19:15 làm.",
+  "source_note": "Chốt Ca 1 19:13–19:15 ngày 27/11/2026 (browser-task 7d2c82b3-6d43-5b6a-a97d-2a9ae8da934f; runtime đo 19:12–19:15) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Ngày vận hành 27/11: 1.669.500đ/22 HĐ/47 món (Ca 1 1.669.500đ/22/47, Ca 2 0đ; +50.000đ/+1 HĐ/+1 món so với quét 18:36 — HĐ mới #2400004294 50.000đ lúc 18:45, Combo HS +1 lượt; giảm giá 0đ; toàn bộ tiền mặt; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; 2 HĐ rạng sáng 01:38/02:45 thuộc ngày vận hành 26/11 đã loại) — ĐÃ gọi importsapodata (Ca 1, OK, shiftId 30, tổng 1.669.500đ); getlive xác nhận ngày 27/11 1.669.500đ/22/47 (Ca 1 1.669.500đ + Ca 2 0đ; đầu mục: Combo 864.000đ, Giờ chơi 377.500đ, Đồ Uống 196.000đ, Thuốc Lá 95.000đ, Đồ Ăn 16.000đ, Khác 121.000đ). Sửa phân loại: Saigon Dưa Lưới + Saigon Bạc nay xếp đúng Thuốc Lá theo danh mục app (các lần quét trước ghi Đồ Uống 251.000đ/Thuốc Lá 40.000đ do nạp sai danh mục; tổng ngày không đổi). Đơn chưa hoàn tất: 1 đơn/2.250đ tại bàn lúc 19:15 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T19:15:00+07:00, OK, 1 đơn/2.250đ; trả về scannedAt 12:15Z); đơn này chuyển sang Ca 2. Tháng 11 100.720.150đ/1.056 HĐ/3.291 món (getmonthsummary, đến hết 27/11).",
   "totals": {
-    "invoices": 21,
-    "items": 46,
-    "revenue": 1619500
+    "invoices": 22,
+    "items": 47,
+    "revenue": 1669500
   },
   "unpaid": {
-    "checked_at": "18:36 ngày 27/11/2026",
+    "checked_at": "19:15 ngày 27/11/2026",
     "unfinished": {
-      "count": 0,
-      "total": 0,
+      "count": 1,
+      "total": 2250,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 0,
-          "total": 0
+          "count": 1,
+          "total": 2250
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "18:36 ngày 27/11/2026",
+  "updated_label": "Chốt Ca 1 19:15 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
