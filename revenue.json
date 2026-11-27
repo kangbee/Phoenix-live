@@ -20,6 +20,10 @@
     "revenue": 78000
   },
   "month": {
+    "label": "Tháng 11/2026 lũy kế",
+    "revenue": 99774150,
+    "invoices": 1046,
+    "note": "Tính đến hết ngày vận hành 27/11/2026",
     "daily": [
       {
         "date": "01/11",
@@ -129,11 +133,7 @@
         "date": "27/11",
         "revenue": 723500
       }
-    ],
-    "invoices": 1046,
-    "label": "Tháng 11/2026 lũy kế",
-    "note": "Tính đến hết ngày vận hành 27/11/2026",
-    "revenue": 99774150
+    ]
   },
   "provisional": false,
   "schema": 1,
@@ -144,14 +144,15 @@
     "revenue": 723500
   },
   "unpaid": {
-    "checked_at": "16:13 ngày 27/11/2026",
-    "orders": [],
+    "checked_at": "16:21 ngày 27/11/2026",
     "unfinished": {
+      "count": 8,
+      "total": 616000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 7,
-          "total": 532000
+          "count": 8,
+          "total": 616000
         },
         {
           "channel": "Mang đi",
@@ -168,12 +169,11 @@
           "count": 0,
           "total": 0
         }
-      ],
-      "count": 7,
-      "total": 532000
-    }
+      ]
+    },
+    "orders": []
   },
-  "updated_label": "16:13 ngày 27/11/2026",
+  "updated_label": "16:21 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
