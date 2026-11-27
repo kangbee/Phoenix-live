@@ -1,9 +1,9 @@
 {
   "ca1": {
     "closed": false,
-    "invoices": 5,
-    "items": 13,
-    "revenue": 335500
+    "invoices": 7,
+    "items": 15,
+    "revenue": 415500
   },
   "ca2": {
     "closed": false,
@@ -21,8 +21,8 @@
   },
   "month": {
     "label": "Tháng 11/2026 lũy kế",
-    "revenue": 99386150,
-    "invoices": 1039,
+    "revenue": 99466150,
+    "invoices": 1041,
     "note": "Tính đến hết ngày vận hành 27/11/2026",
     "daily": [
       {
@@ -131,28 +131,28 @@
       },
       {
         "date": "27/11",
-        "revenue": 335500
+        "revenue": 415500
       }
     ]
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 14:10–14:12 ngày 27/11/2026 (browser-task 4d19ad6c-bfb0-550a-8714-6806ee1ae95f; runtime đo 14:10–14:12) — ngày vận hành 27/11 KHÔNG ĐỔI so với quét 14:03 (335.500đ/5 HĐ/13 món, Ca 1; không có HĐ mới; HĐ mới nhất #2400004277 100.500đ 13:38 Bàn 5; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 335.500đ/5/13 (Ca 1 335.500đ + Ca 2 0đ); tháng 11 99.386.150đ/1.039 HĐ/3.257 món (getmonthsummary, đến hết 27/11; còn thiếu 613.850đ tới 100 triệu). Đơn chưa hoàn tất KHÔNG ĐỔI 5 đơn/202.000đ tại bàn lúc 14:12 (đã tải lại trang + cuộn xuống; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T14:12:00+07:00, OK, 5 đơn/202.000đ; trả về scannedAt 07:12Z; getunpaidorders xác nhận).",
+  "source_note": "Quét live 14:17–14:21 ngày 27/11/2026 (browser-task ea1d05b5-8afa-5a32-bd9e-236ab0287b3e; runtime đo 14:17–14:21) — ngày vận hành 27/11 TĂNG +80.000đ/+2 HĐ/+2 món so với quét 14:12: 335.500đ/5 HĐ/13 món -> 415.500đ/7 HĐ/15 món (Ca 1; Ca 2 0đ); HĐ mới #2400004278 30.000đ 14:15 (Giờ Thường) và #2400004279 50.000đ 14:18 (Combo HS); giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau (lưu ý độ trễ báo cáo: 14:18 mới hiện 365.500đ/6 HĐ, 14:19–14:20 mới đủ 415.500đ/7 HĐ) — ĐÃ gọi importsapodata Ca 1; getlive xác nhận ngày 27/11 415.500đ/7/15 (Ca 1 415.500đ + Ca 2 0đ; đầu mục: Combo 150.000đ, Giờ chơi 149.500đ, Đồ Uống 62.000đ, Khác 34.000đ, Thuốc Lá 20.000đ); tháng 11 99.466.150đ/1.041 HĐ/3.259 món (getmonthsummary, đến hết 27/11; còn thiếu 533.850đ tới 100 triệu). Đơn chưa hoàn tất GIẢM 5 đơn/250.000đ (14:18) -> 4 đơn/200.000đ tại bàn lúc 14:20 (1 đơn Combo HS 50.000đ hoàn tất thành #4279 lúc 14:18; đã tải lại trang + cuộn xuống; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T14:20:00+07:00, OK, 4 đơn/200.000đ; trả về scannedAt 07:20Z; getunpaidorders xác nhận).",
   "totals": {
-    "revenue": 335500,
-    "invoices": 5,
-    "items": 13
+    "revenue": 415500,
+    "invoices": 7,
+    "items": 15
   },
   "unpaid": {
-    "checked_at": "14:12 ngày 27/11/2026",
+    "checked_at": "14:20 ngày 27/11/2026",
     "unfinished": {
-      "count": 5,
-      "total": 202000,
+      "count": 4,
+      "total": 200000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 5,
-          "total": 202000
+          "count": 4,
+          "total": 200000
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "14:12 ngày 27/11/2026",
+  "updated_label": "14:20 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
