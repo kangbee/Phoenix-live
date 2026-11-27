@@ -7,17 +7,17 @@
  },
  "ca2": {
   "closed": false,
-  "invoices": 31,
-  "items": 80,
-  "revenue": 2850500
+  "invoices": 32,
+  "items": 81,
+  "revenue": 2860500
  },
  "costs": {},
  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
  "day": "2026-11-27",
  "day_label": "Thứ sáu, 27/11/2026",
  "drinks": {
-  "qty": 49,
-  "revenue": 691000
+  "qty": 50,
+  "revenue": 701000
  },
  "month": {
   "daily": [
@@ -127,24 +127,24 @@
    },
    {
     "date": "27/11",
-    "revenue": 4520000
+    "revenue": 4530000
    }
   ],
-  "invoices": 1087,
+  "invoices": 1088,
   "label": "Tháng 11/2026 lũy kế",
   "note": "Tính đến hết ngày vận hành 27/11/2026",
-  "revenue": 103570650
+  "revenue": 103580650
  },
  "provisional": false,
  "schema": 1,
- "source_note": "Quét live 03:36–03:40 ngày 28/11/2026 (browser-task 522b5952-d6f5-5abe-89ab-1dabaa66aeca; runtime đo 03:35–03:41) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live THAY ĐỔI so với quét 03:26: ngày 3.749.000đ/51 HĐ/108 món → 4.520.000đ/53 HĐ/127 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.079.500đ/29/61 → 2.850.500đ/31/80, thêm 2 HĐ mới tổng 771.000đ, HĐ cuối lúc 03:30, không có HĐ mới sau 03:30; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — ĐÃ gọi importsapodata (Ca 2, shiftId 31, tổng 2.850.500đ; món Ca 2 = cả ngày trừ Ca 1 qua getlive, 24 dòng/80 món); getlive xác nhận ngày 27/11 4.520.000đ/53/127 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 691.000đ/49, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.570.650đ/1.087 HĐ/3.371 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). Đơn chưa hoàn tất: 2 đơn/605.000đ lúc 03:25 → 0 đơn/0đ tại bàn lúc 03:39 (đã tải lại trang + cuộn trang; lần tải đầu và lần tải lại đều hiện 0; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T03:40:00+07:00, OK, snapshot rỗng; trả về scannedAt 20:40Z). Lưu ý: widget phương thức thanh toán lần này báo 100% tiền mặt, khác với lần quét 03:26 (tiền mặt 1.919.000đ/26 HĐ, chuyển khoản 1.830.000đ/25 HĐ) — widget này đã từng báo sai (tối 27/11 báo 'Chưa có doanh thu ngày hôm nay'), tổng ngày vẫn khớp tuyệt đối ở 4 nguồn nên không ảnh hưởng số chốt. CỜ MỚI: 2 đơn/605.000đ biến mất 03:25→03:39 trong khi có 2 HĐ mới tổng 771.000đ — 605.000đ có thể đã thành một phần của 2 HĐ mới (chênh 166.000đ có thể là món gọi thêm trước khi chốt), nhưng Sapo không liệt kê từng bàn nên chưa khẳng định được, cần hỏi ca trực nếu đến chốt ca vẫn lệch. Cờ vẫn mở: 3 đơn/534.000đ biến mất 01:54→02:09 KHÔNG thành HĐ (chỉ 2/5 đơn thành HĐ #4320 52.000đ + #4321 76.000đ = 128.000đ; phần còn lại ~406.000đ vẫn chưa giải thích được, không có HĐ mới nào sau #4323; chờ xác nhận/ghi nợ 0, không có HĐ hủy) — cần hỏi quầy xác nhận; 6 đơn/514.000đ biến mất 01:19→01:32; 3 đơn/447.250đ biến mất 00:32→00:50; đơn 50.000đ biến mất 18:27→18:32 có thể đã thành HĐ #4294 — chưa khẳng định, cần kiểm tra bill #4294; 8 đơn/622.000đ biến mất 15:58→16:06 (lời giải một phần); 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39; 3 đơn/263.250đ biến mất 22:47→23:00; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18); 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
+ "source_note": "Quét live 03:49–03:52 ngày 28/11/2026 (browser-task c87f636a-2108-5a53-91cd-a658204a7f6c; runtime đo 03:49–03:52) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live THAY ĐỔI so với quét 03:40: ngày 4.520.000đ/53 HĐ/127 món → 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.850.500đ/31/80 → 2.860.500đ/32/81, thêm 1 HĐ mới #2400004326 lúc 03:46 10.000đ Tiền Hải Ngọt x1, thu ngân Hoàng Hà; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) — ĐÃ gọi importsapodata (Ca 2, shiftId 31, tổng 2.860.500đ; món Ca 2 = cả ngày trừ Ca 1 qua getlive, 24 dòng/81 món); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 03:39 → 0 đơn/0đ lúc 03:51–03:52 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T03:52:00+07:00, OK, snapshot rỗng; trả về scannedAt 20:52Z).",
  "totals": {
-  "invoices": 53,
-  "items": 127,
-  "revenue": 4520000
+  "invoices": 54,
+  "items": 128,
+  "revenue": 4530000
  },
  "unpaid": {
-  "checked_at": "03:40 ngày 28/11/2026",
+  "checked_at": "03:52 ngày 28/11/2026",
   "orders": [],
   "unfinished": {
    "channels": [
@@ -173,7 +173,7 @@
    "total": 0
   }
  },
- "updated_label": "03:40 ngày 28/11/2026",
+ "updated_label": "03:52 ngày 28/11/2026",
  "views": {
   "ca1": [],
   "ca_ngay": []
