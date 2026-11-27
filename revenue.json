@@ -137,14 +137,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 18:31–18:33 ngày 27/11/2026 (browser-task bac0552c-356f-5458-ab42-3bb5ab8c7916; runtime đo 18:31–18:32) — số live KHÔNG ĐỔI so với quét 18:27: ngày 27/11 1.619.500đ/21 HĐ/46 món (Ca 1 1.619.500đ/21/46, Ca 2 0đ; HĐ mới nhất #2400004293 124.000đ lúc 18:19; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 1.619.500đ/21/46 (Ca 1 1.619.500đ + Ca 2 0đ; đầu mục: Combo 814.000đ, Giờ chơi 377.500đ, Đồ Uống 251.000đ, Thuốc Lá 40.000đ, Khác 121.000đ, Đồ Ăn 16.000đ). Đơn chưa hoàn tất THAY ĐỔI: 1 đơn/50.000đ tại bàn lúc 18:27 → 0 đơn/0đ lúc 18:32 (đã tải lại trang dashboard, vẫn 0; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T18:32:00+07:00, OK, snapshot rỗng; trả về scannedAt 11:32Z). CỜ MỚI: đơn 50.000đ biến mất 18:27→18:32 mà KHÔNG thành HĐ mới (HĐ mới nhất vẫn #2400004293 lúc 18:19) — cần hỏi nhân viên lúc đối chiếu Ca 1. Tháng 11 100.670.150đ/1.055 HĐ/3.290 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu).",
+  "source_note": "Quét live 18:35–18:36 ngày 27/11/2026 (browser-task 0e9748bb-f015-5b05-a2c6-b0ea723e5896; runtime đo 18:35–18:36) — số live KHÔNG ĐỔI so với quét 18:32: ngày 27/11 1.619.500đ/21 HĐ/46 món (Ca 1 1.619.500đ/21/46, Ca 2 0đ; HĐ mới nhất #2400004293 124.000đ lúc 18:19; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 1.619.500đ/21/46 (Ca 1 1.619.500đ + Ca 2 0đ; đầu mục: Combo 814.000đ, Giờ chơi 377.500đ, Đồ Uống 251.000đ, Thuốc Lá 40.000đ, Khác 121.000đ, Đồ Ăn 16.000đ). Đơn chưa hoàn tất KHÔNG ĐỔI: 0 đơn/0đ lúc 18:32 → 0 đơn/0đ lúc 18:36 (đã tải lại trang dashboard, vẫn 0; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T18:36:00+07:00, OK, snapshot rỗng; trả về scannedAt 11:36Z) để làm mới nhãn giờ quét. Tháng 11 100.670.150đ/1.055 HĐ/3.290 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). Đây là số live cuối trước khung nghỉ chốt Ca 1 (19:15); các lần chạy lịch tiếp theo trong khung nghỉ thì bỏ qua, để lần quét chốt Ca 1 lúc 19:15 làm.",
   "totals": {
     "invoices": 21,
     "items": 46,
     "revenue": 1619500
   },
   "unpaid": {
-    "checked_at": "18:32 ngày 27/11/2026",
+    "checked_at": "18:36 ngày 27/11/2026",
     "unfinished": {
       "count": 0,
       "total": 0,
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "18:32 ngày 27/11/2026",
+  "updated_label": "18:36 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
