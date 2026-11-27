@@ -137,14 +137,14 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 18:22–18:25 ngày 27/11/2026 (browser-task b00ecab0-5a76-5b04-ad25-660211ac49a9; runtime đo 18:22–18:24) — ngày vận hành 27/11 TĂNG +124.000đ/+1 HĐ/+3 món so với quét 18:19: 1.495.500đ/20 HĐ/43 món → 1.619.500đ/21 HĐ/46 món (Ca 1 1.619.500đ/21/46, Ca 2 0đ; HĐ mới #2400004293 124.000đ lúc 18:19 Bàn Chơi - 10, thu ngân 'nvien mới', tiền mặt; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; 2 HĐ rạng sáng 27/11 lúc 01:38 và 02:45 thuộc ngày vận hành 26/11 nên không tính vào 27/11) — ĐÃ gọi importsapodata Ca 1 (shiftId 30, total 1.619.500đ); getlive xác nhận ngày 27/11 1.619.500đ/21/46 (Ca 1 1.619.500đ + Ca 2 0đ; đầu mục: Combo 814.000đ, Giờ chơi 377.500đ, Đồ Uống 251.000đ, Thuốc Lá 40.000đ, Khác 121.000đ, Đồ Ăn 16.000đ); tháng 11 100.670.150đ/1.055 HĐ/3.290 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). Đơn chưa hoàn tất GIẢM 2 đơn/164.000đ lúc 18:19 → 1 đơn/50.000đ tại bàn lúc 18:23 (lần tải đầu hiện 0 sai, tải lại + cuộn trang mới hiện đúng; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T18:23:00+07:00, OK, 1 đơn/50.000đ; trả về scannedAt 11:23Z). Lưu ý: đơn chưa hoàn tất giảm 114.000đ trong khi tiền thu tăng 124.000đ — chênh 10.000đ là giờ chơi tính theo thời gian (bàn 10 lúc mở tính ~114.000đ, lúc ra 18:19 thành 124.000đ; chỉ là suy luận số học, Sapo không liệt kê từng bàn). CỜ VẪN MỞ: đơn chưa hoàn tất dao động bất thường trong ngày (18:05 ~200.000đ/~3 đơn → 18:10 0đ → 18:14 2 đơn/164.000đ → 18:23 1 đơn/50.000đ) — cần hỏi nhân viên lúc đối chiếu Ca 1; 8 đơn/622.000đ biến mất 15:58→16:06 (lời giải một phần); 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39; 3 đơn/263.250đ biến mất 22:47→23:00; đơn 116.000đ biến mất đêm 26/11 02:07→02:18; 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
+  "source_note": "Quét live 18:26–18:27 ngày 27/11/2026 (browser-task 1cc138ed-5312-56f4-815b-b84abb4a28ff; runtime đo 18:26–18:27) — số live KHÔNG ĐỔI so với quét 18:23: ngày 27/11 1.619.500đ/21 HĐ/46 món (Ca 1 1.619.500đ/21/46, Ca 2 0đ; HĐ mới nhất #2400004293 124.000đ lúc 18:19; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 1.619.500đ/21/46 (Ca 1 1.619.500đ + Ca 2 0đ; đầu mục: Combo 814.000đ, Giờ chơi 377.500đ, Đồ Uống 251.000đ, Thuốc Lá 40.000đ, Khác 121.000đ, Đồ Ăn 16.000đ). Đơn chưa hoàn tất KHÔNG ĐỔI: 1 đơn/50.000đ tại bàn lúc 18:27 (đã tải lại trang + cuộn trang; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T18:27:00+07:00, OK, 1 đơn/50.000đ; trả về scannedAt 11:27Z). Tháng 11 100.670.150đ/1.055 HĐ/3.290 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu).",
   "totals": {
     "invoices": 21,
     "items": 46,
     "revenue": 1619500
   },
   "unpaid": {
-    "checked_at": "18:23 ngày 27/11/2026",
+    "checked_at": "18:27 ngày 27/11/2026",
     "unfinished": {
       "count": 1,
       "total": 50000,
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "18:23 ngày 27/11/2026",
+  "updated_label": "18:27 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
