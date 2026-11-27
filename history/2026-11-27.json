@@ -137,22 +137,22 @@
   },
   "provisional": false,
   "schema": 1,
-  "source_note": "Quét live 17:10–17:12 ngày 27/11/2026 (browser-task c1a6dcca-4eb7-5f79-b7e5-60507b15db3d; runtime đo 17:10–17:13) — số live KHÔNG ĐỔI so với quét 16:48: ngày 966.500đ/15 HĐ/29 món (Ca 1 966.500đ/15/29, Ca 2 0đ; HĐ mới nhất #2400004287 111.000đ 16:46; không có HĐ mới sau 16:46; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 966.500đ/15/29 (Ca 1 966.500đ + Ca 2 0đ; đầu mục: Combo 522.000đ, Giờ chơi 229.500đ, Đồ Uống 141.000đ, Thuốc Lá 40.000đ, Khác 34.000đ). Đơn chưa hoàn tất KHÔNG ĐỔI: 6 đơn/558.000đ tại bàn (tải lại trang + cuộn trang; số trước/sau tải lại giống nhau; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-27T17:12:00+07:00, OK, 6 đơn/558.000đ; trả về scannedAt 10:12Z). Tháng 11 vẫn 100.017.150đ/1.049 HĐ/3.273 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). CỜ VẪN MỞ: 8 đơn/622.000đ 'biến mất' 15:58→16:06 đã có lời giải một phần (đơn hiện lại + 1 đơn thành HĐ #4284), vẫn cần hỏi nhân viên vì sao widget về 0 lúc 16:06; 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải; 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
+  "source_note": "Quét live 17:21–17:23 ngày 27/11/2026 (browser-task bd89c44c-44e8-52e1-a095-be025cba67c4; runtime đo 17:21–17:23) — số live KHÔNG ĐỔI so với quét 17:12: ngày 966.500đ/15 HĐ/29 món (Ca 1 966.500đ/15/29, Ca 2 0đ; HĐ mới nhất #2400004287 111.000đ 16:46; không có HĐ mới sau 16:46; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau) nên KHÔNG gọi importsapodata; getlive xác nhận ngày 27/11 966.500đ/15/29 (Ca 1 + Ca 2 khớp; đầu mục: Combo 522.000đ, Giờ chơi 229.500đ, Đồ Uống 141.000đ, Thuốc Lá 40.000đ, Khác 34.000đ). Đơn chưa hoàn tất THAY ĐỔI: 6 đơn/558.000đ → 7 đơn/608.000đ tại bàn lúc 17:22 (tăng 1 đơn/50.000đ; chờ xác nhận 0, ghi nợ 0); đã gọi importUnpaidOrders (scannedAt 2026-11-27T17:22:00+07:00, OK). Tháng 11 vẫn 100.017.150đ/1.049 HĐ/3.273 món (getmonthsummary, đến hết 27/11; đã vượt 100 triệu). CỜ VẪN MỞ: 8 đơn/622.000đ 'biến mất' 15:58→16:06 đã có lời giải một phần (đơn hiện lại + 1 đơn thành HĐ #4284), vẫn cần hỏi nhân viên vì sao widget về 0 lúc 16:06; 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39 và 3 đơn/263.250đ biến mất 22:47→23:00 vẫn chưa hiện lại; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18) vẫn chưa có lời giải; 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
   "totals": {
     "invoices": 15,
     "items": 29,
     "revenue": 966500
   },
   "unpaid": {
-    "checked_at": "17:12 ngày 27/11/2026",
+    "checked_at": "17:22 ngày 27/11/2026",
     "unfinished": {
-      "count": 6,
-      "total": 558000,
+      "count": 7,
+      "total": 608000,
       "channels": [
         {
           "channel": "Tại bàn",
-          "count": 6,
-          "total": 558000
+          "count": 7,
+          "total": 608000
         },
         {
           "channel": "Mang đi",
@@ -173,7 +173,7 @@
     },
     "orders": []
   },
-  "updated_label": "17:12 ngày 27/11/2026",
+  "updated_label": "17:22 ngày 27/11/2026",
   "views": {
     "ca1": [],
     "ca_ngay": []
