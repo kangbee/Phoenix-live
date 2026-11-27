@@ -1,181 +1,181 @@
 {
- "ca1": {
-  "closed": true,
-  "invoices": 22,
-  "items": 47,
-  "revenue": 1669500
- },
- "ca2": {
-  "closed": false,
-  "invoices": 32,
-  "items": 81,
-  "revenue": 2860500
- },
- "costs": {},
- "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
- "day": "2026-11-27",
- "day_label": "Thứ sáu, 27/11/2026",
- "drinks": {
-  "qty": 50,
-  "revenue": 701000
- },
- "month": {
-  "daily": [
-   {
-    "date": "01/11",
-    "revenue": 4289750
-   },
-   {
-    "date": "02/11",
-    "revenue": 1515750
-   },
-   {
-    "date": "03/11",
-    "revenue": 2110250
-   },
-   {
-    "date": "04/11",
-    "revenue": 2961250
-   },
-   {
-    "date": "05/11",
-    "revenue": 3606250
-   },
-   {
-    "date": "06/11",
-    "revenue": 5375000
-   },
-   {
-    "date": "07/11",
-    "revenue": 9631900
-   },
-   {
-    "date": "08/11",
-    "revenue": 5323250
-   },
-   {
-    "date": "09/11",
-    "revenue": 2573000
-   },
-   {
-    "date": "10/11",
-    "revenue": 1958750
-   },
-   {
-    "date": "11/11",
-    "revenue": 2405250
-   },
-   {
-    "date": "12/11",
-    "revenue": 2563000
-   },
-   {
-    "date": "13/11",
-    "revenue": 2391500
-   },
-   {
-    "date": "14/11",
-    "revenue": 6954500
-   },
-   {
-    "date": "15/11",
-    "revenue": 6071250
-   },
-   {
-    "date": "16/11",
-    "revenue": 4339750
-   },
-   {
-    "date": "17/11",
-    "revenue": 2691000
-   },
-   {
-    "date": "18/11",
-    "revenue": 1814750
-   },
-   {
-    "date": "19/11",
-    "revenue": 5146500
-   },
-   {
-    "date": "20/11",
-    "revenue": 4184750
-   },
-   {
-    "date": "21/11",
-    "revenue": 4326500
-   },
-   {
-    "date": "22/11",
-    "revenue": 4720000
-   },
-   {
-    "date": "23/11",
-    "revenue": 3552000
-   },
-   {
-    "date": "24/11",
-    "revenue": 5027500
-   },
-   {
-    "date": "25/11",
-    "revenue": 1214250
-   },
-   {
-    "date": "26/11",
-    "revenue": 2303000
-   },
-   {
-    "date": "27/11",
+  "ca1": {
+    "closed": true,
+    "invoices": 22,
+    "items": 47,
+    "revenue": 1669500
+  },
+  "ca2": {
+    "closed": false,
+    "invoices": 32,
+    "items": 81,
+    "revenue": 2860500
+  },
+  "costs": {},
+  "costs_updated_label": "Chưa nhập giá vốn trên Sapo — quét ngày 10/11/2026 mới 2/70 món có giá vốn.",
+  "day": "2026-11-27",
+  "day_label": "Thứ sáu, 27/11/2026",
+  "drinks": {
+    "qty": 50,
+    "revenue": 701000
+  },
+  "month": {
+    "daily": [
+      {
+        "date": "01/11",
+        "revenue": 4289750
+      },
+      {
+        "date": "02/11",
+        "revenue": 1515750
+      },
+      {
+        "date": "03/11",
+        "revenue": 2110250
+      },
+      {
+        "date": "04/11",
+        "revenue": 2961250
+      },
+      {
+        "date": "05/11",
+        "revenue": 3606250
+      },
+      {
+        "date": "06/11",
+        "revenue": 5375000
+      },
+      {
+        "date": "07/11",
+        "revenue": 9631900
+      },
+      {
+        "date": "08/11",
+        "revenue": 5323250
+      },
+      {
+        "date": "09/11",
+        "revenue": 2573000
+      },
+      {
+        "date": "10/11",
+        "revenue": 1958750
+      },
+      {
+        "date": "11/11",
+        "revenue": 2405250
+      },
+      {
+        "date": "12/11",
+        "revenue": 2563000
+      },
+      {
+        "date": "13/11",
+        "revenue": 2391500
+      },
+      {
+        "date": "14/11",
+        "revenue": 6954500
+      },
+      {
+        "date": "15/11",
+        "revenue": 6071250
+      },
+      {
+        "date": "16/11",
+        "revenue": 4339750
+      },
+      {
+        "date": "17/11",
+        "revenue": 2691000
+      },
+      {
+        "date": "18/11",
+        "revenue": 1814750
+      },
+      {
+        "date": "19/11",
+        "revenue": 5146500
+      },
+      {
+        "date": "20/11",
+        "revenue": 4184750
+      },
+      {
+        "date": "21/11",
+        "revenue": 4326500
+      },
+      {
+        "date": "22/11",
+        "revenue": 4720000
+      },
+      {
+        "date": "23/11",
+        "revenue": 3552000
+      },
+      {
+        "date": "24/11",
+        "revenue": 5027500
+      },
+      {
+        "date": "25/11",
+        "revenue": 1214250
+      },
+      {
+        "date": "26/11",
+        "revenue": 2303000
+      },
+      {
+        "date": "27/11",
+        "revenue": 4530000
+      }
+    ],
+    "invoices": 1088,
+    "label": "Tháng 11/2026 lũy kế",
+    "note": "Tính đến hết ngày vận hành 27/11/2026",
+    "revenue": 103580650
+  },
+  "provisional": false,
+  "schema": 1,
+  "source_note": "Quét live 03:59–04:04 ngày 28/11/2026 (browser-task 156d4d5e-3076-5228-9488-bc5232fb4587; runtime đo 03:59–04:04) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 03:52: ngày 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; HĐ mới nhất #2400004326 10.000đ lúc 03:46, không có HĐ mới từ 03:52 đến 04:03; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; ranh giới ca sạch: HĐ cuối Ca 1 18:45, HĐ đầu Ca 2 20:03; 2 HĐ lúc 01:38 và 02:45 ngày 27/11 thuộc ngày vận hành 26/11 nên không tính vào ngày 27/11) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 03:52 → 0 đơn/0đ lúc 04:02–04:03 (đã tải lại trang + cuộn trang, xác nhận 3 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T04:03:00+07:00, OK, snapshot rỗng; trả về scannedAt 21:03Z). Cờ vẫn mở: 3 đơn/534.000đ biến mất 01:54→02:09 KHÔNG thành HĐ (chỉ 2/5 đơn thành HĐ #4320 52.000đ + #4321 76.000đ = 128.000đ; phần còn lại ~406.000đ vẫn chưa giải thích được, không có HĐ mới nào sau #4323; chờ xác nhận/ghi nợ 0, không có HĐ hủy) — cần hỏi quầy xác nhận; 6 đơn/514.000đ biến mất 01:19→01:32 không thành HĐ; 3 đơn/447.250đ biến mất 00:32→00:50 không thành HĐ (chỉ thêm 1 HĐ #2400004317 23.000đ; số HĐ hủy 0); đơn 50.000đ biến mất 18:27→18:32 có thể đã thành HĐ #4294 — chưa khẳng định, cần kiểm tra bill #4294; 8 đơn/622.000đ biến mất 15:58→16:06 (lời giải một phần); 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39; 3 đơn/263.250đ biến mất 22:47→23:00; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18); 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
+  "totals": {
+    "invoices": 54,
+    "items": 128,
     "revenue": 4530000
-   }
-  ],
-  "invoices": 1088,
-  "label": "Tháng 11/2026 lũy kế",
-  "note": "Tính đến hết ngày vận hành 27/11/2026",
-  "revenue": 103580650
- },
- "provisional": false,
- "schema": 1,
- "source_note": "Quét live 03:59–04:04 ngày 28/11/2026 (browser-task 156d4d5e-3076-5228-9488-bc5232fb4587; runtime đo 03:59–04:04) — phiên đăng nhập Chị Hiền (Gói Pro) còn hiệu lực, không bị Turnstile chặn; chỉ đọc, không tạo/sửa/xóa đơn. Số live KHÔNG ĐỔI so với quét 03:52: ngày 4.530.000đ/54 HĐ/128 món (Ca 1 1.669.500đ/22/47 đã chốt, không đổi; Ca 2 2.860.500đ/32/81; HĐ mới nhất #2400004326 10.000đ lúc 03:46, không có HĐ mới từ 03:52 đến 04:03; giảm giá 0đ; Tổng quan = Báo cáo doanh thu = Báo cáo mặt hàng = danh sách Hóa đơn khớp nhau; ranh giới ca sạch: HĐ cuối Ca 1 18:45, HĐ đầu Ca 2 20:03; 2 HĐ lúc 01:38 và 02:45 ngày 27/11 thuộc ngày vận hành 26/11 nên không tính vào ngày 27/11) — KHÔNG gọi importsapodata (số live không đổi); getlive xác nhận ngày 27/11 4.530.000đ/54/128 (Ca 1 + Ca 2 khớp; đầu mục: Combo 1.649.000đ/23, Giờ chơi 1.623.000đ/27, Đồ Uống 701.000đ/50, Thuốc Lá 250.000đ/11, Khác 208.000đ/8, Đồ Ăn 99.000đ/9); tháng 11 103.580.650đ/1.088 HĐ/3.372 món (getmonthsummary, đến hết 27/11). Đơn chưa hoàn tất vẫn 0: 0 đơn/0đ lúc 03:52 → 0 đơn/0đ lúc 04:02–04:03 (đã tải lại trang + cuộn trang, xác nhận 3 lần; chờ xác nhận thanh toán 0, ghi nợ 0) — ĐÃ gọi importUnpaidOrders (scannedAt 2026-11-28T04:03:00+07:00, OK, snapshot rỗng; trả về scannedAt 21:03Z). Cờ vẫn mở: 3 đơn/534.000đ biến mất 01:54→02:09 KHÔNG thành HĐ (chỉ 2/5 đơn thành HĐ #4320 52.000đ + #4321 76.000đ = 128.000đ; phần còn lại ~406.000đ vẫn chưa giải thích được, không có HĐ mới nào sau #4323; chờ xác nhận/ghi nợ 0, không có HĐ hủy) — cần hỏi quầy xác nhận; 6 đơn/514.000đ biến mất 01:19→01:32 không thành HĐ; 3 đơn/447.250đ biến mất 00:32→00:50 không thành HĐ (chỉ thêm 1 HĐ #2400004317 23.000đ; số HĐ hủy 0); đơn 50.000đ biến mất 18:27→18:32 có thể đã thành HĐ #4294 — chưa khẳng định, cần kiểm tra bill #4294; 8 đơn/622.000đ biến mất 15:58→16:06 (lời giải một phần); 6 đơn/317.000đ biến mất 15:29→15:36; 7 đơn/335.000đ biến mất 15:05→15:12; 5 đơn/235.000đ biến mất 15:18→15:23; đơn 50.000đ biến mất 11:34→11:41; 2 đơn/115.000đ biến mất 23:28→23:39; 3 đơn/263.250đ biến mất 22:47→23:00; đơn 116.000đ biến mất đêm 26/11 (02:07→02:18); 5 khoản sáng 26/11 tổng 283.000đ chưa có câu trả lời; ảnh sổ chốt Ca 1 và Ca 2 ngày 26/11 chưa gửi; hạn gói Pro 27/11 chưa xác minh dứt điểm.",
- "totals": {
-  "invoices": 54,
-  "items": 128,
-  "revenue": 4530000
- },
- "unpaid": {
-  "checked_at": "04:35 ngày 28/11/2026",
-  "orders": [],
-  "unfinished": {
-   "channels": [
-    {
-     "channel": "Tại bàn",
-     "count": 0,
-     "total": 0
-    },
-    {
-     "channel": "Mang đi",
-     "count": 0,
-     "total": 0
-    },
-    {
-     "channel": "Giao hàng",
-     "count": 0,
-     "total": 0
-    },
-    {
-     "channel": "Đối tác tích hợp",
-     "count": 0,
-     "total": 0
+  },
+  "unpaid": {
+    "checked_at": "04:50 ngày 28/11/2026",
+    "orders": [],
+    "unfinished": {
+      "channels": [
+        {
+          "channel": "Tại bàn",
+          "count": 0,
+          "total": 0
+        },
+        {
+          "channel": "Mang đi",
+          "count": 0,
+          "total": 0
+        },
+        {
+          "channel": "Giao hàng",
+          "count": 0,
+          "total": 0
+        },
+        {
+          "channel": "Đối tác tích hợp",
+          "count": 0,
+          "total": 0
+        }
+      ],
+      "count": 0,
+      "total": 0
     }
-   ],
-   "count": 0,
-   "total": 0
+  },
+  "updated_label": "04:06 ngày 28/11/2026",
+  "views": {
+    "ca1": [],
+    "ca_ngay": []
   }
- },
- "updated_label": "04:06 ngày 28/11/2026",
- "views": {
-  "ca1": [],
-  "ca_ngay": []
- }
 }
